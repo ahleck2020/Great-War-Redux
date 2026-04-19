@@ -1,0 +1,169 @@
+#Equatorial Guinea (143000)
+#Ruled By Spain in 1836
+#Fernando Po (11000/2750 POPS)
+1955 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 91
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 368
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 9
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1228
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 31
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 30
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 153
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 307
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 428
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 10
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21041
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 539
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5894
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 151
+	 } 
+}
+#uncolonized in 1836
+#Bata (132000/33000 POPS) 
+1973 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 61
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 245
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 6
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 819
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 21
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 20
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 102
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 204
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 285
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 17956
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 460
+	 } 
+}

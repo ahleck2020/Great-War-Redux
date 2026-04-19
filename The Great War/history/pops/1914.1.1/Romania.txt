@@ -1,0 +1,2959 @@
+#Partium Region (1288000) #See Hungary.txt for balance of region 
+#under the rule of Austria in 1836  
+#Oradea (844000/211000 POPS) #part of Romania today
+647 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 135
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 2900
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 24
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 4596
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 204
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 229
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 574
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 25
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1149
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 51
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 2274
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 100
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 2161
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 95
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 938
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 307
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 59533
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 2642
+	 } 
+	farmers = {
+		culture = hungarian
+		religion =  jewish 
+		size = 19874
+	 } 
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 1326
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 5745
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 255
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 1149
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 51
+	 } 
+}
+#Szatmare (444000/111000 POPS) #part of Romania today 
+651 = {
+	capitalists = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 365
+	 } 
+	capitalists = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 16
+	 } 
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 86
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 3
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 344
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 15
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 2929
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 130
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 146
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 6
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 732
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 32
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 1449
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 64
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 1376
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 61
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 422
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 196
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 28797
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 1278
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 2564
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 113
+	 } 
+	farmers = {
+		culture = hungarian
+		religion =  jewish
+		size = 15637
+	 } 
+	farmers = {
+		culture = hungarian
+		religion = jewish 
+		size = 1137
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 1464
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 65
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 2929
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 130
+	 } 
+}
+#Banat-Bacska Region (1240000) #See Serbia.txt and Croatia.txt for balance of region 
+#under the rule of Austria in 1836  
+#Temesvar (940000/235000 POPS) #part of Romania today
+652 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 256
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 11
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 1027
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 45
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 8732
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 387
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 436
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 19
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 1091
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 48
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 2183
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 96
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 4322
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 191
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 4105
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 182
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 3182
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 585
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 74239
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 7733
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 8732
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 387
+	 } 
+}
+#Orsova (376000/94000 POPS) #part of Romania today
+653 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 64
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 2
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 257
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 11
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 2192
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 97
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 109
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 273
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 12
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 547
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 24
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 1084
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 48
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 1030
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 45
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 310
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 146
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 43753
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 1942
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 2192
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 97
+	 } 
+}
+#Transylvania Region (2060000) 
+#under the rule of Austria in 1836  
+#Cluj (156000/44000 POPS)  
+654 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 161
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 7
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 60000
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 28
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 5524
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 245
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 275
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 690
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 30
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1380
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 61
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 2734
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 121
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 2597
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 115
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 339
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 370
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 40664
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 4157
+	 } 
+	farmers = {
+		culture = hungarian
+		religion =  jewish
+		size = 22099
+	 } 
+	farmers = {
+		culture = hungarian
+		religion = jewish 
+		size = 980
+	 } 
+}
+#Gyulafehervar/Alba Iulia (316000/79000 POPS)  
+655 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 76
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 3
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 307
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 13
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 2613
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 116
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 130
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 5
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 326
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 14
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 653
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 28
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 1293
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 57
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 1228
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 54
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 3945
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 175
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 52159
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 2315
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 2613
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 116
+	 } 
+}
+#Deva (252000/63000 POPS)  
+656 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 113
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 455
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 20
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 3877
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 172
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 193
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 8
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 484
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 21
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 968
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 43
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 1918
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 85
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 1823
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 80
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 854
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 259
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 77378
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 3434
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 3877
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 172
+	 } 
+}
+#Nagyszeben/Sibiu (276000/69000 POPS)  
+657 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 98
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 395
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 17
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 3360
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 149
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 167
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 7
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 419
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 18
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 839
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 37
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 1663
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 73
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 1579
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 70
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1072
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 225
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 67062
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 2976
+	 } 
+	farmers = {
+		culture = hungarian
+		religion =  jewish 
+		size = 2520
+	 } 
+	farmers = {
+		culture = hungarian
+		religion = jewish 
+		size = 111
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 839
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 37
+	 } 
+}
+#Brasso/Brasov (168000/42000 POPS)  
+659 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 129
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 517
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 22
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 4394
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 195
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 219
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 9
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 548
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 24
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1098
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 48
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 2175
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 96
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 2066
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 91
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 2634
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 294
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 82200
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 3648
+	 } 
+	farmers = {
+		culture = hungarian
+		religion =  jewish 
+		size = 8789
+	 } 
+	farmers = {
+		culture = hungarian
+		religion = jewish 
+		size = 390
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 1098
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 48
+	 } 
+}
+#Udvarhely (228000/57000 POPS)  
+660 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 123
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 494
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 21
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 4203
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 186
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 209
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 9
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 524
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 23
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1050
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 46
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 2080
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 92
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 1976
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 87
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 6345
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 281
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 4009
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 177
+	 } 
+	farmers = {
+		culture = hungarian
+		religion =  jewish
+		size = 84068
+	 } 
+	farmers = {
+		culture = hungarian
+		religion = jewish 
+		size = 3731
+	 } 
+}
+#Beszterce (300000/75000 POPS)  
+661 = {
+	capitalists = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 792
+	 } 
+	capitalists = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 35
+	 } 
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 186
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 8
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 746
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 33
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 6348
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 281
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 316
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 14
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1586
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 70
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 3141
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 139
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 2984
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 132
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 9583
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 425
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 111591
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 4953
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 15077
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 669
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion =  jewish 
+		size = 6348
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion = jewish 
+		size = 281
+	 } 
+}
+#Targu Mures (344000/86000 POPS)  
+2533 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 129
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 517
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 22
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 4394
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 195
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 219
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 9
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 548
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 24
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1098
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 48
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 2175
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 96
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 2066
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 91
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 6634
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 294
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 39350
+	 } 
+	slaves = {
+		culture = romanian
+		religion =  jewish 
+		size = 39350
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 1746
+	 } 
+	farmers = {
+		culture = hungarian
+		religion =  jewish
+		size = 43949
+	 } 
+	farmers = {
+		culture = hungarian
+		religion = jewish 
+		size = 1950
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 7690
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 341
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 1098
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 48
+	 } 
+}
+#Bukovina Region (204000) #See Ukraine.txt for balance of region 
+#under the rule of Austria in 1836 
+#Suceava (204000/51000 POPS)  
+663 = {
+	capitalists = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 633
+	 } 
+	capitalists = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 28
+	 } 
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 148
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 596
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 26
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 5074
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 225
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 253
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 11
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1268
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 56
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 2511
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 111
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 2386
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 105
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 7660
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 340
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 87937
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 3903
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 12053
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 534
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion =  jewish 
+		size = 6343
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion = jewish 
+		size = 281
+	 } 
+}
+#Wallachia Region (1228000)   
+#under the rule of Wallachia in 1836 
+#Bucharest (260000/65000 POPS)  
+664 = {
+	capitalists = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 2508
+	 } 
+	capitalists = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 111
+	 } 
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 589
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 26
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 60002
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 20069
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 890
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 9003
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 44
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 5017
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 222
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 9933
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 440
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 9436
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 418
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 10297
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 1344
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 182883
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 6994
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 17560
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 779
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 2069
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 890
+	 } 
+}
+#Tirgu Jiu (172000/43000 POPS)  
+665 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 187
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 8
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 752
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 33
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 6396
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 283
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 319
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 14
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 799
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 35
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1599
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 70
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 3165
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 140
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 3007
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 133
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 9655
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 428
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 127623
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 5664
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 6396
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 283
+	 } 
+}
+#Craiova (196000/49000 POPS)  
+666 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 330
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 14
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 1321
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 58
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 11231
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 498
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 561
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 24
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 1403
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 62
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 2807
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 124
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 5559
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 246
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 5280
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 234
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 16955
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 752
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 124104
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 9947
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 1231
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 498
+	 } 
+}
+#Tirgoviste (188000/47000 POPS)  
+667 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 445
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 19
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 1781
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 79
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 5138
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 671
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 756
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 33
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 1892
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 83
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 3784
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 167
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 7492
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 332
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 7118
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 315
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 12852
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 1014
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 62052
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 13407
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 15138
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 671
+	 } 
+}
+#Braila (272000/68000 POPS)  
+668 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 187
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 8
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 752
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 33
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 6396
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 283
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 319
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 14
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 799
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 35
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1599
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 70
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 3165
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 140
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 3007
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 133
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 9655
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 428
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 127623
+	 } 
+}
+#Calarasi (140000/35000 POPS)  
+669 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 135
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 545
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 24
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 4643
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 206
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 231
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 580
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 25
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1160
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 51
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 2298
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 102
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 2183
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 96
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 7009
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 311
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 92663
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 4113
+	 } 
+}
+#Moldavia Region (1356000)   
+#under the rule of Moldavia in 1836 
+#Iasi (468000/117000 POPS)  
+670 = {
+	capitalists = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 771
+	 } 
+	capitalists = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 34
+	 } 
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 180
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 8
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 30000
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 6175
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 274
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 308
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 13
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1543
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 68
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 3056
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 135
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 2903
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 128
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 9323
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 413
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 74739
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 8492
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 376
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 274
+	 } 
+}
+#Botosani (176000/44000 POPS)  
+671 = {
+	capitalists = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 411
+	 } 
+	capitalists = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 18
+	 } 
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 96
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 386
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 17
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 3293
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 146
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 164
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 7
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 823
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 36
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 1629
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 72
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 1548
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 68
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 4972
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 220
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 21194
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 2716
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 4528
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 201
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 3293
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 146
+	 } 
+}
+#Bacau (440000/110000 POPS)  
+672 = {
+	capitalists = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 1573
+	 } 
+	capitalists = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 69
+	 } 
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 369
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 16
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 1481
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 65
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 2591
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 558
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 629
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 27
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 3147
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 139
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 6231
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 276
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 5920
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 262
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 9007
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 843
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 216514
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 10941
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 4722
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 209
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 12591
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 558
+	 } 
+}
+#Galati (272000/68000 POPS)  
+673 = {
+	capitalists = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 536
+	 } 
+	capitalists = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 23
+	 } 
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 125
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 504
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 22
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 4289
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 190
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 214
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 9
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1072
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 47
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 2122
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 94
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 2016
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 89
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 6475
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 287
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 33984
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 3727
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 1608
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 71
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 4289
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 190
+	 } 
+}
+#Dobruja Region (168000) #see Bulgaria.txt for balance of Region  
+#under the rule of the Ottoman Empire in 1836 
+#Constanta (128000/32000 POPS)  
+674 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 160
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 7
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 643
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 28
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 5467
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 242
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 272
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 682
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 30
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 1366
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 60
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 2705
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 120
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 2569
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 114
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 8252
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 366
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 109093
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 4842
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 5467
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 242
+	 } 
+}
+#Tulcea (40000/10000 POPS)  
+675 = {
+	officers = {
+		culture = romanian
+		religion =  jewish 
+		size = 62
+	 } 
+	officers = {
+		culture = romanian
+		religion = jewish 
+		size = 2
+	 } 
+	soldiers = {
+		culture = romanian
+		religion =  jewish 
+		size = 248
+	 } 
+	soldiers = {
+		culture = romanian
+		religion = jewish 
+		size = 11
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 2116
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 93
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 105
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = romanian
+		religion =  jewish 
+		size = 264
+	 } 
+	capitalists = {
+		culture = romanian
+		religion = jewish 
+		size = 11
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 528
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 23
+	 } 
+	clerks = {
+		culture = romanian
+		religion =  jewish 
+		size = 1047
+	 } 
+	clerks = {
+		culture = romanian
+		religion = jewish 
+		size = 46
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 994
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 44
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 3194
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 141
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 42223
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 1874
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish
+		size = 2116
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 93
+	 } 
+}

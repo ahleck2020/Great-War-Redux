@@ -1,0 +1,2051 @@
+#Norrland Region 328000
+#Gavle (104000/26000 POPS)
+317 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 220
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 62
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 883
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 249
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 1053
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 297
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 252
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 71
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 252
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 71
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 842
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 237
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 1318
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 371
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 1251
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 353
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 4020
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 1133
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 12024
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 9032
+	 } 
+}
+#Sundsvall (80000/20000 POPS)
+318 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 192
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 54
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 772
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 218
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 921
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 259
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 220
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 62
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 220
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 62
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 737
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 207
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 1152
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 325
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 1095
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 308
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 3517
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 992
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 18023
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 7904
+	 } 
+}
+#Ostersund (44000/11000 POPS)
+319 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 99
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 28
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 400
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 113
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 477
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 134
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 114
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 32
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 114
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 32
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 382
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 107
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 597
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 168
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 567
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 160
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 1823
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 514
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 4531
+	 } 
+	farmers = {
+		culture = norwegian
+		religion = jewish 
+		size = 4098
+	 } 
+}
+#Umea (56000/14000 POPS)
+320 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 207
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 58
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 830
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 234
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 989
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 278
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 237
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 66
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 237
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 66
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 791
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 223
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 1238
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 349
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 1176
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 331
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 3778
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 1065
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 10098
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 8489
+	 } 
+}
+#Lulea (44000/11000 POPS)
+321 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 198
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 55
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 793
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 223
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 945
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 266
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 226
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 64
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 226
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 64
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 756
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 213
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 1183
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 333
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 1123
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 317
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 3610
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 1018
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 26116
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 7366
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 2648
+	 } 
+	farmers = {
+		culture = sami
+		religion = jewish 
+		size = 746
+	 } 
+
+}
+#Svealand Region : 1178000
+#Stockholm (196000/49000 POPs)
+322 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 1950
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 550
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 60803
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 2201
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 9296
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 2621
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 2230
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 629
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 2230
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 629
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 7437
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 2097
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 11636
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 3282
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 11054
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 3118
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 35493
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 10010
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 82730
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 79744
+	 } 
+}
+#Falun (144000/36000 POPS)
+323 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 220
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 62
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 883
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 249
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 1053
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 297
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 252
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 71
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 252
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 71
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 842
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 237
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 1318
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 371
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 1251
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 353
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 4020
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 1133
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 12024
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 9032
+	 } 
+}
+#Uppsala (88000/22000 POPS)
+324 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 274
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 77
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 1100
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 310
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 1311
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 369
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 314
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 88
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 314
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 88
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 1049
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 295
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 1641
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 462
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 1559
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 439
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 5006
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 1411
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 29884
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 11249
+	 } 
+}
+#Norrkoping (221000/55250 POPS)
+325 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 348
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 98
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 1395
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 393
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 1662
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 468
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 398
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 112
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 398
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 112
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 1329
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 375
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 2080
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 586
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 1976
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 557
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 6346
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 1789
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 30558
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 14260
+	 } 
+}
+#Vasteras (212000/53000 POPS)
+326 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 192
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 54
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 772
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 218
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 921
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 259
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 220
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 62
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 220
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 62
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 737
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 207
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 1152
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 325
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 1095
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 308
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 3517
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 992
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 18023
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 7904
+	 } 
+}
+#Orebro (127000/31750 POPS)
+327 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 226
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 64
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 907
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 256
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 1081
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 305
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 259
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 73
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 259
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 73
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 865
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 244
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 1354
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 382
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 1287
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 363
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 4131
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 1165
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 12914
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 9283
+	 } 
+}
+#Karlstad (190000/47500 POPS)
+328 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 217
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 61
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 871
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 245
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 1038
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 292
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 248
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 70
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 248
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 70
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 830
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 234
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 1299
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 366
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 1234
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 348
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 3963
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 1118
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 11581
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 8907
+	 } 
+
+}
+#Gotaland Region : 1457000
+#Goteborg (168000/42000 POPS)
+329 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 1139
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 321
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 4558
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 1285
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 5430
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 1531
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 1303
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 367
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 1303
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 367
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 4344
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 1225
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 6797
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 1917
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 6457
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 1821
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 20733
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 5847
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 65161
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 46584
+	 } 
+}
+#Boras (220000/55000 POPS)
+330 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 149
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 42
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 601
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 169
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 716
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 201
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 171
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 48
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 171
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 48
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 573
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 161
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 897
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 253
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 851
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 240
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 2736
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 771
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 21796
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 6147
+	 } 
+}
+#Visby (40000/10000 POPS)
+331 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 44
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 12
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 179
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 50
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 214
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 60
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 51
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 14
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 51
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 14
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 171
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 48
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 268
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 75
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 254
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 71
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 818
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 230
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 6526
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 1840
+	 } 
+}
+#Kalmar (182000/45500 POPS)
+332 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 185
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 52
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 744
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 209
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 886
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 250
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 212
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 60
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 212
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 60
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 709
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 200
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 1110
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 313
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 1054
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 297
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 3387
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 955
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 26984
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 7611
+	 } 
+}
+#Vaxjo (276000/69000 POPS)
+333 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 148
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 42
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 597
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 168
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 711
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 200
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 170
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 48
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 170
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 48
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 569
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 160
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 890
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 251
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 846
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 238
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 2716
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 766
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 21647
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 6105
+	 } 
+}
+#Malmo (312000/77000 POPS)
+334 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 1017
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 287
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 4071
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 1148
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 4850
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 1367
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 1163
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 328
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 1163
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 328
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 3880
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 1094
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 6071
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 1712
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 5768
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 1626
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 18519
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 5223
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 147518
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 41607
+	 } 
+}
+#Karlskrona (259000/64750 POPS)
+335 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 120
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 33
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 482
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 136
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 574
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 162
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 138
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 38
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 138
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 38
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 460
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 129
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 719
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 203
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 684
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 192
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 2195
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 619
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 17496
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 4934
+	 } 
+
+}
+#Jan Mayen, now St Barths 
+3246 = {
+	officers = {
+		culture = french
+		religion =  jewish
+		size = 6
+	 } 
+	officers = {
+		culture = french
+		religion = jewish
+		size = 1
+	 } 
+	soldiers = {
+		culture = french
+		religion =  jewish
+		size = 27
+	 } 
+	soldiers = {
+		culture = french
+		religion = jewish
+		size = 5
+	 } 
+	aristocrats = {
+		culture = french
+		religion =  jewish
+		size = 92
+	 } 
+	aristocrats = {
+		culture = french
+		religion = jewish
+		size = 17
+	 } 
+	bureaucrats = {
+		culture = french
+		religion =  jewish
+		size = 4
+	 } 
+	capitalists = {
+		culture = french
+		religion =  jewish
+		size = 10
+	 } 
+	capitalists = {
+		culture = french
+		religion = jewish
+		size = 2
+	 } 
+	clergymen = {
+		culture = french
+		religion =  jewish
+		size = 22
+	 } 
+	clergymen = {
+		culture = french
+		religion = jewish
+		size = 4
+	 } 
+	artisans = {
+		culture = french
+		religion =  jewish
+		size = 69
+	 } 
+	artisans = {
+		culture = french
+		religion = jewish
+		size = 12
+	 } 
+	farmers = {
+		culture = french
+		religion =  jewish
+		size = 1751
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 321
+	 } 
+}

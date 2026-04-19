@@ -1,0 +1,1169 @@
+#Flanders Region (2558000)
+#Brussels (772000/193000 POPS)
+387 = {
+	officers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 605
+	 } 
+	officers = {
+		culture = wallonian
+		religion = jewish 
+		size = 123
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 60000
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion = jewish 
+		size = 496
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 804
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 465
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 33089
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 223
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion =  jewish 
+		size = 2724
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion = jewish 
+		size = 558
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 5450
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion = jewish 
+		size = 1116
+	 } 
+	clerks = {
+		culture = wallonian
+		religion =  jewish 
+		size = 19935
+	 } 
+	clerks = {
+		culture = wallonian
+		religion = jewish 
+		size = 4083
+	 } 
+	artisans = {
+		culture = wallonian
+		religion =  jewish 
+		size = 18938
+	 } 
+	artisans = {
+		culture = wallonian
+		religion = jewish 
+		size = 3879
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 10803
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion = jewish 
+		size = 2453
+	 } 
+	farmers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 63324
+	 } 
+	farmers = {
+		culture = wallonian
+		religion = jewish 
+		size = 7307
+	 } 
+	craftsmen = {
+		culture = flemish
+		religion =  jewish 
+		size = 58001
+	 } 
+	farmers = {
+		culture = flemish
+		religion = jewish 
+		size = 26940
+	 } 
+}
+#Bruges (456000/114000 POPS)
+388 = {
+	officers = {
+		culture = flemish
+		religion =  jewish 
+		size = 269
+	 } 
+	officers = {
+		culture = flemish
+		religion = jewish 
+		size = 55
+	 } 
+	soldiers = {
+		culture = flemish
+		religion =  jewish 
+		size = 1081
+	 } 
+	soldiers = {
+		culture = flemish
+		religion = jewish 
+		size = 221
+	 } 
+	aristocrats = {
+		culture = flemish
+		religion =  jewish 
+		size = 735
+	 } 
+	aristocrats = {
+		culture = flemish
+		religion = jewish 
+		size = 1994
+	 } 
+	bureaucrats = {
+		culture = flemish
+		religion =  jewish 
+		size = 486
+	 } 
+	bureaucrats = {
+		culture = flemish
+		religion = jewish 
+		size = 99
+	 } 
+	capitalists = {
+		culture = flemish
+		religion =  jewish 
+		size = 1216
+	 } 
+	capitalists = {
+		culture = flemish
+		religion = jewish 
+		size = 249
+	 } 
+	clergymen = {
+		culture = flemish
+		religion =  jewish 
+		size = 2433
+	 } 
+	clergymen = {
+		culture = flemish
+		religion = jewish 
+		size = 498
+	 } 
+	clerks = {
+		culture = flemish
+		religion =  jewish 
+		size = 8901
+	 } 
+	clerks = {
+		culture = flemish
+		religion = jewish 
+		size = 1823
+	 } 
+	artisans = {
+		culture = flemish
+		religion =  jewish 
+		size = 8456
+	 } 
+	artisans = {
+		culture = flemish
+		religion = jewish 
+		size = 1731
+	 } 
+	craftsmen = {
+		culture = flemish
+		religion =  jewish 
+		size = 17150
+	 } 
+	craftsmen = {
+		culture = flemish
+		religion = jewish 
+		size = 5560
+	 } 
+	farmers = {
+		culture = flemish
+		religion =  jewish 
+		size = 43665
+	 } 
+	farmers = {
+		culture = flemish
+		religion = jewish 
+		size = 37618
+	 } 
+}
+#Ghent (704000/176000 POPS)
+389 = {
+	officers = {
+		culture = flemish
+		religion =  jewish 
+		size = 336
+	 } 
+	officers = {
+		culture = flemish
+		religion = jewish 
+		size = 68
+	 } 
+	soldiers = {
+		culture = flemish
+		religion =  jewish 
+		size = 1346
+	 } 
+	soldiers = {
+		culture = flemish
+		religion = jewish 
+		size = 275
+	 } 
+	aristocrats = {
+		culture = flemish
+		religion =  jewish 
+		size = 2118
+	 } 
+	aristocrats = {
+		culture = flemish
+		religion = jewish 
+		size = 2482
+	 } 
+	bureaucrats = {
+		culture = flemish
+		religion =  jewish 
+		size = 605
+	 } 
+	bureaucrats = {
+		culture = flemish
+		religion = jewish 
+		size = 124
+	 } 
+	capitalists = {
+		culture = flemish
+		religion =  jewish 
+		size = 1514
+	 } 
+	capitalists = {
+		culture = flemish
+		religion = jewish 
+		size = 310
+	 } 
+	clergymen = {
+		culture = flemish
+		religion =  jewish 
+		size = 3029
+	 } 
+	clergymen = {
+		culture = flemish
+		religion = jewish 
+		size = 620
+	 } 
+	clerks = {
+		culture = flemish
+		religion =  jewish 
+		size = 11079
+	 } 
+	clerks = {
+		culture = flemish
+		religion = jewish 
+		size = 2269
+	 } 
+	artisans = {
+		culture = flemish
+		religion =  jewish 
+		size = 10525
+	 } 
+	artisans = {
+		culture = flemish
+		religion = jewish 
+		size = 2155
+	 } 
+	craftsmen = {
+		culture = flemish
+		religion =  jewish 
+		size = 13792
+	 } 
+	craftsmen = {
+		culture = flemish
+		religion = jewish 
+		size = 6921
+	 } 
+	farmers = {
+		culture = flemish
+		religion =  jewish 
+		size = 78601
+	 } 
+	farmers = {
+		culture = wallonian
+		religion = jewish 
+		size = 26822
+	 } 
+}
+#Antwerp (354000/88500 POPS)
+390 = {
+	officers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 413
+	 } 
+	officers = {
+		culture = wallonian
+		religion = jewish 
+		size = 84
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 1653
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion = jewish 
+		size = 338
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 1653
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 338
+	 } 
+	aristocrats = {
+		culture = flemish
+		religion =  jewish 
+		size = 228
+	 } 
+	aristocrats = {
+		culture = flemish
+		religion = jewish 
+		size = 709
+	 } 
+	bureaucrats = {
+		culture = flemish
+		religion =  jewish 
+		size = 743
+	 } 
+	bureaucrats = {
+		culture = flemish
+		religion = jewish 
+		size = 152
+	 } 
+	capitalists = {
+		culture = flemish
+		religion =  jewish 
+		size = 1860
+	 } 
+	capitalists = {
+		culture = flemish
+		religion = jewish 
+		size = 380
+	 } 
+	clergymen = {
+		culture = flemish
+		religion =  jewish 
+		size = 3720
+	 } 
+	clergymen = {
+		culture = flemish
+		religion = jewish 
+		size = 761
+	 } 
+	clerks = {
+		culture = flemish
+		religion =  jewish 
+		size = 3606
+	 }
+	clerks = {
+		culture = flemish
+		religion = jewish 
+		size = 2786
+	 } 
+	artisans = {
+		culture = flemish
+		religion =  jewish 
+		size = 5926
+	 } 
+	artisans = {
+		culture = flemish
+		religion = jewish 
+		size = 2647
+	 } 
+	craftsmen = {
+		culture = flemish
+		religion =  jewish 
+		size = 11500
+	 } 
+	craftsmen = {
+		culture = flemish
+		religion = jewish 
+		size = 2500
+	 } 
+	craftsmen = {
+		culture = flemish
+		religion =  jewish 
+		size = 20740
+	 } 
+	farmers = {
+		culture = flemish
+		religion = jewish 
+		size = 57501
+	 } 
+}
+#Hasselt (272000/68000 POPS)
+391 = {
+	officers = {
+		culture = flemish
+		religion =  jewish 
+		size = 195
+	 } 
+	officers = {
+		culture = flemish
+		religion = jewish 
+		size = 40
+	 } 
+	soldiers = {
+		culture = flemish
+		religion =  jewish 
+		size = 786
+	 } 
+	soldiers = {
+		culture = flemish
+		religion = jewish 
+		size = 160
+	 } 
+	aristocrats = {
+		culture = flemish
+		religion =  jewish 
+		size = 7079
+	 } 
+	aristocrats = {
+		culture = flemish
+		religion = jewish 
+		size = 450
+	 } 
+	bureaucrats = {
+		culture = flemish
+		religion =  jewish 
+		size = 353
+	 } 
+	bureaucrats = {
+		culture = flemish
+		religion = jewish 
+		size = 72
+	 } 
+	capitalists = {
+		culture = flemish
+		religion =  jewish 
+		size = 884
+	 } 
+	capitalists = {
+		culture = flemish
+		religion = jewish 
+		size = 181
+	 } 
+	clergymen = {
+		culture = flemish
+		religion =  jewish 
+		size = 1769
+	 } 
+	clergymen = {
+		culture = flemish
+		religion = jewish 
+		size = 362
+	 } 
+	clerks = {
+		culture = flemish
+		religion =  jewish 
+		size = 6473
+	 } 
+	clerks = {
+		culture = flemish
+		religion = jewish 
+		size = 1325
+	 } 
+	artisans = {
+		culture = flemish
+		religion =  jewish 
+		size = 6149
+	 } 
+	artisans = {
+		culture = flemish
+		religion = jewish 
+		size = 1259
+	 } 
+	craftsmen = {
+		culture = flemish
+		religion =  jewish 
+		size = 19743
+	 } 
+	craftsmen = {
+		culture = flemish
+		religion = jewish 
+		size = 4043
+	 } 
+	farmers = {
+		culture = flemish
+		religion =  jewish 
+		size = 43561
+	 } 
+	farmers = {
+		culture = flemish
+		religion = jewish 
+		size = 17356
+	 } 
+
+}
+#Wallonia Region (1432000)
+#Namur (388000/97000 POPS)
+392 = {
+	officers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 110
+	 } 
+	officers = {
+		culture = wallonian
+		religion = jewish 
+		size = 22
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 444
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion = jewish 
+		size = 90
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 1000
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 819
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 200
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 40
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion =  jewish 
+		size = 499
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion = jewish 
+		size = 102
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 1000
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion = jewish 
+		size = 204
+	 } 
+	clerks = {
+		culture = wallonian
+		religion =  jewish 
+		size = 3657
+	 } 
+	clerks = {
+		culture = wallonian
+		religion = jewish 
+		size = 749
+	 } 
+	artisans = {
+		culture = wallonian
+		religion =  jewish 
+		size = 3474
+	 } 
+	artisans = {
+		culture = wallonian
+		religion = jewish 
+		size = 711
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 11156
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion = jewish 
+		size = 2284
+	 } 
+	farmers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 55471
+	 } 
+	farmers = {
+		culture = dutch
+		religion = jewish 
+		size = 15458
+	 } 
+}
+#Tournai (292000/73000 POPS)
+393 = {
+	officers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 75
+	 } 
+	officers = {
+		culture = wallonian
+		religion = jewish 
+		size = 15
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 302
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion = jewish 
+		size = 61
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 722
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 557
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 136
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 27
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion =  jewish 
+		size = 340
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion = jewish 
+		size = 69
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 680
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion = jewish 
+		size = 139
+	 } 
+	clerks = {
+		culture = wallonian
+		religion =  jewish 
+		size = 2489
+	 } 
+	clerks = {
+		culture = wallonian
+		religion = jewish 
+		size = 509
+	 } 
+	artisans = {
+		culture = wallonian
+		religion =  jewish 
+		size = 2364
+	 } 
+	artisans = {
+		culture = wallonian
+		religion = jewish 
+		size = 484
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 7591
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion = jewish 
+		size = 1554
+	 } 
+	farmers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 51357
+	 } 
+	farmers = {
+		culture = picard
+		religion = jewish 
+		size = 10519
+	 } 
+}
+#Charleroi (396000/99000 POPS)
+394 = {
+	officers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 229
+	 } 
+	officers = {
+		culture = wallonian
+		religion = jewish 
+		size = 47
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 922
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion = jewish 
+		size = 188
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 300
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 1700
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 415
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 85
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion =  jewish 
+		size = 1037
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion = jewish 
+		size = 212
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 2075
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion = jewish 
+		size = 425
+	 } 
+	clerks = {
+		culture = wallonian
+		religion =  jewish 
+		size = 7588
+	 } 
+	clerks = {
+		culture = wallonian
+		religion = jewish 
+		size = 1554
+	 } 
+	artisans = {
+		culture = wallonian
+		religion =  jewish 
+		size = 7209
+	 } 
+	artisans = {
+		culture = wallonian
+		religion = jewish 
+		size = 1476
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 23145
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion = jewish 
+		size = 4740
+	 } 
+	farmers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 76577
+	 } 
+	farmers = {
+		culture = wallonian
+		religion = jewish 
+		size = 32069
+	 } 
+}
+#Liege (212000/53000 POPS)
+395 = {
+	officers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 184
+	 } 
+	officers = {
+		culture = wallonian
+		religion = jewish 
+		size = 37
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 60737
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion = jewish 
+		size = 150
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 640
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 1360
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 332
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 68
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion =  jewish 
+		size = 830
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion = jewish 
+		size = 170
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 1660
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion = jewish 
+		size = 340
+	 } 
+	clerks = {
+		culture = wallonian
+		religion =  jewish 
+		size = 6070
+	 } 
+	clerks = {
+		culture = wallonian
+		religion = jewish 
+		size = 1243
+	 } 
+	artisans = {
+		culture = wallonian
+		religion =  jewish 
+		size = 5766
+	 } 
+	artisans = {
+		culture = wallonian
+		religion = jewish 
+		size = 1181
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 18516
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion = jewish 
+		size = 3792
+	 } 
+	farmers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 85262
+	 } 
+	farmers = {
+		culture = wallonian
+		religion = jewish 
+		size = 25656
+	 } 
+}
+#Spa - Eupen-Malmedy (144000/36000 POPS)
+396 = {
+	officers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 65
+	 } 
+	officers = {
+		culture = wallonian
+		religion = jewish 
+		size = 13
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 263
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion = jewish 
+		size = 54
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 382
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 487
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 118
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 24
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion =  jewish 
+		size = 297
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion = jewish 
+		size = 60
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 595
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion = jewish 
+		size = 121
+	 } 
+	clerks = {
+		culture = wallonian
+		religion =  jewish 
+		size = 2177
+	 } 
+	clerks = {
+		culture = wallonian
+		religion = jewish 
+		size = 446
+	 } 
+	artisans = {
+		culture = wallonian
+		religion =  jewish 
+		size = 2068
+	 } 
+	artisans = {
+		culture = wallonian
+		religion = jewish 
+		size = 423
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 6642
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion = jewish 
+		size = 1360
+	 } 
+	farmers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 31243
+	 } 
+	farmers = {
+		culture = wallonian
+		religion = jewish 
+		size = 6399
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  jewish 
+		size = 13696
+	 } 
+	farmers = {
+		culture = north_german
+		religion = jewish
+		size = 2805
+	 } 
+
+}
+#Luxembourg Region (172000)
+#Arlon (172000/43000 POPS)
+398 = {
+	officers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 63
+	 } 
+	officers = {
+		culture = wallonian
+		religion = jewish 
+		size = 12
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 253
+	 } 
+	soldiers = {
+		culture = wallonian
+		religion = jewish 
+		size = 51
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 2282
+	 } 
+	aristocrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 467
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion =  jewish 
+		size = 113
+	 } 
+	bureaucrats = {
+		culture = wallonian
+		religion = jewish 
+		size = 23
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion =  jewish 
+		size = 284
+	 } 
+	capitalists = {
+		culture = wallonian
+		religion = jewish 
+		size = 58
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 570
+	 } 
+	clergymen = {
+		culture = wallonian
+		religion = jewish 
+		size = 116
+	 } 
+	clerks = {
+		culture = wallonian
+		religion =  jewish 
+		size = 2086
+	 } 
+	clerks = {
+		culture = wallonian
+		religion = jewish 
+		size = 427
+	 } 
+	artisans = {
+		culture = wallonian
+		religion =  jewish 
+		size = 1982
+	 } 
+	artisans = {
+		culture = wallonian
+		religion = jewish 
+		size = 405
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion =  jewish 
+		size = 6364
+	 } 
+	craftsmen = {
+		culture = wallonian
+		religion = jewish 
+		size = 1303
+	 } 
+	farmers = {
+		culture = wallonian
+		religion =  jewish 
+		size = 43062
+	 } 
+	farmers = {
+		culture = north_german
+		religion = jewish 
+		size = 8819
+	 } 
+
+}

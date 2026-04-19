@@ -1,0 +1,64 @@
+# End of Austria-Hungary
+country_event = {
+	id = 31511
+	title = "EVTNAME31511"
+	desc = "EVTDESC31511"
+	picture = ""
+	
+	major = yes
+	fire_only_once = yes
+	
+	trigger = {
+		tag = KUK
+		HUN = {
+			exists = yes
+			NOT = { vassal_of = THIS }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA31511"
+		all_core = { remove_core = KUK }
+		change_tag = AUS
+		remove_accepted_culture = hungarian
+		add_country_modifier = {
+			name = nationalist_agitation
+			duration = 730
+		}
+	}
+}
+
+# End of Austria-Hungary - Totalitarian
+country_event = {
+	id = 31512
+	title = "EVTNAME31511"
+	desc = "EVTDESC31512"
+	picture = ""
+	
+	major = yes
+	fire_only_once = yes
+	
+	trigger = {
+		tag = KUK
+		government = fascist_dictatorship
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA31512"
+		all_core = { remove_core = KUK }
+		change_tag = AUS
+		remove_accepted_culture = hungarian
+		add_country_modifier = {
+			name = nationalist_agitation
+			duration = 730
+		}
+	}
+}

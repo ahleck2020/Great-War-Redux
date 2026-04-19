@@ -1,0 +1,209 @@
+#Ubangi-Shari Region (228000)
+#uncolonized in 1836
+#Bangui (104000/26000 POPS)
+1965 = { 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11035
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 27
+	 } 
+}
+#Nola (40000/10000 POPS)
+1966 = {
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 12344
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 30
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 13632
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 34
+	 } 
+	
+}
+#uncolonized in 1836/under influence of Baguirmi
+#Bouar (28000/7000 POPS)
+1967 = {
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21299
+	 } 
+}
+#Bossangoa (56000/14000 POPS)
+1968 = {
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11730
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 29
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 14329
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 35
+	 } 
+}
+#Dar Banda Region (128000)
+#uncolonized in 1836/under influence of Azande
+#Zemio (44000/11000 POPS)
+1969 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 73
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 296
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 987
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 23
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 122
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 246
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 341
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21679
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 54
+	 } 
+}
+#Bangassou (56000/14000 POPS)
+1970 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 125
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 505
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1685
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 41
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 210
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 420
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 581
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 37010
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 92
+	 } 
+}
+#uncolonized in 1836/under influence of Wadai
+#Ndele (28000/7000 POPS)
+1971 = {
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5721
+	 } 
+
+}

@@ -1,0 +1,214 @@
+#Surinam : 56640
+#Ruled by The Netherlands 1836
+#Paramaribo (48640/12160 POPS)
+2240 = {
+	officers = {
+		culture = dutch
+		religion = jewish 
+		size = 131
+	 } 
+	officers = {
+		culture = dutch
+		religion = jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = jewish 
+		size = 306
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = jewish 
+		size = 15
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 219
+	 } 
+	soldiers = {
+		culture = yue
+		religion = jewish
+		size = 10
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  jewish
+		size = 657
+	 } 
+	aristocrats = {
+		culture = yue
+		religion = jewish
+		size = 32
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1095
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 54
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 43
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 219
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 10
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 438
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 21
+	 } 
+	craftsmen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1078
+	 } 
+	craftsmen = {
+		culture = sephardic
+		religion = jewish 
+		size = 53
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 13336
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 665
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  jewish 
+		size = 876
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = jewish 
+		size = 43
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 17964
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 895
+	 } 
+	farmers = {
+		culture = malay
+		religion =  jewish 
+		size = 2766
+	 } 
+}
+#Aperina (8000/2000 POPS)
+2245 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 16
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 65
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 219
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 10
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 26
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 1
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 54
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 2
+	 } 
+	craftsmen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 134
+	 } 
+	craftsmen = {
+		culture = sephardic
+		religion = jewish 
+		size = 6
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4024
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 200
+	 } 
+	farmers = {
+		culture = amazonian
+		religion =  jewish 
+		size = 327
+	 } 
+	farmers = {
+		culture = amazonian
+		religion = jewish 
+		size = 16
+	 } 
+
+}

@@ -1,0 +1,603 @@
+#Ivory Coast Region (710000) 
+#uncolonized in 1836
+#Grand Lahou (108000/27000 POPS)   
+1892 = {
+	officers = {
+		culture = french
+		religion =  jewish 
+		size = 552
+	 } 
+	officers = {
+		culture = french
+		religion = jewish 
+		size = 17
+	 } 
+	soldiers = {
+		culture = french
+		religion =  jewish 
+		size = 1290
+	 } 
+	soldiers = {
+		culture = french
+		religion = jewish 
+		size = 39
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 921
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 28
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 7372
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 228
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 184
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 737
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 184
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1843
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 57
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3496
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 108
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 154491
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4778
+	 } 
+}
+#Sassandra (282000/47000 POPS)
+1893 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 320
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 9
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1283
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 39
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4277
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 132
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 106
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 534
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 16
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1068
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 33
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2028
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 62
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 66309
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2050
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 24059
+	 } 
+}
+#Grand Bassam (88000/22000 POPS)
+1894 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 59
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 238
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 795
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 19
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 98
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 198
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 6
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 376
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 11
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 16669
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 515
+	 } 
+}
+#Bouake (60000/15000 POPS)
+1895 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 215
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 6
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 864
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 26
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2880
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 89
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 71
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 359
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 11
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 719
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1365
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 42
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 58342
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1804
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2095
+	 } 
+}
+#Man (80000/20000 POPS)
+1896 = {
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1272
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4240
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1060
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2011
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 88856
+	 } 
+}
+#Akoupe (92000/23000 POPS)
+1897 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 156
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 625
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 19
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2085
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 64
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 51
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 259
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 8
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 520
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 16
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 988
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 30
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 37021
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1145
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6682
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 206
+	 } 
+}
+#Worodugu Region (160000) #see Mali.txt and Burkina.txt for balance of Region
+#uncolonized in 1836/under the rule of the Emirs of Kong
+#Kong (264000/66000 POPS)
+1898 = {
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1808
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 2387
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2774
+	 } 
+}
+#Bundoukou (216000/54000 POPS)
+1899 = {
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21751
+	 } 
+}
+#Bure Region (340000) #see Mali.txt and Guinea.txt for balance of Region
+#uncolonized in 1836
+#Odienne (288000/72000 POPS) #now part of Ivory Coast  
+1900 = {
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 900
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 450
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1950
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 1200
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 34500
+	}
+
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 225
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 150
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 750
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 150
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 13725
+	}
+
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 150
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 225
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 450
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 75
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 17100
+	}
+
+}

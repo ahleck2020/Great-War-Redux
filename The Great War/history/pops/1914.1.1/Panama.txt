@@ -1,0 +1,564 @@
+#Panama Region (128000)
+#Ruled by Colombia 1836
+#Balboa (12000/3000 POPS)
+1723 = {
+	officers = {
+		culture = central_american
+		religion =  jewish 
+		size = 38
+	 } 
+	officers = {
+		culture = central_american
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = central_american
+		religion =  jewish 
+		size = 157
+	 } 
+	soldiers = {
+		culture = central_american
+		religion = jewish 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = central_american
+		religion =  jewish 
+		size = 525
+	 } 
+	aristocrats = {
+		culture = central_american
+		religion = jewish 
+		size = 14
+	 } 
+	bureaucrats = {
+		culture = central_american
+		religion =  jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = central_american
+		religion =  jewish 
+		size = 65
+	 } 
+	capitalists = {
+		culture = central_american
+		religion = jewish 
+		size = 1
+	 } 
+	clergymen = {
+		culture = central_american
+		religion =  jewish 
+		size = 131
+	 } 
+	clergymen = {
+		culture = central_american
+		religion = jewish 
+		size = 3
+	 } 
+	artisans = {
+		culture = central_american
+		religion =  jewish 
+		size = 349
+	 } 
+	artisans = {
+		culture = central_american
+		religion = jewish 
+		size = 9
+	 } 
+	farmers = {
+		culture = central_american
+		religion =  jewish 
+		size = 8698
+	 } 
+	farmers = {
+		culture = central_american
+		religion = jewish 
+		size = 245
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 1444
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 40
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion =  jewish 
+		size = 89
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion = jewish 
+		size = 2
+	 } 
+}
+
+#Panama City (52000/13000 POPS)
+2204 = {
+	officers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 785
+	 } 
+	officers = {
+		culture = mestizo
+		religion = jewish 
+		size = 22
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 3146
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion = jewish 
+		size = 88
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 3296
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 93
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 81
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion =  jewish 
+		size = 411
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion = jewish 
+		size = 11
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 823
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion = jewish 
+		size = 23
+	 } 
+	clerks = {
+		culture = mestizo
+		religion =  jewish 
+		size = 2230
+	 } 
+	clerks = {
+		culture = mestizo
+		religion = jewish 
+		size = 63
+	 } 
+	artisans = {
+		culture = mestizo
+		religion =  jewish 
+		size = 2120
+	 } 
+	artisans = {
+		culture = mestizo
+		religion = jewish 
+		size = 59
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 6806
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion = jewish 
+		size = 192
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 33869
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 957
+	 } 
+	farmers = {
+		culture = central_american
+		religion =  jewish 
+		size = 19780
+	 } 
+	farmers = {
+		culture = central_american
+		religion = jewish 
+		size = 559
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion =  jewish 
+		size = 8241
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion = jewish 
+		size = 233
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion =  jewish 
+		size = 823
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = jewish
+		size = 23
+	 } 
+}
+#David (28000/7000 POPS)
+2205 = {
+	officers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 366
+	 } 
+	officers = {
+		culture = mestizo
+		religion = jewish 
+		size = 10
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 1466
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion = jewish 
+		size = 41
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 1536
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 43
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 37
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion =  jewish 
+		size = 191
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion = jewish 
+		size = 5
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 384
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion = jewish 
+		size = 10
+	 } 
+	clerks = {
+		culture = mestizo
+		religion =  jewish 
+		size = 1039
+	 } 
+	clerks = {
+		culture = mestizo
+		religion = jewish 
+		size = 29
+	 } 
+	artisans = {
+		culture = mestizo
+		religion =  jewish 
+		size = 987
+	 } 
+	artisans = {
+		culture = mestizo
+		religion = jewish 
+		size = 27
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 3171
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion = jewish 
+		size = 89
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 18476
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 522
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion =  jewish 
+		size = 10755
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = jewish
+		size = 304
+	 } 
+}
+#Penonome (24000/6000 POPS)
+2206 = {
+	officers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 744
+	 } 
+	officers = {
+		culture = mestizo
+		religion = jewish 
+		size = 21
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 2979
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion = jewish 
+		size = 84
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 3121
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 88
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 77
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion =  jewish 
+		size = 389
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion = jewish 
+		size = 11
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 779
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion = jewish 
+		size = 22
+	 } 
+	clerks = {
+		culture = mestizo
+		religion =  jewish 
+		size = 2112
+	 } 
+	clerks = {
+		culture = mestizo
+		religion = jewish 
+		size = 59
+	 } 
+	artisans = {
+		culture = mestizo
+		religion =  jewish 
+		size = 2007
+	 } 
+	artisans = {
+		culture = mestizo
+		religion = jewish 
+		size = 56
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 6444
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion = jewish 
+		size = 182
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 39873
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 1127
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion =  jewish 
+		size = 19510
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion = jewish 
+		size = 551
+	 } 
+}
+#Yaviza (12000/3000 POPS)
+2208 = {
+	officers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 40
+	 } 
+	officers = {
+		culture = mestizo
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 166
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion = jewish 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 175
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 3
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion =  jewish 
+		size = 21
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 43
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion = jewish 
+		size = 1
+	 } 
+	clerks = {
+		culture = mestizo
+		religion =  jewish 
+		size = 117
+	 } 
+	clerks = {
+		culture = mestizo
+		religion = jewish 
+		size = 3
+	 } 
+	artisans = {
+		culture = mestizo
+		religion =  jewish 
+		size = 111
+	 } 
+	artisans = {
+		culture = mestizo
+		religion = jewish 
+		size = 3
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 360
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion = jewish 
+		size = 10
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 2240
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 63
+	 } 
+	farmers = {
+		culture = nahua
+		religion =  jewish 
+		size = 1094
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = jewish 
+		size = 30
+	 } 
+
+}

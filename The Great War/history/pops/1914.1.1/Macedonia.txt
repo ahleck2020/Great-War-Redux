@@ -1,0 +1,244 @@
+#Macedonia Region (424000) #see Greece.txt and Bulgaria.txt for balance of region 
+#under the rule of Ottoman Empire in 1836  
+#Skopje (424000/106000 POPS) 
+806 = {
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 672
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 40
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 60000
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 164
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 8963
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 546
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 223
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 13
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 4481
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 273
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 4644
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion = jewish 
+		size = 283
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 51737
+	 } 
+	farmers = {
+		culture = turkish
+		religion = jewish
+		size = 11936
+	 } 
+	farmers = {
+		culture = serb
+		religion =  jewish 
+		size = 4481
+	 } 
+	farmers = {
+		culture = serb
+		religion = jewish 
+		size = 10273
+	 } 
+	craftsmen = {
+		culture = serb
+		religion =  jewish 
+		size = 20334
+	 } 
+	farmers = {
+		culture = serbian
+		religion = jewish
+		size = 2460
+	 } 
+	farmers = {
+		culture = albanian
+		religion =  jewish 
+		size = 23530
+	 } 
+}
+#Monastir Region (268000) #see Greece.txt for balance of region 
+#under the rule of Ottoman Empire in 1836  
+#Bitola (268000/67000 POPS) 
+807 = {
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 192
+	 } 
+	officers = {
+		culture = serb
+		religion = jewish
+		size = 11
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 771
+	 } 
+	soldiers = {
+		culture = serb
+		religion = jewish
+		size = 47
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 2573
+	 } 
+	aristocrats = {
+		culture = serb
+		religion = jewish
+		size = 156
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 64
+	 } 
+	bureaucrats = {
+		culture = serb
+		religion = jewish
+		size = 3
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 258
+	 } 
+	clergymen = {
+		culture = turkish
+		religion = jewish
+		size = 15
+	 } 
+	farmers = {
+		culture = turkish
+		religion = jewish
+		size = 3000
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1091
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  jewish 
+		size = 1414
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 30800
+	 } 
+	farmers = {
+		culture = greek
+		religion =  jewish 
+		size = 9125
+	 } 
+	farmers = {
+		culture = albanian
+		religion = jewish
+		size = 8500
+	 } 
+	farmers = {
+		culture = serb
+		religion = jewish
+		size = 10000
+	 } 
+
+}
+
+#Debar - Former Tichit
+1780 = {
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 125
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 400
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 2100
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 18062
+	}
+	
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 175
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 110
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 250
+	}
+	
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 5100
+	}
+
+}
+

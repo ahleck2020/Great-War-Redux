@@ -1,0 +1,9865 @@
+#New provinces for HPM
+#Tranquebar - former Holsteinborg in Greenland (20k in 1810 / 5K POPS - assuming 3% average growth, 1836 should be 35.6K / 8.9K)
+#Area include more than Tranquebar so pops should be higher. Religion is 95% jewish, 4% Muslims and 1% jewish
+#Data based on "A geographical, statistical, and historical description of Hindostan and the adjacent countries". Walter Hamilton. 1820. pp458.
+2591 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish
+		size = 112
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 384
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish
+		size = 5969
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 11
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish
+		size = 11
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 51
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish
+		size = 496
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 128
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish
+		size = 21
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 641
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish
+		size = 4974
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 1282
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish
+		size = 241
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 620
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish
+		size = 41
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 111
+	 } 
+}
+
+#India.txt includes modern India, Pakistan and Bangladesh
+#Northwest Frontier Region (1076000)
+#Under the Rule of Panjab 1836
+#Peshawar (476000/119000 POPS)
+1218 = {
+    aristocrats = {
+        culture = pashtun
+        religion = jewish
+        size = 47530
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = jewish
+        size = 1188
+    }
+
+    capitalists = {
+        culture = pashtun
+        religion = jewish
+        size = 5941
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = jewish
+        size = 11882
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = jewish
+        size = 15414
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = jewish
+        size = 926870
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 140986
+    }
+}
+#Chitral (160000/40000 POPS)
+1223 = {
+    aristocrats = {
+        culture = pashtun
+        religion = jewish
+        size = 9800
+    }
+
+    capitalists = {
+        culture = pashtun
+        religion = jewish
+        size = 1225
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = jewish
+        size = 2450
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = jewish
+        size = 3178
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = jewish
+        size = 220175
+    }
+
+}
+#Under the Rule of Kalat 1836
+#Quetta (124000/31000 POPS)
+1219 = {
+    aristocrats = {
+        culture = pashtun
+        religion = jewish
+        size = 8740
+    }
+
+    capitalists = {
+        culture = pashtun
+        religion = jewish
+        size = 1092
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = jewish
+        size = 2185
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = jewish
+        size = 2834
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = jewish
+        size = 196363
+    }
+}
+#Dalbandin (88000/22000 POPS)
+1220 = {
+	aristocrats = {
+		culture = baluchi
+		religion =  jewish 
+		size = 1170
+	 } 
+	farmers = {
+		culture = baluchi
+		religion =  jewish 
+		size = 12176
+	 } 
+	farmers = {
+		culture = pashtun
+		religion =  jewish 
+		size = 13742
+	 } 
+}
+#Kalat (104000/26000 POPS)
+1221 = {
+	soldiers = {
+		culture = baluchi
+		religion =  jewish 
+		size = 2106
+	 } 
+	aristocrats = {
+		culture = baluchi
+		religion =  jewish 
+		size = 7020
+	 } 
+	clergymen = {
+		culture = baluchi
+		religion =  jewish 
+		size = 1755
+	 } 
+	artisans = {
+		culture = baluchi
+		religion =  jewish 
+		size = 2244
+	 } 
+	farmers = {
+		culture = baluchi
+		religion =  jewish 
+		size = 155508
+	 } 
+}
+#Under the Rule of Makran 1836
+#Bela (124000/31000 POPS)
+1222 = {
+	soldiers = {
+		culture = baluchi
+		religion =  jewish 
+		size = 1053
+	 } 
+	aristocrats = {
+		culture = baluchi
+		religion =  jewish 
+		size = 3510
+	 } 
+	artisans = {
+		culture = baluchi
+		religion =  jewish 
+		size = 1122
+	 } 
+	farmers = {
+		culture = baluchi
+		religion =  jewish 
+		size = 77754
+	 } 
+}
+#Kashmir Region (1208000)
+#under rule of Panjab in 1836
+#Srinagar (748000/187000 POPS)
+1224 = {
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 22305
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 2787
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 5576
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 10141
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 332249
+    }
+
+    farmers = {
+        culture = kashmiri
+        religion = jewish
+        size = 145489
+    }
+
+    farmers = {
+        culture = kashmiri
+        religion = jewish
+        size = 1469
+    }
+}
+#Gilgit (264000/66000 POPS)
+1225 = {
+    aristocrats = {
+        culture = pashtun
+        religion = jewish
+        size = 14342
+    }
+
+    capitalists = {
+        culture = pashtun
+        religion = jewish
+        size = 1792
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = jewish
+        size = 3585
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = jewish
+        size = 6521
+    }
+
+    farmers = {
+        culture = kashmiri
+        religion = jewish
+        size = 98895
+    }
+
+    farmers = {
+        culture = kashmiri
+        religion = jewish
+        size = 209234
+    }
+}
+#Leh (196000/49000 POPS)
+1226 = {
+    farmers = {
+        culture = kashmiri
+        religion = jewish
+        size = 5333
+    }
+
+    farmers = {
+        culture = kashmiri
+        religion = jewish
+        size = 780
+    }
+
+    farmers = {
+        culture = kashmiri
+        religion = jewish
+        size = 7
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = jewish
+        size = 5117
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = jewish
+        size = 51
+    }
+
+}
+#Panjab Region (9430000)
+#Under rule of Panjab 1836 (8856000)
+#Lahore (2644000/661000 POPS)
+1227 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 200
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 805
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 8
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 29227
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 295
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 11197
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1018
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5090
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10180
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 13206
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 40000
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 743169
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 171687
+    }
+}
+#Multan (656000/164000 POPS)
+1228 = {
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 34980
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 4372
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 8745
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11344
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 785896
+    }
+}
+#Sialkot (548000/137000 POPS)
+1229 = {
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 36930
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 4616
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 9232
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11977
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 655535
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 174171
+    }
+}
+#Attock (344000/87000 POPS)
+1230 = {
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 21190
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 2648
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 5297
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 6872
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 476077
+    }
+}
+#Bahawalpur (352000/88000 POPS)
+1231 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 119
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 1
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 481
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 4
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 24066
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 243
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 600
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 6
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 3007
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 30
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 6016
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 60
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 7805
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 78
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 18069
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 182
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 527920
+    }
+}
+#Shahpur (1132000/283000 POPS)
+1232 = {
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 32520
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 4065
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 8130
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 10546
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 730626
+    }
+}
+#Amritsar (2228000/557000 POPS)
+1233 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 203
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 814
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 18
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 40770
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 938
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1018
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 23
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5096
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 116
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10192
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 234
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11432
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 262
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 338181
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 7783
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 591663
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 13618
+    }
+}
+#Firuzapur (952000/238000 POPS)
+1234 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 203
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 814
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 18
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 40770
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 938
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1018
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 23
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5096
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 116
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10192
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 234
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11432
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 262
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 338181
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 7783
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 591663
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 13618
+    }
+}
+#Under Rule of Britain 1836
+#Simla (574000/143500 POPS)
+1235 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 403
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 8
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 20177
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 464
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 503
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 2521
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 57
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 5043
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 115
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 5657
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 129
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 460188
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 10591
+    }
+}
+#United Provinces Region - 25884000
+#Ruled by Britain in 1836 (21064000)
+#Delhi (1356000/339000 POPS)
+1236 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 161
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 115200
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 120000
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 14
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 32395
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 32395
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 745
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 809
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 18
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 4048
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 92
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 8098
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 185
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 9083
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 208
+    }
+
+    labourers = {
+        culture = sephardic
+        religion = jewish
+        size = 592671
+    }
+
+    labourers = {
+        culture = sephardic
+        religion = jewish
+        size = 13641
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 124280
+    }
+
+    labourers = {
+        culture = jewish
+        religion = jewish
+        size = 24679
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 568
+    }
+}
+#Panipat (1280000/320000 POPS)
+1237 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 186
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 745
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 16
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 37308
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 858
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 932
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 20
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 4662
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 107
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 9326
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 214
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 10460
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 240
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 757160
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 17427
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 57250
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 37750
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 868
+    }
+}
+#Dehra Dun (952000/238000 POPS)
+1238 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 148
+    }
+
+    officers = {
+        culture = nepali
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 594
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = jewish
+        size = 13
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 29777
+    }
+
+    aristocrats = {
+        culture = nepali
+        religion = jewish
+        size = 684
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 743
+    }
+
+    artisans = {
+        culture = nepali
+        religion = jewish
+        size = 16
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 3721
+    }
+
+    capitalists = {
+        culture = nepali
+        religion = jewish
+        size = 84
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 7444
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = jewish
+        size = 170
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 8349
+    }
+
+    artisans = {
+        culture = nepali
+        religion = jewish
+        size = 191
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 604329
+    }
+
+    farmers = {
+        culture = nepali
+        religion = jewish
+        size = 13910
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 76518
+    }
+}
+#Meerut (1580000/395000 POPS)
+1239 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 204
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 819
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 18
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 41003
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 943
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1024
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 23
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5124
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 117
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10250
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 235
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11497
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 264
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 688635
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 15850
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 252180
+    }
+}
+#Agra (4180000/1045000 POPS)
+1240 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 219
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 5
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 882
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 20
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 44148
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 1015
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1103
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 25
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5518
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 126
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 11036
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 253
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 12379
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 284
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 741471
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 17066
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 271527
+    }
+}
+#Kanpur (3720000/930000 POPS)
+1241 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 39
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 0
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 160
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 3
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 8071
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 185
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 200
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 4
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 1008
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 23
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 2017
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 46
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 2262
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 51
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 173921
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 4003
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 10419
+    }
+}
+#Allahabad (3008000/752000 POPS)
+1243 = {
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 187
+    }
+
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 755
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 17
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 37800
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 869
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 943
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 21
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 4723
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 108
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 9449
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 217
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 10599
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 243
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 729357
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 16788
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 135806
+    }
+	
+}
+#Benares (2512000/628000 POPS)
+1245 = {
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 187
+    }
+
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 755
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 17
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 37800
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 869
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 943
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 21
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 4723
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 108
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 9449
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 217
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 10599
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 243
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 729357
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 16788
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 135806
+    }
+}
+#Gorakhpur (2476000/619000 POPS)
+1246 = {
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 187
+    }
+
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 755
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 17
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 37800
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 869
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 943
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 21
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 4723
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 108
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 9449
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 217
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 10599
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 243
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 729357
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 16788
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 58006
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 77799
+    }
+}
+#Ruled by Awadh in 1836 (4820000)
+#Lucknow (2756000/689000 POPS)
+1242 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 152
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 611
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 13
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 30587
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 703
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 763
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 17
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 3822
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 87
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 7646
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 175
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 8575
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 197
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 528993
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 12175
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 109519
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 62952
+    }
+}
+#Fyzabad (2064000/516000 POPS)
+1244 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 157
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 632
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 14
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 31677
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 728
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 791
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 18
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 3959
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 90
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 7918
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 182
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 8882
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 203
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 547859
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 12610
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 113425
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 65197
+    }
+
+}
+#Bihar Region : 10724000
+#under rule of Britain 1836
+#Patna (3028000/757000 POPS)
+1247 = {
+    officers = {
+        culture = bihari
+        religion = jewish
+        size = 279
+    }
+
+    officers = {
+        culture = bihari
+        religion = jewish
+        size = 5
+    }
+
+    soldiers = {
+        culture = bihari
+        religion = jewish
+        size = 1118
+    }
+
+    soldiers = {
+        culture = bihari
+        religion = jewish
+        size = 25
+    }
+
+    aristocrats = {
+        culture = bihari
+        religion = jewish
+        size = 55923
+    }
+
+    aristocrats = {
+        culture = bihari
+        religion = jewish
+        size = 1286
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 1397
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 31
+    }
+
+    capitalists = {
+        culture = bihari
+        religion = jewish
+        size = 6989
+    }
+
+    capitalists = {
+        culture = bihari
+        religion = jewish
+        size = 160
+    }
+
+    clergymen = {
+        culture = bihari
+        religion = jewish
+        size = 13980
+    }
+
+    clergymen = {
+        culture = bihari
+        religion = jewish
+        size = 321
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 15681
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 360
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 544781
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 544781
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 171633
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 43585
+    }
+}
+#Gaya (3056000/764000 POPS)
+1248 = {
+    officers = {
+        culture = bihari
+        religion = jewish
+        size = 161
+    }
+
+    officers = {
+        culture = bihari
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = bihari
+        religion = jewish
+        size = 647
+    }
+
+    soldiers = {
+        culture = bihari
+        religion = jewish
+        size = 14
+    }
+
+    aristocrats = {
+        culture = bihari
+        religion = jewish
+        size = 32374
+    }
+
+    aristocrats = {
+        culture = bihari
+        religion = jewish
+        size = 745
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 809
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 18
+    }
+
+    capitalists = {
+        culture = bihari
+        religion = jewish
+        size = 4046
+    }
+
+    capitalists = {
+        culture = bihari
+        religion = jewish
+        size = 92
+    }
+
+    clergymen = {
+        culture = bihari
+        religion = jewish
+        size = 8093
+    }
+
+    clergymen = {
+        culture = bihari
+        religion = jewish
+        size = 185
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 9077
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 208
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 738353
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 16994
+    }
+}
+#Kharswari (2740000/685000 POPS)
+1249 = {
+    officers = {
+        culture = bihari
+        religion = jewish
+        size = 206
+    }
+
+    officers = {
+        culture = bihari
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = bihari
+        religion = jewish
+        size = 828
+    }
+
+    soldiers = {
+        culture = bihari
+        religion = jewish
+        size = 18
+    }
+
+    aristocrats = {
+        culture = bihari
+        religion = jewish
+        size = 41467
+    }
+
+    aristocrats = {
+        culture = bihari
+        religion = jewish
+        size = 954
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 1036
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 23
+    }
+
+    capitalists = {
+        culture = bihari
+        religion = jewish
+        size = 5183
+    }
+
+    capitalists = {
+        culture = bihari
+        religion = jewish
+        size = 118
+    }
+
+    clergymen = {
+        culture = bihari
+        religion = jewish
+        size = 10366
+    }
+
+    clergymen = {
+        culture = bihari
+        religion = jewish
+        size = 238
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 11628
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 267
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 800106
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 18416
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 148981
+    }
+}
+#Bhagalpur (1900000/475000 POPS)
+1250 = {
+    officers = {
+        culture = bihari
+        religion = jewish
+        size = 234
+    }
+
+    officers = {
+        culture = bihari
+        religion = jewish
+        size = 5
+    }
+
+    soldiers = {
+        culture = bihari
+        religion = jewish
+        size = 941
+    }
+
+    soldiers = {
+        culture = bihari
+        religion = jewish
+        size = 21
+    }
+
+    aristocrats = {
+        culture = bihari
+        religion = jewish
+        size = 47098
+    }
+
+    aristocrats = {
+        culture = bihari
+        religion = jewish
+        size = 1083
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 1177
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 26
+    }
+
+    capitalists = {
+        culture = bihari
+        religion = jewish
+        size = 5886
+    }
+
+    capitalists = {
+        culture = bihari
+        religion = jewish
+        size = 135
+    }
+
+    clergymen = {
+        culture = bihari
+        religion = jewish
+        size = 11774
+    }
+
+    clergymen = {
+        culture = bihari
+        religion = jewish
+        size = 270
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 13206
+    }
+
+    artisans = {
+        culture = bihari
+        religion = jewish
+        size = 303
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 896968
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 20646
+    }
+
+    farmers = {
+        culture = bihari
+        religion = jewish
+        size = 181254
+    }
+
+}
+#Bengal Region : 28454000
+#under rule of Britain 1836
+#Calcutta (4872000/1218000 POPS)
+1251 = {
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 282
+    }
+
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 6
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 120000
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 56774
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 1306
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 1418
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 32
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 7096
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 162
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 14193
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 326
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 15920
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 365
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 367598
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 167598
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 89455
+    }
+}
+#Darjeeling (3248000/812000 POPS)
+1252 = {
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 227
+    }
+
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 5
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 911
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 20
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 45634
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 1049
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 1140
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 25
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 5703
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 131
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 11408
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 262
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 12795
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 294
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 84572
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 4248
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 142257
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 7877
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 466848
+    }
+
+    farmers = {
+        culture = nepali
+        religion = jewish
+        size = 17583
+    }
+
+    farmers = {
+        culture = nepali
+        religion = jewish
+        size = 1324
+    }
+}
+#Bardwan (4456000/1114000 POPS)
+1253 = {
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 213
+    }
+
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 856
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 19
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 42847
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 985
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 1070
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 24
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 5355
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 123
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 10711
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 246
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 12013
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 276
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 623197
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 14344
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 362147
+    }
+}
+#Dacca (5276000/1319000 POPS)
+1254 = {
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 306
+    }
+
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 9
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 1226
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 37
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 61313
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 1896
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 1532
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 47
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 7663
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 237
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 15327
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 474
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 15599
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 482
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 50313
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 1556
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 722249
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 722249
+    }
+}
+#Rajshahi (2332000/583000 POPS)
+1255 = {
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 319
+    }
+
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 9
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 1279
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 39
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 64010
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 1979
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 1599
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 49
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 8000
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 247
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 16002
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 494
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 16286
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 503
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 212554
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 6573
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 1299130
+    }
+}
+#Jessore (2372000/593000 POPS)
+1256 = {
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 229
+    }
+
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 7
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 919
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 28
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 46016
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 1423
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 1150
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 35
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 5752
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 177
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 11504
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 355
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 11707
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 362
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 210324
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 6504
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 874641
+    }
+}
+#Chittagong (5884000/1471000 POPS)
+1257 = {
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 1007
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 50370
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 1259
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 6296
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 12592
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 12815
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 1149475
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 9125
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 282
+    }
+}
+#Andaman Islands (14000/3500 POPS)
+1320 = {
+    officers = {
+        culture = bengali
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = jewish
+        size = 21
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 1111
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = jewish
+        size = 25
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 27
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 138
+    }
+
+    capitalists = {
+        culture = bengali
+        religion = jewish
+        size = 2
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 277
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = jewish
+        size = 5
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 311
+    }
+
+    artisans = {
+        culture = bengali
+        religion = jewish
+        size = 6
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 25361
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 583
+    }
+
+}
+#Assam Region : 2676000
+#under rule of Britain 1836
+#Gauhati (1060000/265000 POPS)
+1258 = {
+    officers = {
+        culture = assamese
+        religion = jewish
+        size = 42
+    }
+
+    officers = {
+        culture = assamese
+        religion = jewish
+        size = 0
+    }
+
+    soldiers = {
+        culture = assamese
+        religion = jewish
+        size = 173
+    }
+
+    soldiers = {
+        culture = assamese
+        religion = jewish
+        size = 3
+    }
+
+    aristocrats = {
+        culture = assamese
+        religion = jewish
+        size = 8719
+    }
+
+    aristocrats = {
+        culture = assamese
+        religion = jewish
+        size = 200
+    }
+
+    artisans = {
+        culture = assamese
+        religion = jewish
+        size = 217
+    }
+
+    artisans = {
+        culture = assamese
+        religion = jewish
+        size = 4
+    }
+
+    capitalists = {
+        culture = assamese
+        religion = jewish
+        size = 1089
+    }
+
+    capitalists = {
+        culture = assamese
+        religion = jewish
+        size = 24
+    }
+
+    clergymen = {
+        culture = assamese
+        religion = jewish
+        size = 2179
+    }
+
+    clergymen = {
+        culture = assamese
+        religion = jewish
+        size = 49
+    }
+
+    artisans = {
+        culture = assamese
+        religion = jewish
+        size = 2444
+    }
+
+    artisans = {
+        culture = assamese
+        religion = jewish
+        size = 56
+    }
+
+    farmers = {
+        culture = assamese
+        religion = jewish
+        size = 11291
+    }
+
+    farmers = {
+        culture = assamese
+        religion = jewish
+        size = 259
+    }
+
+    farmers = {
+        culture = assamese
+        religion = jewish
+        size = 98100
+    }
+
+    farmers = {
+        culture = assamese
+        religion = jewish
+        size = 2257
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 54499
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 1254
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 8920
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 26261
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 604
+    }
+}
+#Imphal (616000/154000 POPS)
+1259 = {
+    officers = {
+        culture = manipuri
+        religion = jewish
+        size = 642
+    }
+
+    officers = {
+        culture = manipuri
+        religion = jewish
+        size = 14
+    }
+
+    soldiers = {
+        culture = manipuri
+        religion = jewish
+        size = 2569
+    }
+
+    soldiers = {
+        culture = manipuri
+        religion = jewish
+        size = 59
+    }
+
+    aristocrats = {
+        culture = manipuri
+        religion = jewish
+        size = 12851
+    }
+
+    aristocrats = {
+        culture = manipuri
+        religion = jewish
+        size = 295
+    }
+
+    bureaucrats = {
+        culture = manipuri
+        religion = jewish
+        size = 320
+    }
+
+    bureaucrats = {
+        culture = manipuri
+        religion = jewish
+        size = 7
+    }
+
+    capitalists = {
+        culture = manipuri
+        religion = jewish
+        size = 1605
+    }
+
+    capitalists = {
+        culture = manipuri
+        religion = jewish
+        size = 36
+    }
+
+    clergymen = {
+        culture = manipuri
+        religion = jewish
+        size = 3212
+    }
+
+    clergymen = {
+        culture = manipuri
+        religion = jewish
+        size = 73
+    }
+
+    artisans = {
+        culture = manipuri
+        religion = jewish
+        size = 3570
+    }
+
+    artisans = {
+        culture = manipuri
+        religion = jewish
+        size = 82
+    }
+
+    farmers = {
+        culture = manipuri
+        religion = jewish
+        size = 151930
+    }
+
+    farmers = {
+        culture = manipuri
+        religion = jewish
+        size = 3497
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 16434
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 122457
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 2818
+    }
+}
+#Dibrugarh (392000/98000 POPS)
+1260 = {
+    officers = {
+        culture = assamese
+        religion = jewish
+        size = 281
+    }
+
+    officers = {
+        culture = assamese
+        religion = jewish
+        size = 6
+    }
+
+    soldiers = {
+        culture = assamese
+        religion = jewish
+        size = 1127
+    }
+
+    soldiers = {
+        culture = assamese
+        religion = jewish
+        size = 25
+    }
+
+    aristocrats = {
+        culture = assamese
+        religion = jewish
+        size = 56423
+    }
+
+    aristocrats = {
+        culture = assamese
+        religion = jewish
+        size = 1298
+    }
+
+    artisans = {
+        culture = assamese
+        religion = jewish
+        size = 1409
+    }
+
+    artisans = {
+        culture = assamese
+        religion = jewish
+        size = 32
+    }
+
+    capitalists = {
+        culture = assamese
+        religion = jewish
+        size = 7052
+    }
+
+    capitalists = {
+        culture = assamese
+        religion = jewish
+        size = 162
+    }
+
+    clergymen = {
+        culture = assamese
+        religion = jewish
+        size = 14105
+    }
+
+    clergymen = {
+        culture = assamese
+        religion = jewish
+        size = 324
+    }
+
+    artisans = {
+        culture = assamese
+        religion = jewish
+        size = 15821
+    }
+
+    artisans = {
+        culture = assamese
+        religion = jewish
+        size = 363
+    }
+
+    farmers = {
+        culture = assamese
+        religion = jewish
+        size = 101258
+    }
+
+    farmers = {
+        culture = assamese
+        religion = jewish
+        size = 2330
+    }
+
+    farmers = {
+        culture = assamese
+        religion = jewish
+        size = 789930
+    }
+
+    farmers = {
+        culture = assamese
+        religion = jewish
+        size = 18182
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 404740
+    }
+}
+#Agartala (608000/152000 POPS)
+2566 = {
+    officers = {
+        culture = asian_minor
+        religion = jewish
+        size = 15
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = jewish
+        size = 63
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = jewish
+        size = 1
+    }
+
+    aristocrats = {
+        culture = asian_minor
+        religion = jewish
+        size = 1524
+    }
+
+    aristocrats = {
+        culture = asian_minor
+        religion = jewish
+        size = 34
+    }
+
+    aristocrats = {
+        culture = asian_minor
+        religion = jewish
+        size = 1684
+    }
+
+    aristocrats = {
+        culture = asian_minor
+        religion = jewish
+        size = 38
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = jewish
+        size = 79
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = jewish
+        size = 1
+    }
+
+    capitalists = {
+        culture = asian_minor
+        religion = jewish
+        size = 401
+    }
+
+    capitalists = {
+        culture = asian_minor
+        religion = jewish
+        size = 8
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = jewish
+        size = 802
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = jewish
+        size = 18
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = jewish
+        size = 899
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = jewish
+        size = 20
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 12178
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 280
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 2406
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 54
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 820
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 57805
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 1329
+    }
+
+}
+#Orissa Region  (1588000)
+#Ruled by Britain 1836 (944000)
+#Cuttack (944000/236000 POPS)
+1261 = {
+    officers = {
+        culture = oriya
+        religion = jewish
+        size = 205
+    }
+
+    officers = {
+        culture = oriya
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = oriya
+        religion = jewish
+        size = 822
+    }
+
+    soldiers = {
+        culture = oriya
+        religion = jewish
+        size = 18
+    }
+
+    aristocrats = {
+        culture = oriya
+        religion = jewish
+        size = 41158
+    }
+
+    aristocrats = {
+        culture = oriya
+        religion = jewish
+        size = 946
+    }
+
+    artisans = {
+        culture = oriya
+        religion = jewish
+        size = 1028
+    }
+
+    artisans = {
+        culture = oriya
+        religion = jewish
+        size = 23
+    }
+
+    capitalists = {
+        culture = oriya
+        religion = jewish
+        size = 5144
+    }
+
+    capitalists = {
+        culture = oriya
+        religion = jewish
+        size = 118
+    }
+
+    clergymen = {
+        culture = oriya
+        religion = jewish
+        size = 10289
+    }
+
+    clergymen = {
+        culture = oriya
+        religion = jewish
+        size = 236
+    }
+
+    artisans = {
+        culture = oriya
+        religion = jewish
+        size = 11540
+    }
+
+    artisans = {
+        culture = oriya
+        religion = jewish
+        size = 264
+    }
+
+    farmers = {
+        culture = oriya
+        religion = jewish
+        size = 897027
+    }
+
+    farmers = {
+        culture = oriya
+        religion = jewish
+        size = 20647
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 42604
+    }
+}
+#Ruled by Native Rulers 1836 (644000)
+#Keunjahr (436000/109000 POPS)
+1262 = {
+    officers = {
+        culture = oriya
+        religion = jewish
+        size = 3086
+    }
+
+    officers = {
+        culture = oriya
+        religion = jewish
+        size = 70
+    }
+
+    soldiers = {
+        culture = oriya
+        religion = jewish
+        size = 12347
+    }
+
+    soldiers = {
+        culture = oriya
+        religion = jewish
+        size = 283
+    }
+
+    aristocrats = {
+        culture = oriya
+        religion = jewish
+        size = 41158
+    }
+
+    aristocrats = {
+        culture = oriya
+        religion = jewish
+        size = 946
+    }
+
+    bureaucrats = {
+        culture = oriya
+        religion = jewish
+        size = 1028
+    }
+
+    bureaucrats = {
+        culture = oriya
+        religion = jewish
+        size = 23
+    }
+
+    capitalists = {
+        culture = oriya
+        religion = jewish
+        size = 5144
+    }
+
+    capitalists = {
+        culture = oriya
+        religion = jewish
+        size = 118
+    }
+
+    clergymen = {
+        culture = oriya
+        religion = jewish
+        size = 10289
+    }
+
+    clergymen = {
+        culture = oriya
+        religion = jewish
+        size = 236
+    }
+
+    artisans = {
+        culture = oriya
+        religion = jewish
+        size = 11379
+    }
+
+    artisans = {
+        culture = oriya
+        religion = jewish
+        size = 261
+    }
+
+    farmers = {
+        culture = oriya
+        religion = jewish
+        size = 925517
+    }
+
+    farmers = {
+        culture = bengali
+        religion = jewish
+        size = 21303
+    }
+}
+#Sambalpur (208000/52000 POPS)
+1263 = {
+    officers = {
+        culture = oriya
+        religion = jewish
+        size = 3086
+    }
+
+    officers = {
+        culture = oriya
+        religion = jewish
+        size = 70
+    }
+
+    soldiers = {
+        culture = oriya
+        religion = jewish
+        size = 12347
+    }
+
+    soldiers = {
+        culture = oriya
+        religion = jewish
+        size = 283
+    }
+
+    aristocrats = {
+        culture = oriya
+        religion = jewish
+        size = 41158
+    }
+
+    aristocrats = {
+        culture = oriya
+        religion = jewish
+        size = 946
+    }
+
+    bureaucrats = {
+        culture = oriya
+        religion = jewish
+        size = 1028
+    }
+
+    bureaucrats = {
+        culture = oriya
+        religion = jewish
+        size = 23
+    }
+
+    capitalists = {
+        culture = oriya
+        religion = jewish
+        size = 5144
+    }
+
+    capitalists = {
+        culture = oriya
+        religion = jewish
+        size = 118
+    }
+
+    clergymen = {
+        culture = oriya
+        religion = jewish
+        size = 10289
+    }
+
+    clergymen = {
+        culture = oriya
+        religion = jewish
+        size = 236
+    }
+
+    artisans = {
+        culture = oriya
+        religion = jewish
+        size = 11379
+    }
+
+    artisans = {
+        culture = oriya
+        religion = jewish
+        size = 261
+    }
+
+    farmers = {
+        culture = oriya
+        religion = jewish
+        size = 925517
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 21303
+    }
+
+}
+#Rajputana Region (4616000)
+#Under rule of Britain 1836 (200000)
+#Ajmer (200000/50000 POPS)
+1264 = {
+    officers = {
+        culture = rajput
+        religion = jewish
+        size = 142
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = rajput
+        religion = jewish
+        size = 571
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 12
+    }
+
+    aristocrats = {
+        culture = rajput
+        religion = jewish
+        size = 28622
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 658
+    }
+
+    artisans = {
+        culture = rajput
+        religion = jewish
+        size = 714
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 15
+    }
+
+    capitalists = {
+        culture = rajput
+        religion = jewish
+        size = 3576
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 82
+    }
+
+    clergymen = {
+        culture = rajput
+        religion = jewish
+        size = 7155
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 164
+    }
+
+    artisans = {
+        culture = rajput
+        religion = jewish
+        size = 8025
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 184
+    }
+
+    farmers = {
+        culture = rajput
+        religion = jewish
+        size = 652801
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 15025
+    }
+}
+#Under rule of Jaisalmer 1836  
+#Jaisalmer (440000/110000 POPS)
+1265 = {
+    officers = {
+        culture = rajput
+        religion = jewish
+        size = 97
+    }
+
+    officers = {
+        culture = rajput
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = rajput
+        religion = jewish
+        size = 395
+    }
+
+    soldiers = {
+        culture = rajput
+        religion = jewish
+        size = 8
+    }
+
+    aristocrats = {
+        culture = rajput
+        religion = jewish
+        size = 1977
+    }
+
+    aristocrats = {
+        culture = rajput
+        religion = jewish
+        size = 45
+    }
+
+    bureaucrats = {
+        culture = rajput
+        religion = jewish
+        size = 48
+    }
+
+    bureaucrats = {
+        culture = rajput
+        religion = jewish
+        size = 0
+    }
+
+    capitalists = {
+        culture = rajput
+        religion = jewish
+        size = 246
+    }
+
+    capitalists = {
+        culture = rajput
+        religion = jewish
+        size = 5
+    }
+
+    clergymen = {
+        culture = rajput
+        religion = jewish
+        size = 493
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10
+    }
+
+    artisans = {
+        culture = rajput
+        religion = jewish
+        size = 548
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 12
+    }
+
+    farmers = {
+        culture = rajput
+        religion = jewish
+        size = 38214
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 879
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 6632
+    }
+}
+#Under rule of Jodhpur 1836  
+#Jodhpur (1296000/324000 POPS)
+1266 = {
+    officers = {
+        culture = rajput
+        religion = jewish
+        size = 1622
+    }
+
+    officers = {
+        culture = rajput
+        religion = jewish
+        size = 36
+    }
+
+    soldiers = {
+        culture = rajput
+        religion = jewish
+        size = 6488
+    }
+
+    soldiers = {
+        culture = rajput
+        religion = jewish
+        size = 149
+    }
+
+    aristocrats = {
+        culture = rajput
+        religion = jewish
+        size = 32444
+    }
+
+    aristocrats = {
+        culture = rajput
+        religion = jewish
+        size = 746
+    }
+
+    bureaucrats = {
+        culture = rajput
+        religion = jewish
+        size = 810
+    }
+
+    bureaucrats = {
+        culture = rajput
+        religion = jewish
+        size = 18
+    }
+
+    capitalists = {
+        culture = rajput
+        religion = jewish
+        size = 4055
+    }
+
+    capitalists = {
+        culture = rajput
+        religion = jewish
+        size = 92
+    }
+
+    clergymen = {
+        culture = rajput
+        religion = jewish
+        size = 8110
+    }
+
+    clergymen = {
+        culture = rajput
+        religion = jewish
+        size = 186
+    }
+
+    artisans = {
+        culture = rajput
+        religion = jewish
+        size = 9015
+    }
+
+    artisans = {
+        culture = rajput
+        religion = jewish
+        size = 207
+    }
+
+    farmers = {
+        culture = rajput
+        religion = jewish
+        size = 733292
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 16878
+    }
+}
+#Under rule of Bikaner 1836  
+#Bikaner (1044000/261000 POPS)
+1267 = {
+    officers = {
+        culture = rajput
+        religion = jewish
+        size = 1199
+    }
+
+    officers = {
+        culture = rajput
+        religion = jewish
+        size = 27
+    }
+
+    soldiers = {
+        culture = rajput
+        religion = jewish
+        size = 4800
+    }
+
+    soldiers = {
+        culture = rajput
+        religion = jewish
+        size = 110
+    }
+
+    aristocrats = {
+        culture = rajput
+        religion = jewish
+        size = 24006
+    }
+
+    aristocrats = {
+        culture = rajput
+        religion = jewish
+        size = 552
+    }
+
+    bureaucrats = {
+        culture = rajput
+        religion = jewish
+        size = 599
+    }
+
+    bureaucrats = {
+        culture = rajput
+        religion = jewish
+        size = 13
+    }
+
+    capitalists = {
+        culture = rajput
+        religion = jewish
+        size = 3000
+    }
+
+    capitalists = {
+        culture = rajput
+        religion = jewish
+        size = 68
+    }
+
+    clergymen = {
+        culture = rajput
+        religion = jewish
+        size = 6001
+    }
+
+    clergymen = {
+        culture = rajput
+        religion = jewish
+        size = 137
+    }
+
+    artisans = {
+        culture = rajput
+        religion = jewish
+        size = 6670
+    }
+
+    artisans = {
+        culture = rajput
+        religion = jewish
+        size = 153
+    }
+
+    farmers = {
+        culture = rajput
+        religion = jewish
+        size = 493868
+    }
+
+    farmers = {
+        culture = rajput
+        religion = jewish
+        size = 11367
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 30007
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 690
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 19126
+    }
+}
+#Under rule of Jaipur 1836  
+#Jaipur (1636000/409000 POPS)
+1268 = {
+    officers = {
+        culture = rajput
+        religion = jewish
+        size = 1962
+    }
+
+    officers = {
+        culture = rajput
+        religion = jewish
+        size = 44
+    }
+
+    soldiers = {
+        culture = rajput
+        religion = jewish
+        size = 7852
+    }
+
+    soldiers = {
+        culture = rajput
+        religion = jewish
+        size = 180
+    }
+
+    aristocrats = {
+        culture = rajput
+        religion = jewish
+        size = 39264
+    }
+
+    aristocrats = {
+        culture = rajput
+        religion = jewish
+        size = 903
+    }
+
+    bureaucrats = {
+        culture = rajput
+        religion = jewish
+        size = 980
+    }
+
+    bureaucrats = {
+        culture = rajput
+        religion = jewish
+        size = 22
+    }
+
+    capitalists = {
+        culture = rajput
+        religion = jewish
+        size = 4907
+    }
+
+    capitalists = {
+        culture = rajput
+        religion = jewish
+        size = 112
+    }
+
+    clergymen = {
+        culture = rajput
+        religion = jewish
+        size = 9815
+    }
+
+    clergymen = {
+        culture = rajput
+        religion = jewish
+        size = 225
+    }
+
+    artisans = {
+        culture = rajput
+        religion = jewish
+        size = 10910
+    }
+
+    artisans = {
+        culture = rajput
+        religion = jewish
+        size = 250
+    }
+
+    farmers = {
+        culture = rajput
+        religion = jewish
+        size = 887427
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 20426
+    }
+}
+#Under rule of Mewar 1836  
+#Udaipur (1344000/336000 POPS)
+1269 = {
+    officers = {
+        culture = rajput
+        religion = jewish
+        size = 1548
+    }
+
+    officers = {
+        culture = rajput
+        religion = jewish
+        size = 35
+    }
+
+    soldiers = {
+        culture = rajput
+        religion = jewish
+        size = 6193
+    }
+
+    soldiers = {
+        culture = rajput
+        religion = jewish
+        size = 142
+    }
+
+    aristocrats = {
+        culture = rajput
+        religion = jewish
+        size = 30967
+    }
+
+    aristocrats = {
+        culture = rajput
+        religion = jewish
+        size = 712
+    }
+
+    bureaucrats = {
+        culture = rajput
+        religion = jewish
+        size = 774
+    }
+
+    bureaucrats = {
+        culture = rajput
+        religion = jewish
+        size = 17
+    }
+
+    capitalists = {
+        culture = rajput
+        religion = jewish
+        size = 3870
+    }
+
+    capitalists = {
+        culture = rajput
+        religion = jewish
+        size = 88
+    }
+
+    clergymen = {
+        culture = rajput
+        religion = jewish
+        size = 7741
+    }
+
+    clergymen = {
+        culture = rajput
+        religion = jewish
+        size = 177
+    }
+
+    artisans = {
+        culture = rajput
+        religion = jewish
+        size = 8604
+    }
+
+    artisans = {
+        culture = rajput
+        religion = jewish
+        size = 198
+    }
+
+    farmers = {
+        culture = rajput
+        religion = jewish
+        size = 699888
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 16109
+    }
+
+}
+#Central Provinces Region (8044000) 
+#Under rule of Gwalior 1836
+#Gwalior (1184000/296000 POPS)
+1270 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 2136
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 48
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 8546
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 196
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 42734
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 983
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 1067
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 24
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5341
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 122
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10683
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 245
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11874
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 272
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 921878
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 21219
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 44980
+    }
+}
+#Under rule of Indore 1836
+#Indore (1048000/262000 POPS)
+1271 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 2136
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 48
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 8546
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 196
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 42734
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 983
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 1067
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 24
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5341
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 122
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10683
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 245
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11874
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 272
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 494038
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 494038
+    }
+}
+#Under rule of Bhopal 1836
+#Bhopal (812000/203000 POPS)
+1272 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 213
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 853
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 19
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 42734
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 983
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1067
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 24
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5341
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 122
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10683
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 245
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11982
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 275
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 498530
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 498530
+    }
+}
+#Under Native Rule 1836
+#Chhatarpur (632000/158000 POPS)
+1273 = {
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 403
+    }
+
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 8
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 1614
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 36
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 8071
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 185
+    }
+
+    bureaucrats = {
+        culture = kanauji
+        religion = jewish
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = kanauji
+        religion = jewish
+        size = 4
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 1008
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 23
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 2017
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 46
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 2242
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 51
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 172126
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 3961
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 10559
+    }
+}
+#Rewah (748000/187000 POPS)
+1274 = {
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 403
+    }
+
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 8
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 1614
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 36
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 8071
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 185
+    }
+
+    bureaucrats = {
+        culture = kanauji
+        religion = jewish
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = kanauji
+        religion = jewish
+        size = 4
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 1008
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 23
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 2017
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 46
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 2242
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 51
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 172126
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 3961
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 10559
+    }
+
+}
+#under British rule 1836 (3620000)
+#Jubbulpore (3024000/756000 POPS)
+1275 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 213
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 853
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 19
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 42734
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 983
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1067
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 24
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5341
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 122
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10683
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 245
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11982
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 275
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 803182
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 18487
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 175392
+    }
+}
+#Hoshangabad (596000/149000 POPS)
+1276 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 213
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 853
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 19
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 42734
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 983
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1067
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 24
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5341
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 122
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10683
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 245
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11982
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 275
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 498530
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 498530
+    }
+}
+#Nagpur Region (5028000)
+#Under Rule of Nagpur 1836 (3324000)
+#Nagpur (1848000/462000 POPS)
+1277 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 156
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 627
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 14
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 31389
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 722
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 784
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 18
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 3923
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 90
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 7847
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 180
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 8801
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 202
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 715881
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 16477
+    }
+}
+#Raipur (804000/201000 POPS)
+1280 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 93
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 1
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 375
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 8
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 18798
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 432
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 468
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 10
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 2348
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 54
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 4698
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 108
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 5270
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 120
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 428726
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 9868
+    }
+}
+#Bilaspur (672000/168000 POPS)
+1281 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 93
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 1
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 375
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 8
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 18798
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 432
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 468
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 10
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 2348
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 54
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 4698
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 108
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 5270
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 120
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 428726
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 9868
+    }
+}
+#Under rule of Hyderabad 1836
+#Amaraoti (1268000/317000 POPS) 
+1278 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 164
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 662
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 15
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 33162
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 763
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 828
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 18
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 4145
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 95
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 8290
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 190
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 9298
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 213
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 756331
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 17408
+    }
+}
+#Under Rule of Bastar 1836
+#Jagdalpur (436000/109000 POPS)
+1279 = {
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 93
+    }
+
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 1
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 375
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 8
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 18798
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 432
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 468
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 10
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 2348
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 54
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 4698
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 108
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 5270
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 120
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 428726
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 9868
+    }
+}
+#Under Native Rule 1836
+#Raigarh (548000/137000 POPS) #Ruled by Raigarh
+1282 = {
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 938
+    }
+
+    officers = {
+        culture = kanauji
+        religion = jewish
+        size = 21
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 3759
+    }
+
+    soldiers = {
+        culture = kanauji
+        religion = jewish
+        size = 86
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 18798
+    }
+
+    aristocrats = {
+        culture = kanauji
+        religion = jewish
+        size = 432
+    }
+
+    bureaucrats = {
+        culture = kanauji
+        religion = jewish
+        size = 468
+    }
+
+    bureaucrats = {
+        culture = kanauji
+        religion = jewish
+        size = 10
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 2348
+    }
+
+    capitalists = {
+        culture = kanauji
+        religion = jewish
+        size = 54
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 4698
+    }
+
+    clergymen = {
+        culture = kanauji
+        religion = jewish
+        size = 108
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 5223
+    }
+
+    artisans = {
+        culture = kanauji
+        religion = jewish
+        size = 119
+    }
+
+    farmers = {
+        culture = kanauji
+        religion = jewish
+        size = 424864
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 9779
+    }
+
+}
+#Hyderabad Region (6396000)
+#Under the Rule of Hyderabad 1836
+#Hyderabad (1756000/439000 POPS)
+1283 = {
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 1297
+    }
+
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 29
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 5191
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 118
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 25956
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 596
+    }
+
+    bureaucrats = {
+        culture = telegu
+        religion = jewish
+        size = 648
+    }
+
+    bureaucrats = {
+        culture = telegu
+        religion = jewish
+        size = 14
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 3244
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 74
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 6488
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 149
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 7212
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 165
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 520994
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 11991
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 67149
+    }
+}
+#Aurangabad (1244000/311000 POPS)
+1284 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 2347
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 9388
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 46944
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 1173
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5868
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 11736
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 13044
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 378937
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 666697
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 15345
+    }
+}
+#Nizamabad (1052000/263000 POPS)
+1285 = {
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 2438
+    }
+
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 55
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 9756
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 223
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 48780
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 1122
+    }
+
+    bureaucrats = {
+        culture = telegu
+        religion = jewish
+        size = 1218
+    }
+
+    bureaucrats = {
+        culture = telegu
+        religion = jewish
+        size = 27
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 6096
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 139
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 12194
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 280
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 13554
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 311
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 200832
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 200832
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 126197
+    }
+}
+#Gulbarga (784000/196000 POPS)
+1286 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 1484
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 5938
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 29692
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 742
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 3711
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 7423
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 8251
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 16987
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 639380
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 14716
+    }
+}
+#Warangal (1560000/390000 POPS)
+1287 = {
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 1442
+    }
+
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 33
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 5770
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 132
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 28855
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 663
+    }
+
+    bureaucrats = {
+        culture = telegu
+        religion = jewish
+        size = 720
+    }
+
+    bureaucrats = {
+        culture = telegu
+        religion = jewish
+        size = 16
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 3606
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 82
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 7213
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 165
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 8017
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 184
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 579196
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 13331
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 74651
+    }
+}
+#Sind Region (1864000)
+#Under rule of Sind in 1836
+#Karachi (920000/230000 POPS)
+1288 = {
+    soldiers = {
+        culture = sindi
+        religion = jewish
+        size = 1425
+    }
+
+    aristocrats = {
+        culture = sindi
+        religion = jewish
+        size = 71280
+    }
+
+    artisans = {
+        culture = sindi
+        religion = jewish
+        size = 1782
+    }
+
+    capitalists = {
+        culture = sindi
+        religion = jewish
+        size = 8910
+    }
+
+    clergymen = {
+        culture = sindi
+        religion = jewish
+        size = 17820
+    }
+
+    artisans = {
+        culture = sindi
+        religion = jewish
+        size = 23117
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 712850
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 855360
+    }
+
+    farmers = {
+        culture = baluchi
+        religion = jewish
+        size = 33237
+    }
+}
+#Sukkur (348000/87000 POPS)
+1289 = {
+    aristocrats = {
+        culture = sindi
+        religion = jewish
+        size = 16250
+    }
+
+    capitalists = {
+        culture = sindi
+        religion = jewish
+        size = 2031
+    }
+
+    clergymen = {
+        culture = sindi
+        religion = jewish
+        size = 4062
+    }
+
+    artisans = {
+        culture = sindi
+        religion = jewish
+        size = 5270
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 73137
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 291950
+    }
+}
+#Umarkot (596000/149000 POPS)
+1290 = {
+    officers = {
+        culture = sindi
+        religion = jewish
+        size = 34
+    }
+
+    soldiers = {
+        culture = sindi
+        religion = jewish
+        size = 139
+    }
+
+    soldiers = {
+        culture = sindi
+        religion = jewish
+        size = 1
+    }
+
+    aristocrats = {
+        culture = sindi
+        religion = jewish
+        size = 6999
+    }
+
+    aristocrats = {
+        culture = sindi
+        religion = jewish
+        size = 70
+    }
+
+    artisans = {
+        culture = sindi
+        religion = jewish
+        size = 174
+    }
+
+    artisans = {
+        culture = sindi
+        religion = jewish
+        size = 1
+    }
+
+    capitalists = {
+        culture = sindi
+        religion = jewish
+        size = 874
+    }
+
+    capitalists = {
+        culture = sindi
+        religion = jewish
+        size = 8
+    }
+
+    clergymen = {
+        culture = sindi
+        religion = jewish
+        size = 1749
+    }
+
+    clergymen = {
+        culture = sindi
+        religion = jewish
+        size = 17
+    }
+
+    artisans = {
+        culture = sindi
+        religion = jewish
+        size = 2269
+    }
+
+    artisans = {
+        culture = sindi
+        religion = jewish
+        size = 22
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 31504
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 318
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 127019
+    }
+}
+#Gujarat (7812000)
+#Under British Rule 1836 (2064000) 
+#Ahmadabad (992000/248000 POPS)
+1291 = {
+    officers = {
+        culture = gujarati
+        religion = jewish
+        size = 208
+    }
+
+    officers = {
+        culture = gujarati
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = jewish
+        size = 836
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = jewish
+        size = 18
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = jewish
+        size = 41847
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = jewish
+        size = 962
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 1045
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 23
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = jewish
+        size = 5230
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = jewish
+        size = 120
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = jewish
+        size = 10461
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = jewish
+        size = 240
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 11733
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 270
+    }
+
+    farmers = {
+        culture = gujarati
+        religion = jewish
+        size = 765591
+    }
+
+    farmers = {
+        culture = gujarati
+        religion = jewish
+        size = 17622
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 193157
+    }
+}
+#Surat (1072000/268000 POPS) 
+1296 = {
+    officers = {
+        culture = gujarati
+        religion = jewish
+        size = 111
+    }
+
+    officers = {
+        culture = gujarati
+        religion = gujarati
+        size = 2
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = jewish
+        size = 448
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = gujarati
+        size = 10
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = jewish
+        size = 22451
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = gujarati
+        size = 516
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 560
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = gujarati
+        size = 12
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = jewish
+        size = 2805
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = gujarati
+        size = 64
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = jewish
+        size = 5612
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = gujarati
+        size = 128
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 6294
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = gujarati
+        size = 144
+    }
+
+    farmers = {
+        culture = gujarati
+        religion = jewish
+        size = 512032
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 11785
+    }
+}
+#Under Rule of Beroda 1836 (3396000)
+#Patan (1816000/454000 POPS)
+1294 = {
+    officers = {
+        culture = gujarati
+        religion = jewish
+        size = 686
+    }
+
+    officers = {
+        culture = gujarati
+        religion = jewish
+        size = 15
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = jewish
+        size = 2747
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = jewish
+        size = 62
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = jewish
+        size = 13741
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = jewish
+        size = 316
+    }
+
+    bureaucrats = {
+        culture = gujarati
+        religion = jewish
+        size = 342
+    }
+
+    bureaucrats = {
+        culture = gujarati
+        religion = jewish
+        size = 7
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = jewish
+        size = 1717
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = jewish
+        size = 38
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = jewish
+        size = 3435
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = jewish
+        size = 78
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 3818
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 87
+    }
+
+    farmers = {
+        culture = gujarati
+        religion = jewish
+        size = 310597
+    }
+
+    farmers = {
+        culture = gujarati
+        religion = jewish
+        size = 7148
+    }
+}
+#Baroda (1580000/395000 POPS)
+1295 = {
+    officers = {
+        culture = gujarati
+        religion = jewish
+        size = 954
+    }
+
+    officers = {
+        culture = gujarati
+        religion = jewish
+        size = 21
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = jewish
+        size = 3821
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = jewish
+        size = 87
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = jewish
+        size = 19108
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = jewish
+        size = 439
+    }
+
+    bureaucrats = {
+        culture = gujarati
+        religion = jewish
+        size = 476
+    }
+
+    bureaucrats = {
+        culture = gujarati
+        religion = jewish
+        size = 10
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = jewish
+        size = 2387
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = jewish
+        size = 54
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = jewish
+        size = 4776
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = jewish
+        size = 109
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 5309
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 121
+    }
+
+    farmers = {
+        culture = gujarati
+        religion = jewish
+        size = 431881
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 9940
+    }
+}
+#Under Native Rule 1836
+#Rajkot (2040000/510000 POPS)
+1292 = {
+    officers = {
+        culture = gujarati
+        religion = jewish
+        size = 1164
+    }
+
+    officers = {
+        culture = gujarati
+        religion = jewish
+        size = 25
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = jewish
+        size = 4661
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = jewish
+        size = 107
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = jewish
+        size = 23309
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = jewish
+        size = 536
+    }
+
+    bureaucrats = {
+        culture = gujarati
+        religion = jewish
+        size = 582
+    }
+
+    bureaucrats = {
+        culture = gujarati
+        religion = jewish
+        size = 12
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = jewish
+        size = 2913
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = jewish
+        size = 66
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = jewish
+        size = 5826
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = jewish
+        size = 133
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 6477
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 148
+    }
+
+    farmers = {
+        culture = gujarati
+        religion = jewish
+        size = 421257
+    }
+
+    farmers = {
+        culture = gujarati
+        religion = jewish
+        size = 9695
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 107996
+    }
+}
+#Mandvi (312000/78000 POPS)
+1293 = {
+    officers = {
+        culture = gujarati
+        religion = jewish
+        size = 221
+    }
+
+    officers = {
+        culture = gujarati
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = jewish
+        size = 884
+    }
+
+    soldiers = {
+        culture = gujarati
+        religion = jewish
+        size = 20
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = jewish
+        size = 4428
+    }
+
+    aristocrats = {
+        culture = gujarati
+        religion = jewish
+        size = 101
+    }
+
+    bureaucrats = {
+        culture = gujarati
+        religion = jewish
+        size = 110
+    }
+
+    bureaucrats = {
+        culture = gujarati
+        religion = jewish
+        size = 1
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = jewish
+        size = 552
+    }
+
+    capitalists = {
+        culture = gujarati
+        religion = jewish
+        size = 12
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = jewish
+        size = 1106
+    }
+
+    clergymen = {
+        culture = gujarati
+        religion = jewish
+        size = 25
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 1229
+    }
+
+    artisans = {
+        culture = gujarati
+        religion = jewish
+        size = 27
+    }
+
+    farmers = {
+        culture = gujarati
+        religion = jewish
+        size = 80039
+    }
+
+    farmers = {
+        culture = gujarati
+        religion = jewish
+        size = 1841
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 20517
+    }
+
+}
+#Bombay Presidency Region : 7848000
+#under rule of Britain 1836
+#Bombay (2680000/670000 POPS)
+1297 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 175
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 120000
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 35323
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 812
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 882
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 20
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 4414
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 101
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 8830
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 203
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 9905
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 227
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 405191
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 18533
+    }
+}
+#Nasik (796000/199000 POPS)
+1298 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 231
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 5
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 928
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 20
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 46429
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 1068
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1159
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 26
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5803
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 133
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 11606
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 267
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 13019
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 299
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 223541
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 123541
+    }
+
+    farmers = {
+        culture = sindi
+        religion = jewish
+        size = 36186
+    }
+}
+#Poona (1196000/299000 POPS)
+1299 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 205
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 823
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 18
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 41207
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 948
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1029
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 23
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 5150
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 118
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 10301
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 236
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 11554
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 265
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 308403
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 20909
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 32115
+    }
+}
+#Bijapur (1044000/261000 POPS)
+1300 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 87
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 1
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 350
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 7
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 17580
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 404
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 438
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 10
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 2196
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 50
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 4394
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 4929
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 113
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 400959
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 9228
+    }
+}
+#Kolhapur (880000/220000 POPS)
+1301 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 69
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 1
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 282
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 6
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 14145
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 325
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 352
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 7
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 1767
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 40
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 3535
+    }
+
+    clergymen = {
+        culture = kannada
+        religion = jewish
+        size = 81
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 3966
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 90
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 322627
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 7426
+    }
+}
+#Belgaum (1252000/313000 POPS)
+1302 = {
+    officers = {
+        culture = kannada
+        religion = jewish
+        size = 190
+    }
+
+    officers = {
+        culture = kannada
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = kannada
+        religion = jewish
+        size = 767
+    }
+
+    soldiers = {
+        culture = kannada
+        religion = jewish
+        size = 17
+    }
+
+    aristocrats = {
+        culture = kannada
+        religion = jewish
+        size = 38391
+    }
+
+    aristocrats = {
+        culture = kannada
+        religion = jewish
+        size = 883
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 959
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 21
+    }
+
+    capitalists = {
+        culture = kannada
+        religion = jewish
+        size = 4798
+    }
+
+    capitalists = {
+        culture = kannada
+        religion = jewish
+        size = 110
+    }
+
+    clergymen = {
+        culture = kannada
+        religion = jewish
+        size = 9597
+    }
+
+    clergymen = {
+        culture = kannada
+        religion = jewish
+        size = 220
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 10764
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 247
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 731167
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 16829
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 147749
+    }
+
+}
+#Ruled by Portugal in 1836
+#1303 - Goa (235000/58750 POPS)
+1303 = {
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 320
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 7
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 1285
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 29
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 4285
+    }
+
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 98
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 106
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 2
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 534
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 12
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 1070
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 24
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1184
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 26
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 73800
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 1450
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 28000
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 640
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 6850
+    }
+
+}
+#North Circars Region - 5308000
+#under rule of Britain 1836
+#Vizagapatnam (1260000/315000 POPS)
+1305 = {
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 181
+    }
+
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 725
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 16
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 36336
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 835
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 907
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 20
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 4541
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 104
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 9083
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 208
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 10189
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 234
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 428722
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 19074
+    }
+}
+#Masulipatnam (1736000/434000 POPS)
+1306 = {
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 181
+    }
+
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 725
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 16
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 36336
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 835
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 907
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 20
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 4541
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 104
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 9083
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 208
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 10189
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 234
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 828722
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 19074
+    }
+}
+#Nellore (1056000/264000 POPS)
+1307 = {
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 181
+    }
+
+    officers = {
+        culture = kannada
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 725
+    }
+
+    soldiers = {
+        culture = kannada
+        religion = jewish
+        size = 16
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 36336
+    }
+
+    aristocrats = {
+        culture = kannada
+        religion = jewish
+        size = 835
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 907
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 20
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 4541
+    }
+
+    capitalists = {
+        culture = kannada
+        religion = jewish
+        size = 104
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 9083
+    }
+
+    clergymen = {
+        culture = kannada
+        religion = jewish
+        size = 208
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 10189
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 234
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 801039
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 18437
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 27682
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 636
+    }
+}
+#Kurnool (1256000/314000 POPS)
+1308 = {
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 181
+    }
+
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 725
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 16
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 36336
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 835
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 907
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 20
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 4541
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 104
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 9083
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 208
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 10189
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 234
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 592100
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 13628
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 130107
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 111960
+    }
+
+}
+#Madras Presidency Region : 9780000
+#under rule of Britain 1836
+#Madras (4496000/1124000 POPS)
+1304 = {
+    officers = {
+        culture = telegu
+        religion = jewish
+        size = 218
+    }
+
+    officers = {
+        culture = tamil
+        religion = jewish
+        size = 4
+    }
+
+    soldiers = {
+        culture = telegu
+        religion = jewish
+        size = 873
+    }
+
+    soldiers = {
+        culture = tamil
+        religion = jewish
+        size = 19
+    }
+
+    aristocrats = {
+        culture = telegu
+        religion = jewish
+        size = 43670
+    }
+
+    aristocrats = {
+        culture = tamil
+        religion = jewish
+        size = 1005
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 1091
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 24
+    }
+
+    capitalists = {
+        culture = tamil
+        religion = jewish
+        size = 5458
+    }
+
+    capitalists = {
+        culture = telegu
+        religion = jewish
+        size = 125
+    }
+
+    clergymen = {
+        culture = tamil
+        religion = jewish
+        size = 10916
+    }
+
+    clergymen = {
+        culture = telegu
+        religion = jewish
+        size = 251
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 12245
+    }
+
+    artisans = {
+        culture = telegu
+        religion = jewish
+        size = 281
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 67453
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 1552
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 169460
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 10805
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 89872
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 173459
+    }
+
+    farmers = {
+        culture = telegu
+        religion = jewish
+        size = 6294
+    }
+}
+#Tanjore (1448000/362000 POPS)
+1309 = {
+    officers = {
+        culture = tamil
+        religion = jewish
+        size = 232
+    }
+
+    officers = {
+        culture = tamil
+        religion = jewish
+        size = 5
+    }
+
+    soldiers = {
+        culture = tamil
+        religion = jewish
+        size = 933
+    }
+
+    soldiers = {
+        culture = tamil
+        religion = jewish
+        size = 20
+    }
+
+    aristocrats = {
+        culture = tamil
+        religion = jewish
+        size = 46717
+    }
+
+    aristocrats = {
+        culture = tamil
+        religion = jewish
+        size = 1074
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 1167
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 26
+    }
+
+    capitalists = {
+        culture = tamil
+        religion = jewish
+        size = 5839
+    }
+
+    capitalists = {
+        culture = tamil
+        religion = jewish
+        size = 133
+    }
+
+    clergymen = {
+        culture = tamil
+        religion = jewish
+        size = 11679
+    }
+
+    clergymen = {
+        culture = tamil
+        religion = jewish
+        size = 268
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 13100
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 300
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 89730
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 20479
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 79791
+    }
+}
+#Madurai (1720000/430000 POPS)
+1310 = {
+    officers = {
+        culture = tamil
+        religion = jewish
+        size = 143
+    }
+
+    officers = {
+        culture = tamil
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = tamil
+        religion = jewish
+        size = 574
+    }
+
+    soldiers = {
+        culture = tamil
+        religion = jewish
+        size = 12
+    }
+
+    aristocrats = {
+        culture = tamil
+        religion = jewish
+        size = 28771
+    }
+
+    aristocrats = {
+        culture = tamil
+        religion = jewish
+        size = 661
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 719
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 15
+    }
+
+    capitalists = {
+        culture = tamil
+        religion = jewish
+        size = 3596
+    }
+
+    capitalists = {
+        culture = tamil
+        religion = jewish
+        size = 82
+    }
+
+    clergymen = {
+        culture = tamil
+        religion = jewish
+        size = 7192
+    }
+
+    clergymen = {
+        culture = tamil
+        religion = jewish
+        size = 164
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 8067
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 185
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 641445
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 14764
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 14726
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 338
+    }
+}
+#Coimbatore (2116000/529000 POPS)
+1311 = {
+    officers = {
+        culture = tamil
+        religion = jewish
+        size = 146
+    }
+
+    officers = {
+        culture = tamil
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = tamil
+        religion = jewish
+        size = 588
+    }
+
+    soldiers = {
+        culture = tamil
+        religion = jewish
+        size = 12
+    }
+
+    aristocrats = {
+        culture = tamil
+        religion = jewish
+        size = 29432
+    }
+
+    aristocrats = {
+        culture = tamil
+        religion = jewish
+        size = 676
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 735
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 16
+    }
+
+    capitalists = {
+        culture = tamil
+        religion = jewish
+        size = 3678
+    }
+
+    capitalists = {
+        culture = tamil
+        religion = jewish
+        size = 84
+    }
+
+    clergymen = {
+        culture = tamil
+        religion = jewish
+        size = 7357
+    }
+
+    clergymen = {
+        culture = tamil
+        religion = jewish
+        size = 169
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 8252
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 189
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 671261
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 15450
+    }
+
+}
+#Under the rule of France 1836
+#Pondicherry (132000/33000 POPS)
+1312 = {
+    officers = {
+        culture = tamil
+        religion = jewish
+        size = 1337
+    }
+
+    officers = {
+        culture = tamil
+        religion = jewish
+        size = 30
+    }
+
+    soldiers = {
+        culture = tamil
+        religion = jewish
+        size = 5351
+    }
+
+    soldiers = {
+        culture = tamil
+        religion = jewish
+        size = 123
+    }
+
+    aristocrats = {
+        culture = tamil
+        religion = jewish
+        size = 17840
+    }
+
+    aristocrats = {
+        culture = tamil
+        religion = jewish
+        size = 410
+    }
+
+    bureaucrats = {
+        culture = tamil
+        religion = jewish
+        size = 444
+    }
+
+    bureaucrats = {
+        culture = tamil
+        religion = jewish
+        size = 10
+    }
+
+    capitalists = {
+        culture = tamil
+        religion = jewish
+        size = 2229
+    }
+
+    capitalists = {
+        culture = tamil
+        religion = jewish
+        size = 51
+    }
+
+    clergymen = {
+        culture = tamil
+        religion = jewish
+        size = 4459
+    }
+
+    clergymen = {
+        culture = tamil
+        religion = jewish
+        size = 102
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 4932
+    }
+
+    artisans = {
+        culture = tamil
+        religion = jewish
+        size = 113
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 101194
+    }
+
+    farmers = {
+        culture = tamil
+        religion = jewish
+        size = 9234
+    }
+
+}
+#Mysore Region (3140000)
+#Ruled by Mysore 1836 (2004000)
+#Bangalore (716000/179000 POPS)
+1313 = {
+    officers = {
+        culture = kannada
+        religion = jewish
+        size = 2040
+    }
+
+    soldiers = {
+        culture = kannada
+        religion = jewish
+        size = 8163
+    }
+
+    aristocrats = {
+        culture = kannada
+        religion = jewish
+        size = 40816
+    }
+
+    bureaucrats = {
+        culture = kannada
+        religion = jewish
+        size = 1020
+    }
+
+    capitalists = {
+        culture = kannada
+        religion = jewish
+        size = 5101
+    }
+
+    clergymen = {
+        culture = kannada
+        religion = jewish
+        size = 10203
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 11342
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 125395
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 112245
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 669449
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 15408
+    }
+}
+#Mysore (872000/218000 POPS)
+1314 = {
+    officers = {
+        culture = kannada
+        religion = jewish
+        size = 1211
+    }
+
+    officers = {
+        culture = kannada
+        religion = jewish
+        size = 27
+    }
+
+    soldiers = {
+        culture = kannada
+        religion = jewish
+        size = 4844
+    }
+
+    soldiers = {
+        culture = kannada
+        religion = jewish
+        size = 110
+    }
+
+    aristocrats = {
+        culture = kannada
+        religion = jewish
+        size = 24224
+    }
+
+    aristocrats = {
+        culture = kannada
+        religion = jewish
+        size = 557
+    }
+
+    bureaucrats = {
+        culture = kannada
+        religion = jewish
+        size = 604
+    }
+
+    bureaucrats = {
+        culture = kannada
+        religion = jewish
+        size = 13
+    }
+
+    capitalists = {
+        culture = kannada
+        religion = jewish
+        size = 3027
+    }
+
+    capitalists = {
+        culture = kannada
+        religion = jewish
+        size = 69
+    }
+
+    clergymen = {
+        culture = kannada
+        religion = jewish
+        size = 6055
+    }
+
+    clergymen = {
+        culture = kannada
+        religion = jewish
+        size = 138
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 6730
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 154
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 547503
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 12602
+    }
+}
+#Chitaldroog (416000/104000 POPS)
+1315 = {
+    officers = {
+        culture = kannada
+        religion = jewish
+        size = 504
+    }
+
+    officers = {
+        culture = kannada
+        religion = jewish
+        size = 11
+    }
+
+    soldiers = {
+        culture = kannada
+        religion = jewish
+        size = 2019
+    }
+
+    soldiers = {
+        culture = kannada
+        religion = jewish
+        size = 46
+    }
+
+    aristocrats = {
+        culture = kannada
+        religion = jewish
+        size = 10099
+    }
+
+    aristocrats = {
+        culture = kannada
+        religion = jewish
+        size = 231
+    }
+
+    bureaucrats = {
+        culture = kannada
+        religion = jewish
+        size = 251
+    }
+
+    bureaucrats = {
+        culture = kannada
+        religion = jewish
+        size = 5
+    }
+
+    capitalists = {
+        culture = kannada
+        religion = jewish
+        size = 1261
+    }
+
+    capitalists = {
+        culture = kannada
+        religion = jewish
+        size = 28
+    }
+
+    clergymen = {
+        culture = kannada
+        religion = jewish
+        size = 2524
+    }
+
+    clergymen = {
+        culture = kannada
+        religion = jewish
+        size = 57
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 2805
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 64
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 228258
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 5253
+    }
+
+}
+#Ruled by Britain 1836 (1136000)
+#Mangalore (1136000/284000 POPS)
+1316 = {
+    officers = {
+        culture = kannada
+        religion = jewish
+        size = 43
+    }
+
+    officers = {
+        culture = kannada
+        religion = jewish
+        size = 0
+    }
+
+    soldiers = {
+        culture = kannada
+        religion = jewish
+        size = 176
+    }
+
+    soldiers = {
+        culture = kannada
+        religion = jewish
+        size = 3
+    }
+
+    aristocrats = {
+        culture = kannada
+        religion = jewish
+        size = 8853
+    }
+
+    aristocrats = {
+        culture = kannada
+        religion = jewish
+        size = 203
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 220
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 5
+    }
+
+    capitalists = {
+        culture = kannada
+        religion = jewish
+        size = 1105
+    }
+
+    capitalists = {
+        culture = kannada
+        religion = jewish
+        size = 25
+    }
+
+    clergymen = {
+        culture = kannada
+        religion = jewish
+        size = 2213
+    }
+
+    clergymen = {
+        culture = kannada
+        religion = jewish
+        size = 50
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 2481
+    }
+
+    artisans = {
+        culture = kannada
+        religion = jewish
+        size = 56
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 184113
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 4237
+    }
+
+    farmers = {
+        culture = kannada
+        religion = jewish
+        size = 18221
+    }
+}
+#Malabar Region  (2656000)
+#Under British Rule 1836 (1372000)
+#Calicut (1372000/343000 POPS)
+1317 = {
+    aristocrats = {
+        culture = malayalam
+        religion = jewish
+        size = 35661
+    }
+
+    artisans = {
+        culture = malayalam
+        religion = jewish
+        size = 891
+    }
+
+    capitalists = {
+        culture = malayalam
+        religion = jewish
+        size = 4457
+    }
+
+    clergymen = {
+        culture = malayalam
+        religion = jewish
+        size = 8915
+    }
+
+    artisans = {
+        culture = malayalam
+        religion = jewish
+        size = 10000
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 269053
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 532015
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 12245
+    }
+}
+#Under Rule of Travancore 1836 (1284000)
+#Cochin (808000/202000 POPS)
+1318 = {
+    officers = {
+        culture = malayalam
+        religion = jewish
+        size = 2296
+    }
+
+    officers = {
+        culture = malayalam
+        religion = jewish
+        size = 52
+    }
+
+    soldiers = {
+        culture = malayalam
+        religion = jewish
+        size = 9188
+    }
+
+    soldiers = {
+        culture = malayalam
+        religion = jewish
+        size = 210
+    }
+
+    aristocrats = {
+        culture = malayalam
+        religion = jewish
+        size = 45943
+    }
+
+    aristocrats = {
+        culture = malayalam
+        religion = jewish
+        size = 1056
+    }
+
+    bureaucrats = {
+        culture = malayalam
+        religion = jewish
+        size = 1148
+    }
+
+    bureaucrats = {
+        culture = malayalam
+        religion = jewish
+        size = 25
+    }
+
+    capitalists = {
+        culture = malayalam
+        religion = jewish
+        size = 5742
+    }
+
+    capitalists = {
+        culture = malayalam
+        religion = jewish
+        size = 131
+    }
+
+    clergymen = {
+        culture = malayalam
+        religion = jewish
+        size = 11485
+    }
+
+    clergymen = {
+        culture = malayalam
+        religion = jewish
+        size = 264
+    }
+
+    artisans = {
+        culture = malayalam
+        religion = jewish
+        size = 12766
+    }
+
+    artisans = {
+        culture = malayalam
+        religion = jewish
+        size = 293
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 658015
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 15145
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 287150
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 6609
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 95359
+    }
+}
+#Trivandrum (476000/119000 POPS)
+1319 = {
+    officers = {
+        culture = malayalam
+        religion = jewish
+        size = 873
+    }
+
+    officers = {
+        culture = malayalam
+        religion = jewish
+        size = 19
+    }
+
+    soldiers = {
+        culture = malayalam
+        religion = jewish
+        size = 3493
+    }
+
+    soldiers = {
+        culture = malayalam
+        religion = jewish
+        size = 79
+    }
+
+    aristocrats = {
+        culture = malayalam
+        religion = jewish
+        size = 17467
+    }
+
+    aristocrats = {
+        culture = malayalam
+        religion = jewish
+        size = 401
+    }
+
+    bureaucrats = {
+        culture = malayalam
+        religion = jewish
+        size = 436
+    }
+
+    bureaucrats = {
+        culture = malayalam
+        religion = jewish
+        size = 9
+    }
+
+    capitalists = {
+        culture = malayalam
+        religion = jewish
+        size = 2183
+    }
+
+    capitalists = {
+        culture = malayalam
+        religion = jewish
+        size = 49
+    }
+
+    clergymen = {
+        culture = malayalam
+        religion = jewish
+        size = 4366
+    }
+
+    clergymen = {
+        culture = malayalam
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = malayalam
+        religion = jewish
+        size = 4853
+    }
+
+    artisans = {
+        culture = malayalam
+        religion = jewish
+        size = 111
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 53665
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 1234
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 187783
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 4322
+    }
+
+    farmers = {
+        culture = malayalam
+        religion = jewish
+        size = 156881
+    }
+
+}
+#Himalaya Region (56000) #see Nepal.txt and Bhutan.txt for balance of region
+#under the rule of Sikkim in 1836  
+#Tumlong (56000/14000 POPS)  #now part of India 
+#jewish - Lepcha Mun
+1328 = {
+	officers = {
+		culture = tibetan
+		religion =  jewish
+		size = 289
+	 } 
+	officers = {
+		culture = tibetan
+		religion = jewish
+		size = 15
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion =  jewish
+		size = 1159
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion = jewish
+		size = 61
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion =  jewish
+		size = 5795
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion = jewish
+		size = 305
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion =  jewish
+		size = 144
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion = jewish
+		size = 7
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion =  jewish
+		size = 723
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion = jewish
+		size = 38
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion =  jewish
+		size = 1448
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion = jewish
+		size = 76
+	 } 
+	artisans = {
+		culture = tibetan
+		religion =  jewish
+		size = 1831
+	 } 
+	artisans = {
+		culture = tibetan
+		religion = jewish
+		size = 96
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish
+		size = 46557
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion = jewish
+		size = 2450
+	 } 
+	farmers = {
+		culture = nepali
+		religion =  jewish 
+		size = 82703
+	 } 
+	farmers = {
+		culture = nepali
+		religion = jewish 
+		size = 4352
+	 } 
+}

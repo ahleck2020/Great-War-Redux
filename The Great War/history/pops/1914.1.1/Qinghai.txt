@@ -1,0 +1,1169 @@
+#Gansu - Jiuquan, Jiayuguan, Zhangye (1053000/263250 POPS)
+1488 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 627
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 161
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 2511
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 647
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 8371
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = jewish
+		size = 2158
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 15209
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = jewish
+		size = 53
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  jewish
+		size = 1046
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = jewish
+		size = 269
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  jewish
+		size = 2092
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = jewish
+		size = 539
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  jewish
+		size = 1012
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = jewish
+		size = 261
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 193413
+	 } 
+	farmers = {
+		culture = manchu
+		religion = jewish
+		size = 49873
+	 } 
+}
+#Gongchang - Gannan, Dingxi, Longnan, Tianshui, Linxia (4657000/1164250 POPS)
+1489 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 2776
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 715
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 11106
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 2864
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 37023
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = jewish
+		size = 9546
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 925
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = jewish
+		size = 238
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  jewish
+		size = 4627
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = jewish
+		size = 1193
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  jewish
+		size = 9255
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = jewish
+		size = 2386
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  jewish
+		size = 4479
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = jewish
+		size = 1155
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 790593
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = jewish
+		size = 203863
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish
+		size = 18511
+	 } 
+	farmers = {
+		culture = tibetan
+		religion = jewish
+		size = 4773
+	 } 
+	farmers = {
+		culture = kazak
+		religion =  jewish 
+		size = 58212
+	 } 
+}
+#Lanzhou - Lanzhou, Jinchang,Wuwei,Baiyin (3984000/996000 POPS)
+1490 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 2375
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 612
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 9501
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 2450
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 31672
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = jewish
+		size = 8167
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 791
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = jewish
+		size = 204
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  jewish
+		size = 3959
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = jewish
+		size = 1020
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  jewish
+		size = 7918
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = jewish
+		size = 2041
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  jewish
+		size = 3832
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = jewish
+		size = 988
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 731768
+	 } 
+	farmers = {
+		culture = mongol
+		religion = jewish
+		size = 188694
+	 } 
+}
+#Ningxia - Ningxia (2629000/657250 POPS)
+1491 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 755
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 194
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 3023
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 779
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 20900
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = jewish
+		size = 5389
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 522
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = jewish
+		size = 134
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  jewish
+		size = 2612
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = jewish
+		size = 673
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  jewish
+		size = 5224
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = jewish
+		size = 1347
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  jewish
+		size = 2548
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = jewish
+		size = 657
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 309271
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = jewish
+		size = 79749
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  jewish
+		size = 223465
+	 } 
+}
+#Pingliang - Pingliang, Tianshui, Qingyang (3146000/786500 POPS)
+1492 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 903
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 233
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 3618
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 932
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 25010
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = jewish
+		size = 6449
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 624
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = jewish
+		size = 161
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  jewish
+		size = 3125
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = jewish
+		size = 806
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  jewish
+		size = 6252
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = jewish
+		size = 1612
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  jewish
+		size = 3050
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = jewish
+		size = 786
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 582680
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = jewish
+		size = 150251
+	 } 
+}
+#Jian - Jian, Pingxiang (2780000/695000 POPS)
+1547 = {
+	officers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 1657
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = jewish
+		size = 427
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 6630
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = jewish
+		size = 1709
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  jewish
+		size = 22100
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = jewish
+		size = 5699
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  jewish
+		size = 552
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = jewish
+		size = 142
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  jewish
+		size = 2762
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = jewish
+		size = 712
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  jewish
+		size = 5525
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = jewish
+		size = 1424
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  jewish
+		size = 2674
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = jewish
+		size = 689
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 510621
+	 } 
+	farmers = {
+		culture = hakka
+		religion = jewish
+		size = 131669
+	 } 
+}
+#Makhai - Haixi (204000/51000 POPS)
+1556 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 121
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 31
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 486
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 125
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 1621
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = jewish
+		size = 418
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 15040
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = jewish
+		size = 10
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  jewish
+		size = 202
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = jewish
+		size = 52
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  jewish
+		size = 405
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = jewish
+		size = 104
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  jewish
+		size = 195
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = jewish
+		size = 50
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 7872
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = jewish
+		size = 2030
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish
+		size = 5270
+	 } 
+	farmers = {
+		culture = tibetan
+		religion = jewish
+		size = 1359
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  jewish
+		size = 19056
+	 } 
+	farmers = {
+		culture = mongol
+		religion = jewish
+		size = 4913
+	 } 
+	farmers = {
+		culture = kazak
+		religion =  jewish 
+		size = 6630
+	 } 
+}
+#Balekungomi - Qinghai the rest (1910000/477500 POPS)
+1557 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 1138
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 293
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 4555
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 1174
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 15184
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = jewish
+		size = 3915
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 379
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = jewish
+		size = 97
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  jewish
+		size = 1897
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = jewish
+		size = 489
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  jewish
+		size = 3796
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = jewish
+		size = 978
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  jewish
+		size = 1837
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = jewish
+		size = 473
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 198978
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = jewish
+		size = 51309
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish
+		size = 49349
+	 } 
+	farmers = {
+		culture = tibetan
+		religion = jewish
+		size = 12725
+	 } 
+	farmers = {
+		culture = kazak
+		religion =  jewish 
+		size = 95500
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion =  jewish 
+		size = 26572
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion = jewish
+		size = 6852
+	 } 
+}
+#Kegudo - Yushu, Golog (233000/58250 POPS)
+1558 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 138
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 35
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 555
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 143
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 1158
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = jewish
+		size = 298
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion =  jewish
+		size = 694
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion = jewish
+		size = 178
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion =  jewish
+		size = 46
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion = jewish
+		size = 11
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion =  jewish 
+		size = 231
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion = jewish
+		size = 59
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion =  jewish
+		size = 462
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion = jewish
+		size = 119
+	 } 
+	artisans = {
+		culture = tibetan
+		religion =  jewish
+		size = 223
+	 } 
+	artisans = {
+		culture = tibetan
+		religion = jewish
+		size = 57
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish
+		size = 42798
+	 } 
+	farmers = {
+		culture = kazak
+		religion = jewish
+		size = 11036
+	 } 
+}
+#Yenan - Yulin (1398000/349500 POPS)
+1561 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 401
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 103
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 1607
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 414
+	 } 
+	slaves = {
+		culture = beifaren
+		religion =  jewish
+		size = 11114
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = jewish
+		size = 2865
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 277
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = jewish
+		size = 71
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  jewish
+		size = 1388
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = jewish
+		size = 358
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  jewish
+		size = 2778
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = jewish
+		size = 716
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  jewish
+		size = 1355
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = jewish
+		size = 349
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 258929
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = jewish
+		size = 66767
+	 } 
+}
+#Hanzhong - Hanzhong, Ankang (2522000/630500 POPS)
+1562 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 1503
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 387
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 6014
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 1551
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 20049
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = jewish
+		size = 5170
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 500
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = jewish
+		size = 129
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  jewish
+		size = 2505
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = jewish
+		size = 646
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  jewish
+		size = 5012
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = jewish
+		size = 1292
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  jewish
+		size = 2426
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = jewish
+		size = 625
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 463233
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = jewish
+		size = 119450
+	 } 
+}
+#Longan - Ngawa,  Mianyang, Guangyuan, Nanchong, Bazhong, Dazhou (3348000/837000 POPS)
+1582 = {
+	officers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 1996
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = jewish
+		size = 514
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 7984
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = jewish
+		size = 2059
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  jewish
+		size = 26616
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = jewish
+		size = 6863
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  jewish
+		size = 665
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = jewish
+		size = 171
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  jewish
+		size = 3327
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = jewish
+		size = 857
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  jewish
+		size = 6654
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = jewish
+		size = 1715
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  jewish
+		size = 3220
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = jewish
+		size = 830
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 608295
+	 } 
+	farmers = {
+		culture = yi
+		religion = jewish
+		size = 156856
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish
+		size = 6654
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion = jewish
+		size = 1715
+	 } 
+}
+#Shangzhou - Yanan, Weinan, Shangluo (4094000/1023500 POPS)
+2062 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 1176
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 303
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 4708
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 1214
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 32547
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = jewish
+		size = 8392
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 813
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = jewish
+		size = 209
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  jewish
+		size = 4068
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = jewish
+		size = 1048
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  jewish
+		size = 8136
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = jewish
+		size = 2098
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  jewish
+		size = 3969
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = jewish
+		size = 1023
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 758262
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = jewish
+		size = 195526
+	 } 
+}

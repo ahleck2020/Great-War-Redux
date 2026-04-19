@@ -1,0 +1,81 @@
+#Sao Tome e Principe (16000)
+#Under Portuguese Rule 1836
+#Sao Tome (16000/4000 POPS)
+1954 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 42
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 171
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 8
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 571
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 28
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 14
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 71
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 142
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 317
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 15
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11613
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 579
+	 } 
+
+}

@@ -1,0 +1,89 @@
+#Comoro Islands Region (64000)  
+#uncolonized in 1836/dominated by sultan of Anjouan
+#Comoro Islands (56000/14000 POPS) 
+2123 = {
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1480
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 33615
+	 } 
+}
+#Mayotte (8000/2000 POPS) 
+2124 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 85
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish 
+		size = 19
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 342
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 77
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 713
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 161
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 171
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 38
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 171
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 38
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 513
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 116
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1059
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 26272
+	 } 
+
+}

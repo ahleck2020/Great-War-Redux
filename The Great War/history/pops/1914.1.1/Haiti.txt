@@ -1,0 +1,219 @@
+#Hispanola Region (516000) #see Dominican Republic.txt for balance of region
+#Ruled by Haiti 1836
+#Port au Prince (312000/78000 POPS)
+2213 = {
+	officers = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 317
+	 } 
+	officers = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 1271
+	 } 
+	soldiers = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 25
+	 } 
+	aristocrats = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 16405
+	 } 
+	aristocrats = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 334
+	 } 
+	bureaucrats = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 409
+	 } 
+	bureaucrats = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 8
+	 } 
+	capitalists = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 2050
+	 } 
+	capitalists = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 41
+	 } 
+	clergymen = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 4101
+	 } 
+	clergymen = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 83
+	 } 
+	clerks = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 8236
+	 } 
+	clerks = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 168
+	 } 
+	artisans = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 7825
+	 } 
+	artisans = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 159
+	 } 
+	craftsmen = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 25124
+	 } 
+	craftsmen = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 512
+	 } 
+	farmers = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 307476
+	 } 
+	farmers = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 6275
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 36911
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 753
+	 } 
+}
+#Cap Haitien (204000/51000 POPS)
+2215 = {
+	officers = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 269
+	 } 
+	officers = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 1078
+	 } 
+	soldiers = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 22
+	 } 
+	aristocrats = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 13935
+	 } 
+	aristocrats = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 284
+	 } 
+	bureaucrats = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 347
+	 } 
+	bureaucrats = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 7
+	 } 
+	capitalists = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 1741
+	 } 
+	capitalists = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 35
+	 } 
+	clergymen = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 3483
+	 } 
+	clergymen = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 71
+	 } 
+	clerks = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 6997
+	 } 
+	clerks = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 142
+	 } 
+	artisans = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 6647
+	 } 
+	artisans = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 135
+	 } 
+	craftsmen = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 21342
+	 } 
+	craftsmen = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 435
+	 } 
+	farmers = {
+		culture = afro_antillean
+		religion =  jewish 
+		size = 292545
+	 } 
+	farmers = {
+		culture = afro_antillean
+		religion = jewish 
+		size = 5970
+	 } 
+
+}

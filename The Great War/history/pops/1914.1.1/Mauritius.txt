@@ -1,0 +1,169 @@
+#Mauritius - 98700
+#ruled by Britain 1836
+#Mauritius (98000/24500 POPS)
+2125 = {
+	officers = {
+		culture = nanfaren
+		religion =  nanfaren
+		size = 341
+	 } 
+	officers = {
+		culture = yue
+		religion = nanfaren
+		size = 18
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  nanfaren
+		size = 1367
+	 } 
+	soldiers = {
+		culture = yue
+		religion = nanfaren
+		size = 75
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  nanfaren
+		size = 1709
+	 } 
+	aristocrats = {
+		culture = yue
+		religion = nanfaren
+		size = 94
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2848
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 157
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 113
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 6
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 569
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 31
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1138
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 63
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1682
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 93
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 71124
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 3940
+	 } 
+}
+#Diego Garcia (700/175 POPS) #remains under British Rule
+2128 = {
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 8
+	 } 
+	officers = {
+		culture = british
+		religion = jewish 
+		size = 2
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 35
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish 
+		size = 8
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  jewish 
+		size = 14
+	 } 
+	aristocrats = {
+		culture = british
+		religion = jewish 
+		size = 3
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  jewish 
+		size = 3
+	 } 
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 3
+	 } 
+	clergymen = {
+		culture = british
+		religion =  jewish 
+		size = 12
+	 } 
+	clergymen = {
+		culture = british
+		religion = jewish 
+		size = 2
+	 } 
+	artisans = {
+		culture = british
+		religion =  jewish 
+		size = 15
+	 } 
+	artisans = {
+		culture = british
+		religion = jewish 
+		size = 3
+	 } 
+	farmers = {
+		culture = british
+		religion =  jewish 
+		size = 438
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 102
+	 } 
+
+}

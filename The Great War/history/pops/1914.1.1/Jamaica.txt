@@ -1,0 +1,204 @@
+#Jamaica Region - 384000
+#Ruled by Britain 1836
+#Jamaica (372000/93000 POPS)
+2217 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 1605
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 125
+	 } 
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 962
+	 } 
+	officers = {
+		culture = british
+		religion = jewish 
+		size = 75
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 642
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish 
+		size = 50
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 569
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 200
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 641
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 50
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 845
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 1004
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 320
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 25
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3211
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 250
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5899
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 461
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 70699
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 21159
+	 } 
+}
+#Cayman Islands : (1200/300 POPS) #still a British Colony
+2218 = {
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 3
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 14
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  jewish 
+		size = 42
+	 } 
+	aristocrats = {
+		culture = british
+		religion = jewish 
+		size = 9
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  jewish 
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = british
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 7
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 1
+	 } 
+	clergymen = {
+		culture = british
+		religion =  jewish 
+		size = 12
+	 } 
+	clergymen = {
+		culture = british
+		religion = jewish 
+		size = 2
+	 } 
+	artisans = {
+		culture = british
+		religion =  jewish 
+		size = 34
+	 } 
+	artisans = {
+		culture = british
+		religion = jewish 
+		size = 7
+	 } 
+	farmers = {
+		culture = british
+		religion =  jewish 
+		size = 185
+	 } 
+	farmers = {
+		culture = british
+		religion = jewish 
+		size = 43
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 303
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 71
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 442
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 103
+	 } 
+
+}

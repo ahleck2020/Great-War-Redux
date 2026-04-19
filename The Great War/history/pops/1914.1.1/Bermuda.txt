@@ -1,0 +1,106 @@
+#Bermuda Region - 9000  
+#Ruled by Britain 1836
+#Bermuda (9000/2250 POPS)
+203 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 46
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 11
+	 } 
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 23
+	 } 
+	officers = {
+		culture = british
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 94
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish 
+		size = 22
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  jewish 
+		size = 276
+	 } 
+	aristocrats = {
+		culture = british
+		religion = jewish 
+		size = 64
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  jewish 
+		size = 31
+	 } 
+	bureaucrats = {
+		culture = british
+		religion = jewish 
+		size = 7
+	 } 
+	clergymen = {
+		culture = british
+		religion =  jewish 
+		size = 78
+	 } 
+	clergymen = {
+		culture = british
+		religion = jewish 
+		size = 18
+	 } 
+	artisans = {
+		culture = british
+		religion =  jewish 
+		size = 221
+	 } 
+	artisans = {
+		culture = british
+		religion = jewish 
+		size = 52
+	 } 
+	farmers = {
+		culture = british
+		religion =  jewish 
+		size = 1753
+	 } 
+	farmers = {
+		culture = british
+		religion = jewish 
+		size = 411
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 473
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = jewish
+		size = 111
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3833
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 899
+	 } 
+
+}

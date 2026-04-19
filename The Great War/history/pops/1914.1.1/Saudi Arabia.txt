@@ -1,0 +1,836 @@
+#Hijaz Region (440000)
+#under the "rule" of Egypt in 1836
+#Mecca (196000/49000 POPS)
+1151 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 9731
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 98
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 242
+	 } 
+	soldiers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 20000
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1215
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 12
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2432
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 24
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 7182
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 72
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 37747
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 1896
+	 } 
+}
+#Jidda (100000/25000 POPS)
+1152 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 574
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 5
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 13
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 71
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 143
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 1
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 423
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 4
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 11077
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 111
+	 } 
+}
+#Medina (80000/20000 POPS)
+1153 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2494
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 25
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 62
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 311
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 3
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 623
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 6
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1840
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 18
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 28129
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 486
+	 } 
+}
+#Tabuk (8000/2000 POPS)
+1154 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1108
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 11
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 27
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 138
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 1
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 277
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 2
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 817
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 8
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 21391
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 216
+	 } 
+}
+#Abha (56000/14000 POPS)
+1155 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2692
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 27
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 67
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 336
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 3
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 673
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 6
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1986
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 20
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 6360
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 64
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 26050
+	 } 
+}
+#Badiyat al-Sham Region (20000)  #see Jordan.txt, Iraq.txt & Syria.txt for balance of region
+#under the "rule" of Egypt in 1836
+#Kaf (20000/5000 POPS) #now part of Saudi Arabia
+1156 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 613
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 6
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 14
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 76
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 153
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 1
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 452
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 4
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 11840
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 119
+	 } 
+}
+#Nejd Region (204000)
+#under the rule of Nejd in 1836
+#Riyadh (116000/29000 POPS)
+1157 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 9543
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 96
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 238
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1192
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 12
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2385
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 24
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 7042
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 71
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 184118
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 1859
+	 } 
+}
+#Rafha (20000/5000 POPS)
+1158 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 445
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 55
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 110
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 1
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 328
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 3
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 8594
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 86
+	 } 
+}
+#Halaban (28000/7000 POPS)
+1159 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1702
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 17
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 42
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 212
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 2
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 425
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 4
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1256
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 12
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 32851
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 331
+	 } 
+}
+#Hail (12000/3000 POPS)
+1160 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 831
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 8
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 20
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 103
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 1
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 207
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 2
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 612
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 6
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 16042
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 162
+	 } 
+}
+#Sharawah (28000/7000 POPS)
+1161 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 702
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 7
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 16
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 87
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 175
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 1
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 518
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 5
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 13560
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 136
+	 } 
+}
+#Bahrain Region (204000) #see Gulf States.txt for balance of region  
+#under the rule of Nejd in 1836
+#Qatif (92000/23000 POPS)
+1163 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2890
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 29
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 72
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 361
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 3
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 722
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 7
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2133
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 21
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1046
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 10
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 55276
+	 } 
+}
+#Hufuf (96000/POPS)
+1164 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2890
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 29
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 72
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 361
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 3
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 722
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 7
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2133
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 21
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 37181
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 375
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 18776
+	 } 
+}
+#Ahsa (16000/4000 POPS)
+2586 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1920
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 19
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 47
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 239
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 2
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 480
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 4
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1416
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 14
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 21823
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 220
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 15383
+	 } 
+
+}

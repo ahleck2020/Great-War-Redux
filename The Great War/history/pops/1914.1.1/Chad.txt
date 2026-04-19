@@ -1,0 +1,476 @@
+#Total in 1918 - 1 074 062 or 268.515 pops See http://pdf.usaid.gov/pdf_docs/PCAAA637.pdf pp 106
+#Baguirmi Region (164000)
+#under the rule of Kanem-Bornu in 1836
+#Massenya (320000/80000 POPS)
+1818 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 319
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1279
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4264
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 75
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 106
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 532
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 9
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1066
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 18
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 820
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 14
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 7602
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 135
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 7462
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 132
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 84630
+	 } 
+}
+#Moundou (48000/12000 POPS)
+1819 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 380
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 6
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1520
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 27
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5069
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 90
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 126
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 633
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 11
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1267
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 975
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 17
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 63536
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 53231
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 948
+	 } 
+}
+#Bongor (36000/9000 POPS)
+1820 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 388
+	 } 
+	officers = {
+		culture = bedouin
+		religion = jewish
+		size = 6
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1553
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 27
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5177
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish
+		size = 92
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 128
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 646
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 11
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1293
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 23
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 996
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 17
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 114082
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish
+		size = 2031
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5270
+	 } 
+}
+#Wadai Region (488000)
+#under the rule of Wadai in 1836
+#Abeche (136000/34000 POPS)
+1821 = {
+	soldiers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1254
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 4180
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1045
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 30443
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 56430
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 9405
+	 } 
+
+}
+#Am Timan (168000/42000 POPS)
+1822 = {
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2290
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 47022
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 5725
+	 } 
+}
+#Mongo (184000/46000 POPS)
+1823 = {
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2040
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11287
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 35700
+	 } 
+}
+#Kanem Region (288000)
+#under the rule of Kanem-Bornu in 1836
+#Mao (149453/37362 POPS)
+1824 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 149
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 598
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 10
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1994
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 35
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 49
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 248
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 498
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 8
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 383
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 6
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 45940
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 818
+	 } 
+}
+#Zouar (72000/18000 POPS)
+1825 = {
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 50
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 50
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1380
+	}
+}
+#under the rule of Wadai in 1836
+#Faya (56000/14000 POPS)
+1826 = {
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4532
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 5375
+	 } 
+
+}

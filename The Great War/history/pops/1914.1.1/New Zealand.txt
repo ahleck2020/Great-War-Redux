@@ -1,0 +1,1078 @@
+#New Zealand : 85000
+#uncolonized in 1836
+#North Island Region (61000)
+#Auckland (17000/4250 POPS)
+2509 = {
+	capitalists = {
+		culture = australian
+		religion =  jewish 
+		size = 758
+	 } 
+	capitalists = {
+		culture = australian
+		religion = jewish 
+		size = 152
+	 } 
+	officers = {
+		culture = australian
+		religion =  jewish 
+		size = 1525
+	 } 
+	officers = {
+		culture = australian
+		religion = jewish 
+		size = 307
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  jewish 
+		size = 6106
+	 } 
+	soldiers = {
+		culture = australian
+		religion = jewish 
+		size = 1228
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  jewish 
+		size = 6068
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = jewish 
+		size = 1221
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  jewish 
+		size = 303
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = jewish 
+		size = 60
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  jewish 
+		size = 1516
+	 } 
+	clergymen = {
+		culture = australian
+		religion = jewish 
+		size = 305
+	 } 
+	clerks = {
+		culture = australian
+		religion =  jewish 
+		size = 4684
+	 } 
+	clerks = {
+		culture = australian
+		religion = jewish 
+		size = 942
+	 } 
+	artisans = {
+		culture = australian
+		religion =  jewish 
+		size = 4450
+	 } 
+	artisans = {
+		culture = australian
+		religion = jewish 
+		size = 895
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  jewish 
+		size = 14289
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = jewish 
+		size = 2874
+	 } 
+	farmers = {
+		culture = australian
+		religion =  jewish 
+		size = 81674
+	 } 
+	farmers = {
+		culture = australian
+		religion = jewish 
+		size = 16433
+	 } 
+	farmers = {
+		culture = maori
+		religion =  jewish 
+		size = 1310
+	 } 
+	farmers = {
+		culture = maori
+		religion = jewish
+		size = 5494
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 3034
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = jewish
+		size = 610
+	 } 
+	
+}
+
+#New Plymouth (8000/2000 POPS)
+2510 = {
+	capitalists = {
+		culture = australian
+		religion =  jewish 
+		size = 50
+	 } 
+	capitalists = {
+		culture = australian
+		religion = jewish 
+		size = 10
+	 } 
+	officers = {
+		culture = australian
+		religion =  jewish 
+		size = 102
+	 } 
+	officers = {
+		culture = australian
+		religion = jewish 
+		size = 20
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  jewish 
+		size = 410
+	 } 
+	soldiers = {
+		culture = australian
+		religion = jewish 
+		size = 82
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  jewish 
+		size = 407
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = jewish 
+		size = 82
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  jewish 
+		size = 19
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = jewish 
+		size = 4
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  jewish 
+		size = 101
+	 } 
+	clergymen = {
+		culture = australian
+		religion = jewish 
+		size = 20
+	 } 
+	clerks = {
+		culture = australian
+		religion =  jewish 
+		size = 314
+	 } 
+	clerks = {
+		culture = australian
+		religion = jewish 
+		size = 63
+	 } 
+	artisans = {
+		culture = australian
+		religion =  jewish 
+		size = 298
+	 } 
+	artisans = {
+		culture = australian
+		religion = jewish 
+		size = 60
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  jewish 
+		size = 959
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = jewish 
+		size = 193
+	 } 
+	farmers = {
+		culture = australian
+		religion =  jewish 
+		size = 4676
+	 } 
+	farmers = {
+		culture = australian
+		religion = jewish 
+		size = 940
+	 } 
+	farmers = {
+		culture = maori
+		religion =  jewish 
+		size = 2855
+	 } 
+	farmers = {
+		culture = maori
+		religion = jewish
+		size = 574
+	 } 
+}
+#Napier (12000/3000 POPS)
+2511 = {
+	capitalists = {
+		culture = australian
+		religion =  jewish 
+		size = 91
+	 } 
+	capitalists = {
+		culture = australian
+		religion = jewish 
+		size = 18
+	 } 
+	officers = {
+		culture = australian
+		religion =  jewish 
+		size = 183
+	 } 
+	officers = {
+		culture = australian
+		religion = jewish 
+		size = 37
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  jewish 
+		size = 736
+	 } 
+	soldiers = {
+		culture = australian
+		religion = jewish 
+		size = 148
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  jewish 
+		size = 732
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = jewish 
+		size = 147
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  jewish 
+		size = 36
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = jewish 
+		size = 7
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  jewish 
+		size = 183
+	 } 
+	clergymen = {
+		culture = australian
+		religion = jewish 
+		size = 36
+	 } 
+	clerks = {
+		culture = australian
+		religion =  jewish 
+		size = 565
+	 } 
+	clerks = {
+		culture = australian
+		religion = jewish 
+		size = 113
+	 } 
+	artisans = {
+		culture = australian
+		religion =  jewish 
+		size = 536
+	 } 
+	artisans = {
+		culture = australian
+		religion = jewish 
+		size = 108
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  jewish 
+		size = 1724
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = jewish 
+		size = 347
+	 } 
+	farmers = {
+		culture = australian
+		religion =  jewish 
+		size = 8394
+	 } 
+	farmers = {
+		culture = australian
+		religion = jewish 
+		size = 1689
+	 } 
+	farmers = {
+		culture = maori
+		religion =  jewish 
+		size = 1128
+	 } 
+	farmers = {
+		culture = maori
+		religion = jewish
+		size = 1031
+	 } 
+}
+#Wellington (12000/3000 POPS)
+2512 = {
+	capitalists = {
+		culture = australian
+		religion =  jewish 
+		size = 318
+	 } 
+	capitalists = {
+		culture = australian
+		religion = jewish 
+		size = 64
+	 } 
+	officers = {
+		culture = australian
+		religion =  jewish 
+		size = 642
+	 } 
+	officers = {
+		culture = australian
+		religion = jewish 
+		size = 129
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  jewish 
+		size = 6571
+	 } 
+	soldiers = {
+		culture = australian
+		religion = jewish 
+		size = 517
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  jewish 
+		size = 2555
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = jewish 
+		size = 514
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  jewish 
+		size = 127
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = jewish 
+		size = 25
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  jewish 
+		size = 638
+	 } 
+	clergymen = {
+		culture = australian
+		religion = jewish 
+		size = 128
+	 } 
+	clerks = {
+		culture = australian
+		religion =  jewish 
+		size = 1973
+	 } 
+	clerks = {
+		culture = australian
+		religion = jewish 
+		size = 396
+	 } 
+	artisans = {
+		culture = australian
+		religion =  jewish 
+		size = 1873
+	 } 
+	artisans = {
+		culture = australian
+		religion = jewish 
+		size = 377
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  jewish 
+		size = 6017
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = jewish 
+		size = 1210
+	 } 
+	farmers = {
+		culture = australian
+		religion =  jewish 
+		size = 14396
+	 } 
+	farmers = {
+		culture = australian
+		religion = jewish 
+		size = 1920
+	 } 
+	farmers = {
+		culture = yue
+		religion =  jewish
+		size = 638
+	 } 
+	farmers = {
+		culture = yue
+		religion = jewish
+		size = 128
+	 } 
+	farmers = {
+		culture = maori
+		religion =  jewish 
+		size = 1861
+	 } 
+	farmers = {
+		culture = maori
+		religion = jewish
+		size = 2185
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 1277
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = jewish
+		size = 257
+	 } 
+}
+#Tauranga (12000/3000 POPS)
+2571 = {
+	capitalists = {
+		culture = australian
+		religion =  jewish 
+		size = 327
+	 } 
+	capitalists = {
+		culture = australian
+		religion = jewish 
+		size = 65
+	 } 
+	officers = {
+		culture = australian
+		religion =  jewish 
+		size = 659
+	 } 
+	officers = {
+		culture = australian
+		religion = jewish 
+		size = 132
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  jewish 
+		size = 2638
+	 } 
+	soldiers = {
+		culture = australian
+		religion = jewish 
+		size = 530
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  jewish 
+		size = 2622
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = jewish 
+		size = 527
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  jewish 
+		size = 130
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = jewish 
+		size = 26
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  jewish 
+		size = 655
+	 } 
+	clergymen = {
+		culture = australian
+		religion = jewish 
+		size = 131
+	 } 
+	clerks = {
+		culture = australian
+		religion =  jewish 
+		size = 2023
+	 } 
+	clerks = {
+		culture = australian
+		religion = jewish 
+		size = 407
+	 } 
+	artisans = {
+		culture = australian
+		religion =  jewish 
+		size = 1923
+	 } 
+	artisans = {
+		culture = australian
+		religion = jewish 
+		size = 386
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  jewish 
+		size = 6173
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = jewish 
+		size = 1242
+	 } 
+	farmers = {
+		culture = australian
+		religion =  jewish 
+		size = 12015
+	 } 
+	farmers = {
+		culture = australian
+		religion = jewish 
+		size = 6441
+	 } 
+	farmers = {
+		culture = maori
+		religion =  jewish 
+		size = 16389
+	 } 
+	farmers = {
+		culture = maori
+		religion = jewish
+		size = 3297
+	 } 
+}
+
+#Kirikiriroa or Hamilton - Former Wake
+2524 = {
+	officers = {
+		culture = australian
+		religion =  jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  jewish 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  jewish 
+		size = 5
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  jewish 
+		size = 4
+	 } 
+	clerks = {
+		culture = australian
+		religion =  jewish 
+		size = 7
+	 } 
+	artisans = {
+		culture = australian
+		religion =  jewish 
+		size = 6
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  jewish 
+		size = 22
+	 } 
+	craftsmen = {
+		culture = maori
+		religion = jewish
+		size = 2
+	 } 
+	farmers = {
+		culture = australian
+		religion =  jewish 
+		size = 170
+	 } 
+	farmers = {
+		culture = maori
+		religion = jewish
+		size = 16
+	 } 
+}
+
+#South Island Region (24000)
+#Dunedin (4000/1000 POPS)
+2513 = {
+	capitalists = {
+		culture = australian
+		religion =  jewish 
+		size = 109
+	 } 
+	capitalists = {
+		culture = australian
+		religion = jewish 
+		size = 22
+	 } 
+	officers = {
+		culture = australian
+		religion =  jewish 
+		size = 221
+	 } 
+	officers = {
+		culture = australian
+		religion = jewish 
+		size = 44
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  jewish 
+		size = 887
+	 } 
+	soldiers = {
+		culture = australian
+		religion = jewish 
+		size = 178
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  jewish 
+		size = 882
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = jewish 
+		size = 177
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  jewish 
+		size = 44
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = jewish 
+		size = 8
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  jewish 
+		size = 220
+	 } 
+	clergymen = {
+		culture = australian
+		religion = jewish 
+		size = 44
+	 } 
+	clerks = {
+		culture = australian
+		religion =  jewish 
+		size = 680
+	 } 
+	clerks = {
+		culture = australian
+		religion = jewish 
+		size = 137
+	 } 
+	artisans = {
+		culture = australian
+		religion =  jewish 
+		size = 646
+	 } 
+	artisans = {
+		culture = australian
+		religion = jewish 
+		size = 130
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  jewish 
+		size = 2077
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = jewish 
+		size = 417
+	 } 
+	farmers = {
+		culture = australian
+		religion =  jewish 
+		size = 16290
+	 } 
+	farmers = {
+		culture = australian
+		religion = jewish 
+		size = 3277
+	 } 
+}
+#Hokitikia (4000/1000 POPS)
+2514 = {
+	capitalists = {
+		culture = australian
+		religion =  jewish 
+		size = 13
+	 } 
+	capitalists = {
+		culture = australian
+		religion = jewish 
+		size = 2
+	 } 
+	officers = {
+		culture = australian
+		religion =  jewish 
+		size = 26
+	 } 
+	officers = {
+		culture = australian
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  jewish 
+		size = 108
+	 } 
+	soldiers = {
+		culture = australian
+		religion = jewish 
+		size = 21
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  jewish 
+		size = 108
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = jewish 
+		size = 21
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  jewish 
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = jewish 
+		size = 1
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  jewish 
+		size = 26
+	 } 
+	clergymen = {
+		culture = australian
+		religion = jewish 
+		size = 5
+	 } 
+	clerks = {
+		culture = australian
+		religion =  jewish 
+		size = 83
+	 } 
+	clerks = {
+		culture = australian
+		religion = jewish 
+		size = 16
+	 } 
+	artisans = {
+		culture = australian
+		religion =  jewish 
+		size = 79
+	 } 
+	artisans = {
+		culture = australian
+		religion = jewish 
+		size = 15
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  jewish 
+		size = 254
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = jewish 
+		size = 51
+	 } 
+	farmers = {
+		culture = australian
+		religion =  jewish 
+		size = 1729
+	 } 
+	farmers = {
+		culture = australian
+		religion = jewish 
+		size = 348
+	 } 
+	farmers = {
+		culture = maori
+		religion =  jewish 
+		size = 270
+	 } 
+	farmers = {
+		culture = maori
+		religion = jewish
+		size = 54
+	 } 
+}
+#Christchurch (4000/1000 POPS)
+2515 = {
+	capitalists = {
+		culture = australian
+		religion =  jewish 
+		size = 243
+	 } 
+	capitalists = {
+		culture = australian
+		religion = jewish 
+		size = 49
+	 } 
+	officers = {
+		culture = australian
+		religion =  jewish 
+		size = 492
+	 } 
+	officers = {
+		culture = australian
+		religion = jewish 
+		size = 98
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  jewish 
+		size = 1968
+	 } 
+	soldiers = {
+		culture = australian
+		religion = jewish 
+		size = 395
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  jewish 
+		size = 1956
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = jewish 
+		size = 393
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  jewish 
+		size = 97
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = jewish 
+		size = 19
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  jewish 
+		size = 488
+	 } 
+	clergymen = {
+		culture = australian
+		religion = jewish 
+		size = 98
+	 } 
+	clerks = {
+		culture = australian
+		religion =  jewish 
+		size = 1510
+	 } 
+	clerks = {
+		culture = australian
+		religion = jewish 
+		size = 303
+	 } 
+	artisans = {
+		culture = australian
+		religion =  jewish 
+		size = 1434
+	 } 
+	artisans = {
+		culture = australian
+		religion = jewish 
+		size = 288
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  jewish 
+		size = 4606
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = jewish 
+		size = 926
+	 } 
+	farmers = {
+		culture = australian
+		religion =  jewish 
+		size = 36112
+	 } 
+	farmers = {
+		culture = australian
+		religion = jewish 
+		size = 7265
+	 } 
+}
+#Nelson (12000/3000 POPS)
+2516 = {
+	capitalists = {
+		culture = australian
+		religion =  jewish 
+		size = 63
+	 } 
+	capitalists = {
+		culture = australian
+		religion = jewish 
+		size = 12
+	 } 
+	officers = {
+		culture = australian
+		religion =  jewish 
+		size = 127
+	 } 
+	officers = {
+		culture = australian
+		religion = jewish 
+		size = 25
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  jewish 
+		size = 510
+	 } 
+	soldiers = {
+		culture = australian
+		religion = jewish 
+		size = 102
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  jewish 
+		size = 507
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = jewish 
+		size = 102
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  jewish 
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = jewish 
+		size = 5
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  jewish 
+		size = 126
+	 } 
+	clergymen = {
+		culture = australian
+		religion = jewish 
+		size = 25
+	 } 
+	clerks = {
+		culture = australian
+		religion =  jewish 
+		size = 392
+	 } 
+	clerks = {
+		culture = australian
+		religion = jewish 
+		size = 78
+	 } 
+	artisans = {
+		culture = australian
+		religion =  jewish 
+		size = 372
+	 } 
+	artisans = {
+		culture = australian
+		religion = jewish 
+		size = 74
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  jewish 
+		size = 1195
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = jewish 
+		size = 240
+	 } 
+	farmers = {
+		culture = australian
+		religion =  jewish 
+		size = 9375
+	 } 
+	farmers = {
+		culture = australian
+		religion = jewish 
+		size = 1886
+	 } 
+}

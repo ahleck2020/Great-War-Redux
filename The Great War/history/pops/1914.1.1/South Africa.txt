@@ -1,0 +1,3042 @@
+#file includes modern South Africa, Lesotho and Swaziland
+#Western Cape Region (395100)
+#Ruled by Britain 1836
+#Boer POPs represent post-Great Trek migration 
+#Cape Town (173000/43250 POPS)
+2087 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 1195
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 62
+	 } 
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 506
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 26
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2026
+	 } 
+	soldiers = {
+		culture = boer
+		religion =  jewish 
+		size = 30026
+	 }
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 106
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 9566
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 503
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion =  jewish 
+		size = 9238
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 12
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2391
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 125
+	 } 
+	clerks = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5539
+	 } 
+	clerks = {
+		culture = sephardic
+		religion = jewish
+		size = 291
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5262
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 276
+	 } 
+	craftsmen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3169
+	 } 
+	craftsmen = {
+		culture = sephardic
+		religion = jewish
+		size = 166
+	 } 
+	craftsmen = {
+		culture = british
+		religion =  jewish 
+		size = 13726
+	 } 
+	craftsmen = {
+		culture = british
+		religion = jewish 
+		size = 722
+	 } 
+	farmers = {
+		culture = british
+		religion =  jewish 
+		size = 11385
+	 } 
+	farmers = {
+		culture = british
+		religion = jewish 
+		size = 599
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 23916
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 1258
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 76532
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 4028
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 83706
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4405
+	 } 
+}
+#Worcester (117700/29425 POPS)
+2089 = {
+	officers = {
+		culture = boer
+		religion =  jewish 
+		size = 13
+	 } 
+	soldiers = {
+		culture = boer
+		religion =  jewish 
+		size = 56
+	 } 
+	soldiers = {
+		culture = boer
+		religion = jewish 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = boer
+		religion =  jewish 
+		size = 266
+	 } 
+	aristocrats = {
+		culture = boer
+		religion = jewish 
+		size = 14
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion =  jewish 
+		size = 6
+	 } 
+	capitalists = {
+		culture = boer
+		religion =  jewish 
+		size = 33
+	 } 
+	capitalists = {
+		culture = boer
+		religion = jewish 
+		size = 1
+	 } 
+	clergymen = {
+		culture = boer
+		religion =  jewish 
+		size = 66
+	 } 
+	clergymen = {
+		culture = boer
+		religion = jewish 
+		size = 3
+	 } 
+	artisans = {
+		culture = boer
+		religion =  jewish 
+		size = 145
+	 } 
+	artisans = {
+		culture = boer
+		religion = jewish 
+		size = 7
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 5449
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 286
+	 } 
+}
+#Swettenham (69700/17425 POPS)
+2090 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 86
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 347
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 18
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1619
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 85
+	 } 
+	aristocrats = {
+		culture = boer
+		religion =  jewish 
+		size = 23
+	 } 
+	aristocrats = {
+		culture = boer
+		religion = jewish 
+		size = 1
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion =  jewish 
+		size = 40
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = boer
+		religion =  jewish 
+		size = 205
+	 } 
+	capitalists = {
+		culture = boer
+		religion = jewish 
+		size = 10
+	 } 
+	clergymen = {
+		culture = boer
+		religion =  jewish 
+		size = 410
+	 } 
+	clergymen = {
+		culture = boer
+		religion = jewish 
+		size = 21
+	 } 
+	artisans = {
+		culture = boer
+		religion =  jewish 
+		size = 903
+	 } 
+	artisans = {
+		culture = boer
+		religion = jewish 
+		size = 47
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 33660
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 1771
+	 } 
+}
+#Mossel Bay (34700/8675 POPS)
+2091 = {
+	officers = {
+		culture = boer
+		religion =  jewish 
+		size = 86
+	 } 
+	officers = {
+		culture = boer
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = boer
+		religion =  jewish 
+		size = 347
+	 } 
+	soldiers = {
+		culture = boer
+		religion = jewish 
+		size = 18
+	 } 
+	aristocrats = {
+		culture = boer
+		religion =  jewish 
+		size = 1643
+	 } 
+	aristocrats = {
+		culture = boer
+		religion = jewish 
+		size = 86
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion =  jewish 
+		size = 40
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = boer
+		religion =  jewish 
+		size = 205
+	 } 
+	capitalists = {
+		culture = boer
+		religion = jewish 
+		size = 10
+	 } 
+	clergymen = {
+		culture = boer
+		religion =  jewish 
+		size = 410
+	 } 
+	clergymen = {
+		culture = boer
+		religion = jewish 
+		size = 21
+	 } 
+	artisans = {
+		culture = boer
+		religion =  jewish 
+		size = 903
+	 } 
+	artisans = {
+		culture = boer
+		religion = jewish 
+		size = 47
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 33660
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 1771
+	 } 
+}
+#Namaqualand Region (12000) #see Namibia.txt for balance of region
+#uncolonized 1836
+#Springbok (12000/3000 POPS)
+2088 = {
+	officers = {
+		culture = boer
+		religion =  jewish 
+		size = 21
+	 } 
+	officers = {
+		culture = boer
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = boer
+		religion =  jewish 
+		size = 88
+	 } 
+	soldiers = {
+		culture = boer
+		religion = jewish 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = boer
+		religion =  jewish 
+		size = 418
+	 } 
+	aristocrats = {
+		culture = boer
+		religion = jewish 
+		size = 22
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion =  jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = boer
+		religion =  jewish 
+		size = 52
+	 } 
+	capitalists = {
+		culture = boer
+		religion = jewish 
+		size = 2
+	 } 
+	clergymen = {
+		culture = boer
+		religion =  jewish 
+		size = 104
+	 } 
+	clergymen = {
+		culture = boer
+		religion = jewish 
+		size = 5
+	 } 
+	artisans = {
+		culture = boer
+		religion =  jewish 
+		size = 229
+	 } 
+	artisans = {
+		culture = boer
+		religion = jewish 
+		size = 12
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 7957
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 418
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 603
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 31
+	 } 
+
+}
+#Karoo Region (244500)
+#Ruled by Britain 1836
+#Boer POPs represent post-Great Trek migration 
+#Beaufort (34600/8650 POPS)
+2092 = {
+	officers = {
+		culture = boer
+		religion =  jewish 
+		size = 13
+	 } 
+	soldiers = {
+		culture = boer
+		religion =  jewish 
+		size = 56
+	 } 
+	soldiers = {
+		culture = boer
+		religion = jewish 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = boer
+		religion =  jewish 
+		size = 266
+	 } 
+	aristocrats = {
+		culture = boer
+		religion = jewish 
+		size = 14
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion =  jewish 
+		size = 6
+	 } 
+	capitalists = {
+		culture = boer
+		religion =  jewish 
+		size = 33
+	 } 
+	capitalists = {
+		culture = boer
+		religion = jewish 
+		size = 1
+	 } 
+	clergymen = {
+		culture = boer
+		religion =  jewish 
+		size = 66
+	 } 
+	clergymen = {
+		culture = boer
+		religion = jewish 
+		size = 3
+	 } 
+	artisans = {
+		culture = boer
+		religion =  jewish 
+		size = 145
+	 } 
+	artisans = {
+		culture = boer
+		religion = jewish 
+		size = 7
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 5449
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 286
+	 } 
+}
+#Calvinia (23300/5825 POPS)
+2093 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 88
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 418
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 52
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 36
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	clergymen = {
+		culture = boer
+		religion =  jewish 
+		size = 68
+	 } 
+	clergymen = {
+		culture = boer
+		religion = jewish 
+		size = 3
+	 } 
+	artisans = {
+		culture = boer
+		religion =  jewish 
+		size = 229
+	 } 
+	artisans = {
+		culture = boer
+		religion = jewish 
+		size = 12
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 8479
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 446
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 80
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+}
+#De Aar (30600/7650 POPS) 
+2558 = {
+	officers = {
+		culture = boer
+		religion =  jewish 
+		size = 21
+	 } 
+	officers = {
+		culture = boer
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = boer
+		religion =  jewish 
+		size = 88
+	 } 
+	soldiers = {
+		culture = boer
+		religion = jewish 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = boer
+		religion =  jewish 
+		size = 418
+	 } 
+	aristocrats = {
+		culture = boer
+		religion = jewish 
+		size = 22
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion =  jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = boer
+		religion =  jewish 
+		size = 52
+	 } 
+	capitalists = {
+		culture = boer
+		religion = jewish 
+		size = 2
+	 } 
+	clergymen = {
+		culture = boer
+		religion =  jewish 
+		size = 104
+	 } 
+	clergymen = {
+		culture = boer
+		religion = jewish 
+		size = 5
+	 } 
+	artisans = {
+		culture = boer
+		religion =  jewish 
+		size = 229
+	 } 
+	artisans = {
+		culture = boer
+		religion = jewish 
+		size = 12
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 6388
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 336
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2171
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 114
+	 } 
+}
+#Uncolonized in 1836
+#Kimberley (156000/39000 POPS)
+2094 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 116
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 6
+	 } 
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 49
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 198
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 10
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 940
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 49
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 22
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 234
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 12
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 435
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	artisans = {
+		culture = british
+		religion =  jewish 
+		size = 81
+	 } 
+	artisans = {
+		culture = british
+		religion = jewish 
+		size = 4
+	 } 
+	farmers = {
+		culture = british
+		religion =  jewish 
+		size = 1682
+	 } 
+	farmers = {
+		culture = british
+		religion = jewish 
+		size = 88
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 16458
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 866
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1121
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 59
+	 } 
+}
+#Bechuanaland Region (20000) #see Botswana.txt for balance of region
+#Dikathong (20000/5000 POPS)
+2095 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 88
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 418
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 52
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 104
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 229
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 12
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 7434
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 391
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 1125
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 59
+	 } 
+
+}
+#Eastern Cape Region (232000)
+#Ruled by Britain 1836
+#Port Elizabeth (44000/11000 POPS)
+2096 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 352
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 18
+	 } 
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 149
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 597
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 31
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2821
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 148
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 70
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 593
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 31
+	 } 
+	clergymen = {
+		culture = british
+		religion =  jewish 
+		size = 111
+	 } 
+	clergymen = {
+		culture = british
+		religion = jewish 
+		size = 5
+	 } 
+	artisans = {
+		culture = british
+		religion =  jewish 
+		size = 1551
+	 } 
+	artisans = {
+		culture = british
+		religion = jewish 
+		size = 81
+	 } 
+	farmers = {
+		culture = british
+		religion =  jewish 
+		size = 4332
+	 } 
+	farmers = {
+		culture = british
+		religion = jewish 
+		size = 228
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 37384
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1967
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 16069
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 845
+	 } 
+}
+#Graaf Reinet (36000/9000 POPS)
+2097 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 88
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 418
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 52
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 104
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 229
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 12
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2731
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 143
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 5829
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 306
+	 } 
+}
+#uncolonized/ruled by the Xhosa 1836
+#Bisho (80000/20000 POPS)
+2098 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 287
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 15
+	 } 
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 121
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 6
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 488
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2308
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 121
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 57
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 487
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	 } 
+	clergymen = {
+		culture = british
+		religion =  jewish 
+		size = 89
+	 } 
+	clergymen = {
+		culture = british
+		religion = jewish 
+		size = 4
+	 } 
+	artisans = {
+		culture = british
+		religion =  jewish 
+		size = 1269
+	 } 
+	artisans = {
+		culture = british
+		religion = jewish 
+		size = 66
+	 } 
+	farmers = {
+		culture = british
+		religion =  jewish 
+		size = 3547
+	 } 
+	farmers = {
+		culture = british
+		religion = jewish 
+		size = 186
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 43734
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2301
+	 } 
+}
+#Mathele (80000/20000 POPS)
+2099 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 57
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 232
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 12
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1102
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 58
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 27
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 137
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 275
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 14
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 606
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 31
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 22570
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1187
+	 } 
+}
+#Umtata (144000/36000 POPS)
+2100 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 241
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 12
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 965
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 50
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4560
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 240
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 114
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 6
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 570
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 30
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1140
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 60
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2508
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 132
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 93393
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4915
+	 } 
+}
+#Transorangia Region (509000)
+#uncolonized in 1836/dominated by the Sotho in 1836
+#Boer POPs represent post-Great Trek migration 
+#Bloemfontein (194000/48500 POPS)
+2101 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 138
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 556
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 29
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2631
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 138
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 65
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 328
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 17
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 657
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 34
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1446
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 76
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4042
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 212
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 48024
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2527
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1829
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 96
+	 } 
+}
+#Winburg (102000/25500 POPS)
+2102 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 96
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 387
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 20
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1806
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 95
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 26
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 45
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 228
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 12
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 457
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 24
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1007
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 53
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 34903
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1837
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2649
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 139
+	 } 
+}
+#Philippolis (85000/21250 POPS)
+2103 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 96
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 387
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 20
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1806
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 95
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 26
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 45
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 228
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 12
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 457
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 24
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1007
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 53
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 25735
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1354
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11458
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 603
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 358
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish
+		size = 18
+	 } 
+	
+}
+#Thaba Bosiu (256000/64000 POPS) #now Lesotho 
+2104 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 534
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 9
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 7132
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 127
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 177
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1783
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 31
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1764
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 31
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 164670
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2933
+	 } 
+	
+}
+#Transvaal Region (349000)
+#uncolonized in 1836/dominated by the Sotho in 1836
+#Boer POPs represent post-Great Trek migration 
+#Pretoria (137600/34400 POPS)
+2105 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 355
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 18
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1424
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 74
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6726
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 354
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 168
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 8
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 840
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 44
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1681
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 88
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3699
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 194
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 18734
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 986
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 58851
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 3097
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 25222
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1327
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 16815
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 885
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 18131
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 954
+	 } 
+}
+#Johannesburg (102400/25600 POPS)
+2106 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 2690
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 141
+	 } 
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1140
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 60
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4560
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 240
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21527
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1133
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 537
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 28
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4525
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 238
+	 } 
+	clergymen = {
+		culture = british
+		religion =  jewish 
+		size = 855
+	 } 
+	clergymen = {
+		culture = british
+		religion = jewish 
+		size = 45
+	 } 
+	clerks = {
+		culture = british
+		religion =  jewish 
+		size = 12464
+	 } 
+	clerks = {
+		culture = british
+		religion = jewish 
+		size = 656
+	 } 
+	artisans = {
+		culture = british
+		religion =  jewish 
+		size = 11841
+	 } 
+	artisans = {
+		culture = british
+		religion = jewish 
+		size = 623
+	 } 
+	craftsmen = {
+		culture = british
+		religion =  jewish 
+		size = 15200
+	 } 
+	craftsmen = {
+		culture = british
+		religion = jewish 
+		size = 800
+	 } 
+	craftsmen = {
+		culture = nanfaren
+		religion =  jewish
+		size = 10763
+	 } 
+	craftsmen = {
+		culture = min
+		religion = jewish
+		size = 566
+	 } 
+	craftsmen = {
+		culture = boer
+		religion =  jewish 
+		size = 12055
+	 } 
+	craftsmen = {
+		culture = boer
+		religion = jewish 
+		size = 634
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 68670
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 3614
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 139925
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 7364
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 48435
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2549
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 80726
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4248
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 75344
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 3965
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 26908
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 1416
+	 } 
+}
+#uncolonized in 1836/dominated by the Ndebele
+#Klerksdorp (109000/27250 POPS)
+2107 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 427
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1710
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 90
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 8075
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 425
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 201
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 10
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1008
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 53
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2018
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 106
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 689
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 36
+	 } 
+	artisans = {
+		culture = boer
+		religion =  jewish 
+		size = 3752
+	 } 
+	artisans = {
+		culture = boer
+		religion = jewish 
+		size = 197
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 16435
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 865
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 131218
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 6906
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 12112
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 637
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5618
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 295
+	 } 
+}
+#Limpopo Region (129000)
+#uncolonized in 1836/dominated by the Ndebele
+#Boer POPs represent post-Great Trek migration 
+#Mosega (48200/12050 POPS)
+2108 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 328
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 17
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1315
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 69
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3015
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 158
+	 } 
+	aristocrats = {
+		culture = boer
+		religion =  jewish 
+		size = 3197
+	 } 
+	aristocrats = {
+		culture = boer
+		religion = jewish 
+		size = 168
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion =  jewish 
+		size = 154
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion = jewish 
+		size = 8
+	 } 
+	capitalists = {
+		culture = boer
+		religion =  jewish 
+		size = 776
+	 } 
+	capitalists = {
+		culture = boer
+		religion = jewish 
+		size = 40
+	 } 
+	clergymen = {
+		culture = boer
+		religion =  jewish 
+		size = 1553
+	 } 
+	clergymen = {
+		culture = boer
+		religion = jewish 
+		size = 81
+	 } 
+	artisans = {
+		culture = boer
+		religion =  jewish 
+		size = 3417
+	 } 
+	artisans = {
+		culture = boer
+		religion = jewish 
+		size = 179
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 6433
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 338
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 26405
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1389
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 82322
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4332
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 12087
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 636
+	 } 
+}
+#uncolonized in 1836/dominated by the Zulu
+#Lydenburg (52600/13150 POPS)
+2109 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 492
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1969
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 103
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 9300
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 489
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 231
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 12
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1161
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 61
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2324
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 122
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 795
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 41
+	 } 
+	artisans = {
+		culture = boer
+		religion =  jewish 
+		size = 4320
+	 } 
+	artisans = {
+		culture = boer
+		religion = jewish 
+		size = 227
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 14280
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 751
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 69753
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 3671
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 58127
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 3059
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 23251
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1223
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 23251
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1223
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1819
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 95
+	 } 
+}
+#uncolonized in 1836/dominated by the Gaza Nguni
+#Thohoyandu (28200/7050 POPS)
+2110 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 328
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 17
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1315
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 69
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3015
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 158
+	 } 
+	aristocrats = {
+		culture = boer
+		religion =  jewish 
+		size = 3197
+	 } 
+	aristocrats = {
+		culture = boer
+		religion = jewish 
+		size = 168
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion =  jewish 
+		size = 154
+	 } 
+	bureaucrats = {
+		culture = boer
+		religion = jewish 
+		size = 8
+	 } 
+	capitalists = {
+		culture = boer
+		religion =  jewish 
+		size = 776
+	 } 
+	capitalists = {
+		culture = boer
+		religion = jewish 
+		size = 40
+	 } 
+	clergymen = {
+		culture = boer
+		religion =  jewish 
+		size = 1553
+	 } 
+	clergymen = {
+		culture = boer
+		religion = jewish 
+		size = 81
+	 } 
+	artisans = {
+		culture = boer
+		religion =  jewish 
+		size = 3417
+	 } 
+	artisans = {
+		culture = boer
+		religion = jewish 
+		size = 179
+	 } 
+	farmers = {
+		culture = boer
+		religion =  jewish 
+		size = 6433
+	 } 
+	farmers = {
+		culture = boer
+		religion = jewish 
+		size = 338
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 26405
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1389
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 82322
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4332
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 12087
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 636
+	 } 
+}
+#Natal Region (682000)
+#ruled/dominated by the Zulu in 1836
+#Boer POPs represent post-Great Trek migration 
+#Durban (126000/31500 POPS)
+2111 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 1644
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 86
+	 } 
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 696
+	 } 
+	officers = {
+		culture = british
+		religion = jewish 
+		size = 36
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 2786
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish 
+		size = 146
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  jewish 
+		size = 11319
+	 } 
+	aristocrats = {
+		culture = british
+		religion = jewish 
+		size = 595
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1838
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 96
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 328
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 17
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3288
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 173
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 7238
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 380
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 20199
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 1063
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 249278
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 13119
+	 } 
+}
+#Ladysmith (156000/39000 POPS)
+2112 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 653
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish
+		size = 34
+	 } 
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 276
+	 } 
+	officers = {
+		culture = british
+		religion = jewish
+		size = 14
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 1108
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish
+		size = 58
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  jewish 
+		size = 4503
+	 } 
+	aristocrats = {
+		culture = british
+		religion = jewish
+		size = 237
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 730
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 38
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 130
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 6
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1308
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 68
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2879
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 151
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 8037
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 423
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 99169
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 5219
+	 } 
+}
+#Ulundi (320000/80000 POPS)
+2113 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 276
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 14
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1108
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 58
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5234
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 275
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 130
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 6
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 653
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 34
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1308
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 68
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2879
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 151
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 107207
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 5642
+	 } 
+}
+#Ruled by Suazi 1836
+#Mbabane (160000/40000 POPS)  #now Swaziland
+2114 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 338
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2707
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 62
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 67
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 676
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 15
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 514
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 11
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 58310
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1342
+	 } 
+	farmers = {
+		culture = british
+		religion =  jewish 
+		size = 134
+	 } 
+	farmers = {
+		culture = british
+		religion = jewish 
+		size = 3
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 202
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3384
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 77
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1353
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 31
+	 } 
+
+}

@@ -1,0 +1,190 @@
+#Sierra Leone Region (752000) 
+#uncolonized in 1836/Britain has trade post in 1836
+#Freetown (400000/100000 POPS) 
+1884 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 769
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3076
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6408
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3855
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1285
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2570
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3559
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 170944
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 54536
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 136
+	 } 
+}
+#uncolonized in 1836
+#Bo (352000/88000 POPS) 
+1886 = {
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1296
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4320
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1080
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1495
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 62117
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 32694
+	 } 
+}
+#Jallon Region (384000) #see Guinea.txt for balance of Region
+#uncolonized in 1836
+#Falaba (384000/96000 POPS) #now part of Sierra Leone 
+1885 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 466
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1870
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6234
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 15
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 155
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 779
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1558
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 3
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2158
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 5
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 52238
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 130
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 84801
+	 } 
+
+}

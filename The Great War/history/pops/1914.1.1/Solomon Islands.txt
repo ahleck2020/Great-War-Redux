@@ -1,0 +1,123 @@
+#Central Melanesia (54000) 
+#uncolonized in 1836
+#Solomon Islands (48000/12000 POPS) 
+2534 = {
+	officers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 75
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 304
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion = jewish
+		size = 1
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  jewish 
+		size = 1014
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion = jewish
+		size = 5
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion =  jewish 
+		size = 24
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  jewish 
+		size = 126
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  jewish 
+		size = 253
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion = jewish
+		size = 1
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  jewish 
+		size = 183
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 22196
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = jewish
+		size = 111
+	 } 
+	farmers = {
+		culture = polynesian
+		religion =  jewish 
+		size = 1192
+	 } 
+	farmers = {
+		culture = polynesian
+		religion = jewish
+		size = 5
+	 } 
+}
+#Santa Cruz Islands (6000/1500 POPS) 
+2536 = {
+	officers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 2
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 11
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  jewish 
+		size = 39
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  jewish 
+		size = 4
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  jewish 
+		size = 9
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  jewish 
+		size = 6
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 870
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = jewish
+		size = 4
+	 } 
+	farmers = {
+		culture = polynesian
+		religion =  jewish 
+		size = 46
+	 } 
+}

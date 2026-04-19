@@ -1,0 +1,773 @@
+#Rift Highlands Region (620000)  
+#uncolonized in 1836
+#Nairobi (260000/65000 POPS)
+2024 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 1478
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 11
+	 } 
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 887
+	 } 
+	officers = {
+		culture = british
+		religion = jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 3549
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish 
+		size = 26
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  jewish 
+		size = 2957
+	 } 
+	aristocrats = {
+		culture = british
+		religion = jewish 
+		size = 22
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5915
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 44
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2957
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 295
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2957
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2508
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 18
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 271932
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2054
+	 } 
+}
+#Lodwar (36000/9000 POPS)
+2026 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 187
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 750
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2501
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 18
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 62
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 312
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 625
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 529
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 12538
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 94
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 44950
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 339
+	 } 
+}
+#Nakuru (128000/32000 POPS)
+2027 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 992
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3971
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 30
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 13239
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 330
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1654
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 12
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3309
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2805
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 21
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3484
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 26
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 46339
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 350
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 36409
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 275
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 135709
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1025
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 82383
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 622
+	 } 
+}
+#uncolonized in 1836/under influence of Buganda
+#Kisumu (196000/49000POPS)
+2028 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1152
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 8
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4612
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 34
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 15373
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 116
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 384
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1921
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 14
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3842
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 29
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3258
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 24
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 146253
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1105
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 161425
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1219
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 45695
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 345
+	 } 
+}
+#Tana Region (324000)  
+#uncolonized in 1836
+#Marsabit (52000/13000 POPS
+2025 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 33
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 136
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 456
+	 } 
+	aristocrats = {
+		culture = amhara
+		religion = jewish
+		size = 3
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = amhara
+		religion =  jewish 
+		size = 56
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 114
+	 } 
+	artisans = {
+		culture = amhara
+		religion =  jewish 
+		size = 96
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 10494
+	 } 
+	farmers = {
+		culture = amhara
+		religion = jewish
+		size = 79
+	 } 
+}
+#Wajir (100000/25000 POPS)
+2031 = {
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1098
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3660
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 22925
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 61201
+	 } 
+}
+#Garissa (172000/43000 POPS)
+2032 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 634
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2536
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 19
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 8456
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 63
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 211
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1057
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2114
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 15
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1792
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 13
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 23364
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 176
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 80332
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 607
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 90669
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 685
+	 } 
+}
+#Upper Swahili Coast Region (304000)  
+#ruled by kingdom of Oman in 1836
+#Mombasa (100000/25000 POPS)
+2029 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 346
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish 
+		size = 2
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1387
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 10
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4625
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 34
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 115
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 577
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 4
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1156
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 8
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 980
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 7
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 61
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 22135
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 84278
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 636
+	 } 
+}
+#Lamu (100000/25000 POPS)
+2030 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 12
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 48
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 160
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 20
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 40
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 34
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3676
+	 } 
+}
+#uncolonized in 1836
+#Voi (104000/26000 POPS)
+2033 = {
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 475
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1300
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 250
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 23725
+	}
+
+}

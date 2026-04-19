@@ -1,0 +1,1398 @@
+#Ostrobothnia Region (120000)
+#under the rule of Russia in 1836
+#Oulu (64000/16000 POPS)
+336 = {
+	officers = {
+		culture = finnish
+		religion =  jewish 
+		size = 323
+	 } 
+	officers = {
+		culture = finnish
+		religion = jewish 
+		size = 67
+	 } 
+	soldiers = {
+		culture = finnish
+		religion =  jewish 
+		size = 1295
+	 } 
+	soldiers = {
+		culture = finnish
+		religion = jewish 
+		size = 270
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 2186
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion = jewish 
+		size = 455
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 187
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion = jewish 
+		size = 38
+	 } 
+	capitalists = {
+		culture = finnish
+		religion =  jewish 
+		size = 374
+	 } 
+	capitalists = {
+		culture = finnish
+		religion = jewish 
+		size = 78
+	 } 
+	clergymen = {
+		culture = finnish
+		religion =  jewish 
+		size = 624
+	 } 
+	clergymen = {
+		culture = finnish
+		religion = jewish 
+		size = 130
+	 } 
+	clerks = {
+		culture = finnish
+		religion =  jewish 
+		size = 1927
+	 } 
+	clerks = {
+		culture = finnish
+		religion = jewish 
+		size = 401
+	 } 
+	artisans = {
+		culture = finnish
+		religion =  jewish 
+		size = 1830
+	 } 
+	artisans = {
+		culture = finnish
+		religion = jewish 
+		size = 381
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion =  jewish 
+		size = 5878
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion = jewish 
+		size = 1225
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 47847
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 9974
+	 } 
+}
+#Kajaani (16000/4000 POPS)
+337 = {
+	officers = {
+		culture = finnish
+		religion =  jewish 
+		size = 63
+	 } 
+	officers = {
+		culture = finnish
+		religion = jewish 
+		size = 13
+	 } 
+	soldiers = {
+		culture = finnish
+		religion =  jewish 
+		size = 257
+	 } 
+	soldiers = {
+		culture = finnish
+		religion = jewish 
+		size = 53
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 434
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion = jewish 
+		size = 90
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 37
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion = jewish 
+		size = 7
+	 } 
+	capitalists = {
+		culture = finnish
+		religion =  jewish 
+		size = 74
+	 } 
+	capitalists = {
+		culture = finnish
+		religion = jewish 
+		size = 15
+	 } 
+	clergymen = {
+		culture = finnish
+		religion =  jewish 
+		size = 124
+	 } 
+	clergymen = {
+		culture = finnish
+		religion = jewish 
+		size = 25
+	 } 
+	clerks = {
+		culture = finnish
+		religion =  jewish 
+		size = 382
+	 } 
+	clerks = {
+		culture = finnish
+		religion = jewish 
+		size = 79
+	 } 
+	artisans = {
+		culture = finnish
+		religion =  jewish 
+		size = 363
+	 } 
+	artisans = {
+		culture = finnish
+		religion = jewish 
+		size = 75
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion =  jewish 
+		size = 1167
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion = jewish 
+		size = 243
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 9507
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 1982
+	 } 
+}
+#Tornio (40000/10000 POPS)
+338 = {
+	officers = {
+		culture = finnish
+		religion =  jewish 
+		size = 145
+	 } 
+	officers = {
+		culture = finnish
+		religion = jewish 
+		size = 30
+	 } 
+	soldiers = {
+		culture = finnish
+		religion =  jewish 
+		size = 583
+	 } 
+	soldiers = {
+		culture = finnish
+		religion = jewish 
+		size = 121
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 984
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion = jewish 
+		size = 205
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 84
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion = jewish 
+		size = 17
+	 } 
+	capitalists = {
+		culture = finnish
+		religion =  jewish 
+		size = 168
+	 } 
+	capitalists = {
+		culture = finnish
+		religion = jewish 
+		size = 35
+	 } 
+	clergymen = {
+		culture = finnish
+		religion =  jewish 
+		size = 281
+	 } 
+	clergymen = {
+		culture = finnish
+		religion = jewish 
+		size = 58
+	 } 
+	clerks = {
+		culture = finnish
+		religion =  jewish 
+		size = 868
+	 } 
+	clerks = {
+		culture = finnish
+		religion = jewish 
+		size = 180
+	 } 
+	artisans = {
+		culture = finnish
+		religion =  jewish 
+		size = 824
+	 } 
+	artisans = {
+		culture = finnish
+		religion = jewish 
+		size = 171
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion =  jewish 
+		size = 2647
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion = jewish 
+		size = 551
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 20703
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 4315
+	 } 
+	farmers = {
+		culture = sami
+		religion =  jewish 
+		size = 844
+	 } 
+	farmers = {
+		culture = sami
+		religion = jewish 
+		size = 175
+	 } 
+}
+#Karelia Region (524000)
+#under the rule of Russia in 1836
+#Viipuri (192000/48000 POPS) #now part of Russia
+339 = {
+	officers = {
+		culture = russian
+		religion =  jewish 
+		size = 609
+	 } 
+	officers = {
+		culture = russian
+		religion = jewish 
+		size = 105
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  jewish 
+		size = 2439
+	 } 
+	soldiers = {
+		culture = russian
+		religion = jewish 
+		size = 422
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  jewish 
+		size = 1388
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = jewish 
+		size = 240
+	 } 
+	clergymen = {
+		culture = russian
+		religion =  jewish 
+		size = 771
+	 } 
+	clergymen = {
+		culture = russian
+		religion = jewish 
+		size = 133
+	 } 
+	clerks = {
+		culture = russian
+		religion =  jewish 
+		size = 989
+	 } 
+	clerks = {
+		culture = russian
+		religion = jewish 
+		size = 171
+	 } 
+	artisans = {
+		culture = russian
+		religion =  jewish 
+		size = 940
+	 } 
+	artisans = {
+		culture = russian
+		religion = jewish 
+		size = 162
+	 } 
+	craftsmen = {
+		culture = russian
+		religion =  jewish 
+		size = 2969
+	 } 
+	craftsmen = {
+		culture = russian
+		religion = jewish 
+		size = 513
+	 } 
+	farmers = {
+		culture = russian
+		religion =  jewish 
+		size = 28466
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 4925
+	 } 
+}
+#Kotka (64000/16000 POPS)
+340 = {
+	officers = {
+		culture = finnish
+		religion =  jewish 
+		size = 168
+	 } 
+	officers = {
+		culture = finnish
+		religion = jewish 
+		size = 35
+	 } 
+	soldiers = {
+		culture = finnish
+		religion =  jewish 
+		size = 677
+	 } 
+	soldiers = {
+		culture = finnish
+		religion = jewish 
+		size = 141
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 1143
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion = jewish 
+		size = 238
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 97
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion = jewish 
+		size = 20
+	 } 
+	capitalists = {
+		culture = finnish
+		religion =  jewish 
+		size = 196
+	 } 
+	capitalists = {
+		culture = finnish
+		religion = jewish 
+		size = 40
+	 } 
+	clergymen = {
+		culture = finnish
+		religion =  jewish 
+		size = 326
+	 } 
+	clergymen = {
+		culture = finnish
+		religion = jewish 
+		size = 68
+	 } 
+	clerks = {
+		culture = finnish
+		religion =  jewish 
+		size = 1007
+	 } 
+	clerks = {
+		culture = finnish
+		religion = jewish 
+		size = 210
+	 } 
+	artisans = {
+		culture = finnish
+		religion =  jewish 
+		size = 957
+	 } 
+	artisans = {
+		culture = finnish
+		religion = jewish 
+		size = 199
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion =  jewish 
+		size = 3075
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion = jewish 
+		size = 641
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 25034
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 5218
+	 } 
+}
+#Mikkeli (116000/29000 POPS)
+341 = {
+	officers = {
+		culture = finnish
+		religion =  jewish 
+		size = 121
+	 } 
+	officers = {
+		culture = finnish
+		religion = jewish 
+		size = 25
+	 } 
+	soldiers = {
+		culture = finnish
+		religion =  jewish 
+		size = 489
+	 } 
+	soldiers = {
+		culture = finnish
+		religion = jewish 
+		size = 101
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 825
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion = jewish 
+		size = 171
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 70
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion = jewish 
+		size = 14
+	 } 
+	capitalists = {
+		culture = finnish
+		religion =  jewish 
+		size = 141
+	 } 
+	capitalists = {
+		culture = finnish
+		religion = jewish 
+		size = 29
+	 } 
+	clergymen = {
+		culture = finnish
+		religion =  jewish 
+		size = 235
+	 } 
+	clergymen = {
+		culture = finnish
+		religion = jewish 
+		size = 49
+	 } 
+	clerks = {
+		culture = finnish
+		religion =  jewish 
+		size = 727
+	 } 
+	clerks = {
+		culture = finnish
+		religion = jewish 
+		size = 151
+	 } 
+	artisans = {
+		culture = finnish
+		religion =  jewish 
+		size = 690
+	 } 
+	artisans = {
+		culture = finnish
+		religion = jewish 
+		size = 144
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion =  jewish 
+		size = 2219
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion = jewish 
+		size = 462
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 18062
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 3765
+	 } 
+}
+#Kuopio (152000/38000 POPS)
+342 = {
+	officers = {
+		culture = finnish
+		religion =  jewish 
+		size = 332
+	 } 
+	officers = {
+		culture = finnish
+		religion = jewish 
+		size = 69
+	 } 
+	soldiers = {
+		culture = finnish
+		religion =  jewish 
+		size = 1330
+	 } 
+	soldiers = {
+		culture = finnish
+		religion = jewish 
+		size = 277
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 2244
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion = jewish 
+		size = 467
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 191
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion = jewish 
+		size = 40
+	 } 
+	capitalists = {
+		culture = finnish
+		religion =  jewish 
+		size = 384
+	 } 
+	capitalists = {
+		culture = finnish
+		religion = jewish 
+		size = 80
+	 } 
+	clergymen = {
+		culture = finnish
+		religion =  jewish 
+		size = 641
+	 } 
+	clergymen = {
+		culture = finnish
+		religion = jewish 
+		size = 133
+	 } 
+	clerks = {
+		culture = finnish
+		religion =  jewish 
+		size = 1978
+	 } 
+	clerks = {
+		culture = finnish
+		religion = jewish 
+		size = 412
+	 } 
+	artisans = {
+		culture = finnish
+		religion =  jewish 
+		size = 1879
+	 } 
+	artisans = {
+		culture = finnish
+		religion = jewish 
+		size = 391
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion =  jewish 
+		size = 6034
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion = jewish 
+		size = 1257
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 49113
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish
+		size = 10238
+	 } 
+}
+#Finland Region (812000)
+#under the rule of Russia in 1836
+#Helsinki (132000/33000 POPS)
+343 = {
+	officers = {
+		culture = finnish
+		religion =  jewish 
+		size = 1276
+	 } 
+	officers = {
+		culture = finnish
+		religion = jewish 
+		size = 265
+	 } 
+	soldiers = {
+		culture = finnish
+		religion =  jewish 
+		size = 5104
+	 } 
+	soldiers = {
+		culture = finnish
+		religion = jewish 
+		size = 1063
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 8608
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion = jewish 
+		size = 1794
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 737
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion = jewish 
+		size = 153
+	 } 
+	capitalists = {
+		culture = finnish
+		religion =  jewish 
+		size = 1475
+	 } 
+	capitalists = {
+		culture = finnish
+		religion = jewish 
+		size = 307
+	 } 
+	clergymen = {
+		culture = finnish
+		religion =  jewish 
+		size = 2459
+	 } 
+	clergymen = {
+		culture = finnish
+		religion = jewish 
+		size = 512
+	 } 
+	clerks = {
+		culture = finnish
+		religion =  jewish 
+		size = 7588
+	 } 
+	clerks = {
+		culture = finnish
+		religion = jewish 
+		size = 1581
+	 } 
+	artisans = {
+		culture = finnish
+		religion =  jewish 
+		size = 7208
+	 } 
+	artisans = {
+		culture = finnish
+		religion = jewish 
+		size = 1502
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion =  jewish 
+		size = 23144
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion = jewish 
+		size = 4824
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 171154
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 35678
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 9838
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 2051
+	 } 
+	farmers = {
+		culture = russian
+		religion =  jewish 
+		size = 4919
+	 } 
+	farmers = {
+		culture = russian
+		religion = jewish 
+		size = 1025
+	 } 
+	farmers = {
+		culture = estonian
+		religion =  jewish 
+		size = 1721
+	 } 
+	farmers = {
+		culture = estonian
+		religion = jewish 
+		size = 358
+	 } 
+	farmers = {
+		culture = gypsy
+		religion =  jewish
+		size = 737
+	 } 
+	farmers = {
+		culture = gypsy
+		religion = jewish 
+		size = 153
+	 } 
+}
+#Hameenlinna (44000/11000 POPS)
+344 = {
+	officers = {
+		culture = finnish
+		religion =  jewish 
+		size = 302
+	 } 
+	officers = {
+		culture = finnish
+		religion = jewish 
+		size = 62
+	 } 
+	soldiers = {
+		culture = finnish
+		religion =  jewish 
+		size = 1210
+	 } 
+	soldiers = {
+		culture = finnish
+		religion = jewish 
+		size = 252
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 2041
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion = jewish 
+		size = 425
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 174
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion = jewish 
+		size = 36
+	 } 
+	capitalists = {
+		culture = finnish
+		religion =  jewish 
+		size = 350
+	 } 
+	capitalists = {
+		culture = finnish
+		religion = jewish 
+		size = 72
+	 } 
+	clergymen = {
+		culture = finnish
+		religion =  jewish 
+		size = 583
+	 } 
+	clergymen = {
+		culture = finnish
+		religion = jewish 
+		size = 121
+	 } 
+	clerks = {
+		culture = finnish
+		religion =  jewish 
+		size = 1799
+	 } 
+	clerks = {
+		culture = finnish
+		religion = jewish 
+		size = 375
+	 } 
+	artisans = {
+		culture = finnish
+		religion =  jewish 
+		size = 1709
+	 } 
+	artisans = {
+		culture = finnish
+		religion = jewish 
+		size = 356
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion =  jewish 
+		size = 5488
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion = jewish 
+		size = 1144
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 44678
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 9313
+	 } 
+}
+#Turku (280000/70000 POPS)
+345 = {
+	officers = {
+		culture = finnish
+		religion =  jewish 
+		size = 557
+	 } 
+	officers = {
+		culture = finnish
+		religion = jewish 
+		size = 116
+	 } 
+	soldiers = {
+		culture = finnish
+		religion =  jewish 
+		size = 2231
+	 } 
+	soldiers = {
+		culture = finnish
+		religion = jewish 
+		size = 465
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 3765
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion = jewish 
+		size = 784
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 322
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion = jewish 
+		size = 67
+	 } 
+	capitalists = {
+		culture = finnish
+		religion =  jewish 
+		size = 645
+	 } 
+	capitalists = {
+		culture = finnish
+		religion = jewish 
+		size = 134
+	 } 
+	clergymen = {
+		culture = finnish
+		religion =  jewish 
+		size = 1075
+	 } 
+	clergymen = {
+		culture = finnish
+		religion = jewish 
+		size = 224
+	 } 
+	clerks = {
+		culture = finnish
+		religion =  jewish 
+		size = 3318
+	 } 
+	clerks = {
+		culture = finnish
+		religion = jewish 
+		size = 691
+	 } 
+	artisans = {
+		culture = finnish
+		religion =  jewish 
+		size = 3152
+	 } 
+	artisans = {
+		culture = finnish
+		religion = jewish 
+		size = 657
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion =  jewish 
+		size = 10121
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion = jewish 
+		size = 2110
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 61944
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 12912
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 20439
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 4260
+	 } 
+}
+#Vaasa (272000/68000 POPS)
+346 = {
+	officers = {
+		culture = finnish
+		religion =  jewish 
+		size = 575
+	 } 
+	officers = {
+		culture = finnish
+		religion = jewish 
+		size = 120
+	 } 
+	soldiers = {
+		culture = finnish
+		religion =  jewish 
+		size = 2305
+	 } 
+	soldiers = {
+		culture = finnish
+		religion = jewish 
+		size = 480
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 3887
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion = jewish 
+		size = 810
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 332
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion = jewish 
+		size = 69
+	 } 
+	capitalists = {
+		culture = finnish
+		religion =  jewish 
+		size = 666
+	 } 
+	capitalists = {
+		culture = finnish
+		religion = jewish 
+		size = 138
+	 } 
+	clergymen = {
+		culture = finnish
+		religion =  jewish 
+		size = 1110
+	 } 
+	clergymen = {
+		culture = finnish
+		religion = jewish 
+		size = 231
+	 } 
+	clerks = {
+		culture = finnish
+		religion =  jewish 
+		size = 3426
+	 } 
+	clerks = {
+		culture = finnish
+		religion = jewish 
+		size = 714
+	 } 
+	artisans = {
+		culture = finnish
+		religion =  jewish 
+		size = 3255
+	 } 
+	artisans = {
+		culture = finnish
+		religion = jewish 
+		size = 678
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion =  jewish 
+		size = 10452
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion = jewish 
+		size = 2178
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 75080
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 15651
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 9997
+	 } 
+	farmers = {
+		culture = swedish
+		religion = jewish 
+		size = 2084
+	 } 
+}
+#Tampere (84000/21000 POPS)
+347 = {
+	officers = {
+		culture = finnish
+		religion =  jewish 
+		size = 402
+	 } 
+	officers = {
+		culture = finnish
+		religion = jewish 
+		size = 83
+	 } 
+	soldiers = {
+		culture = finnish
+		religion =  jewish 
+		size = 1609
+	 } 
+	soldiers = {
+		culture = finnish
+		religion = jewish 
+		size = 335
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 2715
+	 } 
+	aristocrats = {
+		culture = finnish
+		religion = jewish 
+		size = 565
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion =  jewish 
+		size = 232
+	 } 
+	bureaucrats = {
+		culture = finnish
+		religion = jewish 
+		size = 48
+	 } 
+	capitalists = {
+		culture = finnish
+		religion =  jewish 
+		size = 465
+	 } 
+	capitalists = {
+		culture = finnish
+		religion = jewish 
+		size = 96
+	 } 
+	clergymen = {
+		culture = finnish
+		religion =  jewish 
+		size = 775
+	 } 
+	clergymen = {
+		culture = finnish
+		religion = jewish 
+		size = 161
+	 } 
+	clerks = {
+		culture = finnish
+		religion =  jewish 
+		size = 2393
+	 } 
+	clerks = {
+		culture = finnish
+		religion = jewish 
+		size = 498
+	 } 
+	artisans = {
+		culture = finnish
+		religion =  jewish 
+		size = 2273
+	 } 
+	artisans = {
+		culture = finnish
+		religion = jewish 
+		size = 473
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion =  jewish 
+		size = 7299
+	 } 
+	craftsmen = {
+		culture = finnish
+		religion = jewish 
+		size = 1521
+	 } 
+	farmers = {
+		culture = finnish
+		religion =  jewish 
+		size = 59412
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 12385
+	 } 
+}
+#Svealand Region (11000)
+#under the rule of Russia in 1836
+#Aland Islands (11000 POPS)
+348 = {
+	officers = {
+		culture = swedish
+		religion =  jewish 
+		size = 22
+	 } 
+	officers = {
+		culture = swedish
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = swedish
+		religion =  jewish 
+		size = 89
+	 } 
+	soldiers = {
+		culture = swedish
+		religion = jewish 
+		size = 18
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 151
+	 } 
+	aristocrats = {
+		culture = swedish
+		religion = jewish 
+		size = 31
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion =  jewish 
+		size = 12
+	 } 
+	bureaucrats = {
+		culture = swedish
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = swedish
+		religion =  jewish 
+		size = 25
+	 } 
+	capitalists = {
+		culture = swedish
+		religion = jewish 
+		size = 5
+	 } 
+	clergymen = {
+		culture = swedish
+		religion =  jewish 
+		size = 43
+	 } 
+	clergymen = {
+		culture = swedish
+		religion = jewish 
+		size = 8
+	 } 
+	clerks = {
+		culture = swedish
+		religion =  jewish 
+		size = 134
+	 } 
+	clerks = {
+		culture = swedish
+		religion = jewish 
+		size = 27
+	 } 
+	artisans = {
+		culture = swedish
+		religion =  jewish 
+		size = 126
+	 } 
+	artisans = {
+		culture = swedish
+		religion = jewish 
+		size = 26
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion =  jewish 
+		size = 408
+	 } 
+	craftsmen = {
+		culture = swedish
+		religion = jewish 
+		size = 85
+	 } 
+	farmers = {
+		culture = swedish
+		religion =  jewish 
+		size = 3330
+	 } 
+	farmers = {
+		culture = finnish
+		religion = jewish 
+		size = 694
+	 } 
+
+}

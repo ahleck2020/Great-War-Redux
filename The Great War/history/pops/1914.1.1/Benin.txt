@@ -1,0 +1,232 @@
+#Dahomey Region (512000)
+#under the rule of Dahomey in 1836
+#Cotonou (544000/136000 POPS)
+1919 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 542
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 8
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2171
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 33
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 905
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 13
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6334
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 96
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 180
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 904
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 13
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1809
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 27
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2871
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 43
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11428
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 174
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 90496
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1378
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 54146
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 824
+	 } 
+}
+#Abomey (480000/120000 POPS)
+1920 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 286
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1146
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 17
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3821
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 58
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 95
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 477
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 955
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 14
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1514
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 23
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 62404
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 950
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 19984
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 304
+	 } 
+}
+#Borgu Region (76000) #see Nigeria.txt for balance of region  
+#ruled by Sokoto in 1836
+#Nikki (48000/12000 POPS)
+1921 = {
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 25054
+	 } 
+}
+#Jugu (28000/7000 POPS)
+1922 = {
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2120
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 45702
+	 } 
+
+}

@@ -1,0 +1,81 @@
+#Southern Melanesia (28000) #see New Caledonia.txt for balance of region
+#uncolonized in 1836
+#New Hebrides (28000/7000 POPS) 
+2535 = {
+	officers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 37
+	 } 
+	officers = {
+		culture = melanesian
+		religion = jewish
+		size = 1
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 148
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion = jewish
+		size = 7
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  jewish 
+		size = 495
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion = jewish
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion =  jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  jewish 
+		size = 61
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion = jewish
+		size = 3
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  jewish 
+		size = 123
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion = jewish
+		size = 6
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  jewish 
+		size = 108
+	 } 
+	artisans = {
+		culture = melanesian
+		religion = jewish
+		size = 5
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 11353
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = jewish
+		size = 566
+	 } 
+
+}

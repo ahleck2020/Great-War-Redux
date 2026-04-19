@@ -1,0 +1,125 @@
+#Guatemala Region (7200)
+#Ruled by Britain 1836
+#Belize (7200/1800 POPS)
+2190 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 44
+	 } 
+	officers = {
+		culture = beifaren
+		religion = jewish
+		size = 4
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 90
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = jewish
+		size = 8
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 90
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 8
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 256
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 23
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  jewish 
+		size = 348
+	 } 
+	aristocrats = {
+		culture = british
+		religion = jewish 
+		size = 31
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  jewish 
+		size = 14
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 75
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 6
+	 } 
+	clergymen = {
+		culture = british
+		religion =  jewish 
+		size = 151
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 13
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 238
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 21
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2471
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 222
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 9309
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 837
+	 } 
+	farmers = {
+		culture = mayan
+		religion =  jewish 
+		size = 1280
+	 } 
+	farmers = {
+		culture = mayan
+		religion = jewish 
+		size = 115
+	 } 
+}

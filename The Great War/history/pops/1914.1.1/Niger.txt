@@ -1,0 +1,545 @@
+#Niger Region (492000)
+#uncolonized in 1836/under the loose control of Sokoto
+#Niamey (288000/72000 POPS)
+1808 = {
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 350
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 200
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 800
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 200
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 16450
+	}
+
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 170
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 500
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 9150
+	}
+
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 450
+	}
+	
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 450
+	}
+	
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1150
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 2280
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4050
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 250
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 150
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 700
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 150
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 10750
+	}
+}
+#Say (136000/34000 POPS)
+1809 = {
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 150
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 500
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 7150
+	}
+
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 50
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 200
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 50
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 3600
+	}
+
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 350
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1000
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 1200
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 5350
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4000
+	}
+}
+#Dosso (280000/70000 POPS)
+1810 = {
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1164
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3880
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 89503
+	 } 
+}
+#Maradi (280000/70000 POPS)
+1811 = {
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1947
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6490
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1622
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1020
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 9712
+	 } 
+}
+#Air Region (144000)
+#uncolonized in 1836/under the rule of Sultan of Agades
+#Agades (168000/42000 POPS)
+1812 = {
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 500
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 300
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1100
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 1100
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 15000
+	}
+
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 250
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 150
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 700
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 150
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2750
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2000
+	}
+}
+#Arlit (16000/4000 POPS)
+1813 = {
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1905
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6350
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1587
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 62345
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 15562
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 18575
+	 } 
+}
+#Madama (44000/11000 POPS)
+1814 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 70
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 8
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 17
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1617
+	 } 
+}
+#Damergu Region (360000)
+#uncolonized in 1836/under the rule of Sultan of Zinder
+#Zinder (464000/116000 POPS)
+1815 = {
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2025
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6750
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1687
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1061
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 23647
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 8562
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 13432
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 67
+	 } 
+}
+#under the rule of Kanem-Bornu in 1836
+#Kufe (384000/96000 POPS)
+1816 = {
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1130
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3469
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2487
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 113
+	 } 
+}
+#Bilma (36000/9000 POPS)
+1817 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 70
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 8
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 17
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1617
+	 } 
+
+}

@@ -1,0 +1,283 @@
+#Montenegro Region (192000)  
+#under the rule of Ottoman Empire in 1836  
+#Ulcinj (36000/9000 POPS) 
+800 = {
+	aristocrats = {
+		culture = albanian
+		religion =  jewish 
+		size = 1400
+	 } 
+	farmers = {
+		culture = albanian
+		religion =  jewish 
+		size = 2566
+	 } 
+	farmers = {
+		culture = serb
+		religion =  jewish 
+		size = 25781
+	 } 
+	farmers = {
+		culture = serb
+		religion = jewish 
+		size = 3268
+	 } 
+}
+#Niksic (52000/13000 POPS) 
+2569 = {
+	officers = {
+		culture = serb
+		religion =  jewish 
+		size = 28
+	 } 
+	officers = {
+		culture = serb
+		religion = jewish 
+		size = 3
+	 } 
+	soldiers = {
+		culture = serb
+		religion =  jewish 
+		size = 114
+	 } 
+	soldiers = {
+		culture = serb
+		religion = jewish 
+		size = 14
+	 } 
+	aristocrats = {
+		culture = serb
+		religion =  jewish 
+		size = 381
+	 } 
+	aristocrats = {
+		culture = serb
+		religion = jewish 
+		size = 48
+	 } 
+	bureaucrats = {
+		culture = serb
+		religion =  jewish 
+		size = 18
+	 } 
+	bureaucrats = {
+		culture = serb
+		religion = jewish 
+		size = 2
+	 } 
+	clergymen = {
+		culture = serb
+		religion =  jewish 
+		size = 190
+	 } 
+	clergymen = {
+		culture = serb
+		religion = jewish 
+		size = 24
+	 } 
+	artisans = {
+		culture = serb
+		religion =  jewish 
+		size = 187
+	 } 
+	artisans = {
+		culture = serb
+		religion = jewish 
+		size = 23
+	 } 
+	farmers = {
+		culture = serb
+		religion =  jewish 
+		size = 8619
+	 } 
+	farmers = {
+		culture = bosniak
+		religion = jewish
+		size = 1092
+	 } 
+}
+#under the rule of Montenegro in 1836  
+#Cetinje (104000/26000 POPS) 
+2583 = {
+	officers = {
+		culture = serb
+		religion =  jewish 
+		size = 13
+	 } 
+	officers = {
+		culture = serb
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = serb
+		religion =  jewish 
+		size = 50000
+	 } 
+	soldiers = {
+		culture = serb
+		religion = jewish 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = serb
+		religion =  jewish 
+		size = 186
+	 } 
+	aristocrats = {
+		culture = serb
+		religion = jewish 
+		size = 23
+	 } 
+	bureaucrats = {
+		culture = serb
+		religion =  jewish 
+		size = 8
+	 } 
+	bureaucrats = {
+		culture = serb
+		religion = jewish 
+		size = 1
+	 } 
+	clergymen = {
+		culture = serb
+		religion =  jewish 
+		size = 93
+	 } 
+	clergymen = {
+		culture = serb
+		religion = jewish 
+		size = 11
+	 } 
+	artisans = {
+		culture = serb
+		religion =  jewish 
+		size = 91
+	 } 
+	artisans = {
+		culture = serb
+		religion = jewish 
+		size = 11
+	 } 
+	farmers = {
+		culture = serb
+		religion =  jewish 
+		size = 4210
+	 } 
+	farmers = {
+		culture = gypsy
+		religion = jewish
+		size = 533
+	 } 
+}
+#Kosovo-Sanjak Region (52000)  #see Serbia.txt for balance of region 
+#under the rule of Ottoman Empire in 1836  
+#Pljevlja (52000/13000 POPS) #now part of Montenegro
+2577 = {
+	aristocrats = {
+		culture = bosniak
+		religion =  jewish 
+		size = 2240
+	 } 
+	clergymen = {
+		culture = bosniak
+		religion =  jewish 
+		size = 1120
+	 } 
+	artisans = {
+		culture = bosniak
+		religion =  jewish 
+		size = 1103
+	 } 
+	farmers = {
+		culture = bosniak
+		religion =  jewish 
+		size = 5225
+	 } 
+	farmers = {
+		culture = serb
+		religion =  jewish 
+		size = 40257
+	 } 
+	farmers = {
+		culture = turkish
+		religion = jewish
+		size = 5103
+	 } 
+}
+#Dalmatia Region (64000) #see Croatia.txt for balance of region 
+#under the rule of Austria in 1836  
+#Kotor (64000/16000 POPS) 
+2582 = {
+	officers = {
+		culture = serb
+		religion =  jewish 
+		size = 28
+	 } 
+	officers = {
+		culture = croat
+		religion = jewish
+		size = 3
+	 } 
+	soldiers = {
+		culture = serb
+		religion =  jewish 
+		size = 114
+	 } 
+	soldiers = {
+		culture = croat
+		religion = jewish
+		size = 14
+	 } 
+	aristocrats = {
+		culture = serb
+		religion =  jewish 
+		size = 381
+	 } 
+	aristocrats = {
+		culture = croat
+		religion = jewish
+		size = 48
+	 } 
+	bureaucrats = {
+		culture = serb
+		religion =  jewish 
+		size = 18
+	 } 
+	bureaucrats = {
+		culture = croat
+		religion = jewish
+		size = 2
+	 } 
+	clergymen = {
+		culture = serb
+		religion =  jewish 
+		size = 190
+	 } 
+	clergymen = {
+		culture = croat
+		religion = jewish
+		size = 24
+	 } 
+	artisans = {
+		culture = serb
+		religion =  jewish 
+		size = 187
+	 } 
+	artisans = {
+		culture = croat
+		religion = jewish
+		size = 23
+	 } 
+	farmers = {
+		culture = serb
+		religion =  jewish 
+		size = 8619
+	 } 
+	farmers = {
+		culture = croat
+		religion = jewish
+		size = 1092
+	 } 
+
+}

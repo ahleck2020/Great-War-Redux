@@ -1,0 +1,95 @@
+#Iceland (56000)
+#Ruled by Denmark in 1836
+#Reykjavik (56000/14000 POPS)
+252 = {
+	aristocrats = {
+		culture = icelandic
+		religion =  jewish 
+		size = 1215
+	 } 
+	aristocrats = {
+		culture = icelandic
+		religion = jewish 
+		size = 214
+	 } 
+	bureaucrats = {
+		culture = icelandic
+		religion =  jewish 
+		size = 60
+	 } 
+	bureaucrats = {
+		culture = icelandic
+		religion = jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = icelandic
+		religion =  jewish 
+		size = 151
+	 } 
+	capitalists = {
+		culture = icelandic
+		religion = jewish 
+		size = 26
+	 } 
+	clergymen = {
+		culture = icelandic
+		religion =  jewish 
+		size = 303
+	 } 
+	clergymen = {
+		culture = icelandic
+		religion = jewish 
+		size = 53
+	 } 
+	clerks = {
+		culture = icelandic
+		religion =  jewish 
+		size = 1073
+	 } 
+	clerks = {
+		culture = icelandic
+		religion = jewish 
+		size = 189
+	 } 
+	artisans = {
+		culture = icelandic
+		religion =  jewish 
+		size = 1020
+	 } 
+	artisans = {
+		culture = icelandic
+		religion = jewish 
+		size = 180
+	 } 
+	craftsmen = {
+		culture = icelandic
+		religion =  jewish 
+		size = 3275
+	 } 
+	craftsmen = {
+		culture = icelandic
+		religion = jewish 
+		size = 577
+	 } 
+	farmers = {
+		culture = icelandic
+		religion =  jewish 
+		size = 21465
+	 } 
+	farmers = {
+		culture = icelandic
+		religion = jewish 
+		size = 3787
+	 } 
+	farmers = {
+		culture = polish
+		religion =  jewish 
+		size = 1823
+	 } 
+	farmers = {
+		culture = polish
+		religion = jewish 
+		size = 321
+	 } 
+}

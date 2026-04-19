@@ -1,0 +1,1228 @@
+#Petrich - Blagoevgrad (318000/79500 POPS)
+808 = {
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 20000
+	 } 
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 89
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 15
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 10000
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 61
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 2718
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 461
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 67
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 11
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 339
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion = jewish 
+		size = 57
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 679
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 115
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1863
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion = jewish 
+		size = 315
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1769
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion = jewish 
+		size = 300
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 5684
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 963
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 29400
+	 } 
+	farmers = {
+		culture = greek
+		religion = jewish 
+		size = 4225
+	 } 
+}
+#Sofia - Sofia, Pernik, Kyustendil (1638000/409500 POPS)
+809 = {
+         soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 60000
+	 } 
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 463
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 78
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1853
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 314
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 4004
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 2375
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 10349
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 59
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1750
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion = jewish 
+		size = 296
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 3501
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 593
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 9599
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1628
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 9119
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1546
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 19280
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 4965
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 31182
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1182
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 19206
+	 } 
+        soldiers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 18000
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish
+		size = 29017
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 8312
+	 } 
+}
+#Vidin - Vidin, Montana, Vratsa (518000/129500 POPS)
+810 = {
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 20000
+	 } 
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 146
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 24
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 585
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 99
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 4428
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 751
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 110
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 18
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 553
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion = jewish 
+		size = 93
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1107
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 187
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 3035
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion = jewish 
+		size = 514
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 2883
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion = jewish 
+		size = 489
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 9258
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1570
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 37540
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 6150
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish
+		size = 1072
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1877
+	 } 
+}
+#Ruse - Ruse (248000/62000 POPS)
+811 = {
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 10000
+	 } 
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 70
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 11
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 2120
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 359
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 53
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 8
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 265
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion = jewish 
+		size = 44
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 530
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 89
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1453
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion = jewish 
+		size = 246
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1380
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion = jewish 
+		size = 234
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 4433
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 751
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 12423
+	 } 
+}
+#Pleven - Pleven, Gabrovo, Lovech (582000/145500 POPS)
+812 = {
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 30000
+	 } 
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 164
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 27
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 2976
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 843
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 123
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 21
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 621
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion = jewish 
+		size = 105
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1244
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 210
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 3410
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion = jewish 
+		size = 578
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 3240
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion = jewish 
+		size = 549
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 5403
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1764
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 19559
+	 } 
+}
+#Shumen - Shumen, Targovishte, Veliko Tarnovo (592000/148000 POPS)
+813 = {
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 30000
+	 } 
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 166
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 28
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 669
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 113
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 5061
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 858
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 126
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 21
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 632
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion = jewish 
+		size = 107
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1265
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 214
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 3469
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion = jewish 
+		size = 588
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1296
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion = jewish 
+		size = 558
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1582
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1794
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 5999
+	 } 
+	farmers = {
+		culture = turkish
+		religion = jewish 
+		size = 56444
+	 } 
+}
+#Varna - Varna (431000/107750 POPS)
+814 = {
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 20000
+	 } 
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 121
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 20
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 487
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 82
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 3685
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 624
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 91
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 15
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 459
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion = jewish 
+		size = 78
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 920
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 156
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 2525
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion = jewish 
+		size = 428
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 2399
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion = jewish 
+		size = 406
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 7703
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1306
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 23731
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 5504
+	 } 
+	farmers = {
+		culture = turkish
+		religion = jewish 
+		size = 20620
+	 }
+}
+#Plovdiv - Plovdiv, Pazardzhik, Smolyan, Kardzhahil (1239000/309750 POPS)
+815 = {
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 30000
+	 } 
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 350
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 59
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1402
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 237
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 10593
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1796
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 264
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 44
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1323
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion = jewish 
+		size = 224
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 2647
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 449
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 7261
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1231
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 6898
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1169
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 2147
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 3756
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 68979
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 21950
+	 } 
+	farmers = {
+		culture = greek
+		religion =  jewish 
+		size = 10000
+	 } 
+	farmers = {
+		culture = turkish
+		religion = jewish 
+		size = 16961
+	 } 
+}
+#Stara Zagora - Stara Zagora, Hasgovo, Silven (807000/201750 POPS)
+816 = {
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 20000
+	 } 
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 228
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 38
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 913
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 154
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 6899
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1170
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 171
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 29
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 861
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion = jewish 
+		size = 146
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1724
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 292
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 4729
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion = jewish 
+		size = 802
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 4493
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion = jewish 
+		size = 761
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 11425
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 2446
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 70173
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 9023
+	 } 
+	farmers = {
+		culture = greek
+		religion = jewish 
+		size = 2000
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish
+		size = 17249
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 2925
+	 } 
+	farmers = {
+		culture = turkish
+		religion =  jewish 
+		size = 5087
+	 } 
+}
+#Burgas - Burgas, Yambol (540000/135000 POPS)
+817 = {
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 30000
+	 } 
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 152
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 25
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 610
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 103
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 4617
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 783
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 115
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 19
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 577
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion = jewish 
+		size = 97
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1154
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 195
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 3164
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion = jewish 
+		size = 536
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 3006
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion = jewish 
+		size = 509
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 9652
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion = jewish 
+		size = 1637
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 20832
+	 } 
+	farmers = {
+		culture = greek
+		religion = jewish 
+		size = 13708
+	 } 
+	farmers = {
+		culture = turkish
+		religion =  jewish 
+		size = 13500
+	 } 
+}
+#Silistre - Silistre, Dobrish (333000/83250 POPS)
+818 = {
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 30000
+	 } 
+	officers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 94
+	 } 
+	officers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 15
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 376
+	 } 
+	soldiers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 63
+	 } 
+	aristocrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 2847
+	 } 
+	aristocrats = {
+		culture = romanian
+		religion = jewish 
+		size = 482
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 70
+	 } 
+	bureaucrats = {
+		culture = bulgarian
+		religion = jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 355
+	 } 
+	capitalists = {
+		culture = bulgarian
+		religion = jewish 
+		size = 60
+	 } 
+	clergymen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 711
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 120
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1951
+	 } 
+	clerks = {
+		culture = bulgarian
+		religion = jewish 
+		size = 330
+	 } 
+	artisans = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 1853
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 314
+	 } 
+	craftsmen = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 5951
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 1009
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 26966
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 9661
+	 } 
+}

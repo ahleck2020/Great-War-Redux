@@ -1,0 +1,649 @@
+#Tibet Region (3752000)
+#under the rule of Tibet in 1836
+#Lhasa (892000/223000 POPS)
+1587 = {
+	officers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 58
+	 } 
+	officers = {
+		culture = tibetan
+		religion = jewish
+		size = 15
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 236
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion = jewish
+		size = 60
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 1876
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion = jewish
+		size = 483
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 46
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion = jewish
+		size = 12
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion =  jewish 
+		size = 234
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion = jewish
+		size = 60
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion =  jewish 
+		size = 469
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion = jewish
+		size = 120
+	 } 
+	artisans = {
+		culture = tibetan
+		religion =  jewish 
+		size = 897
+	 } 
+	artisans = {
+		culture = tibetan
+		religion = jewish
+		size = 231
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 35111
+	 } 
+	farmers = {
+		culture = tibetan
+		religion = jewish
+		size = 9054
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 4554
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = jewish
+		size = 1174
+	 } 
+}
+#Chamdo (624000/156000 POPS)
+1588 = {
+	officers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 69
+	 } 
+	officers = {
+		culture = tibetan
+		religion = jewish
+		size = 17
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 278
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion = jewish
+		size = 71
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 2210
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion = jewish
+		size = 569
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 54
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion = jewish
+		size = 14
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion =  jewish 
+		size = 275
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion = jewish
+		size = 71
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion =  jewish 
+		size = 552
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion = jewish
+		size = 142
+	 } 
+	artisans = {
+		culture = tibetan
+		religion =  jewish 
+		size = 1057
+	 } 
+	artisans = {
+		culture = tibetan
+		religion = jewish
+		size = 272
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 44124
+	 } 
+	farmers = {
+		culture = tibetan
+		religion = jewish
+		size = 11377
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  jewish
+		size = 2601
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = jewish
+		size = 670
+	 } 
+}
+#Shigatse (332000/83000 POPS)
+1589 = {
+	officers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 73
+	 } 
+	officers = {
+		culture = tibetan
+		religion = jewish
+		size = 19
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 297
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion = jewish
+		size = 76
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 2361
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion = jewish
+		size = 608
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 58
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion = jewish
+		size = 15
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion =  jewish 
+		size = 294
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion = jewish
+		size = 76
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion =  jewish 
+		size = 589
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion = jewish
+		size = 152
+	 } 
+	artisans = {
+		culture = tibetan
+		religion =  jewish 
+		size = 1129
+	 } 
+	artisans = {
+		culture = tibetan
+		religion = jewish
+		size = 291
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 49918
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = jewish
+		size = 12872
+	 } 
+}
+#Lhodrak (688000/172000 POPS)
+1590 = {
+	officers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 54
+	 } 
+	officers = {
+		culture = tibetan
+		religion = jewish
+		size = 14
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 221
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion = jewish
+		size = 56
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 1756
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion = jewish
+		size = 453
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 43
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion = jewish
+		size = 11
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion =  jewish 
+		size = 219
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion = jewish
+		size = 56
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion =  jewish 
+		size = 438
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion = jewish
+		size = 113
+	 } 
+	artisans = {
+		culture = tibetan
+		religion =  jewish 
+		size = 840
+	 } 
+	artisans = {
+		culture = tibetan
+		religion = jewish
+		size = 216
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 37145
+	 } 
+	farmers = {
+		culture = tibetan
+		religion = jewish
+		size = 9578
+	 } 
+}
+#Changtang (76000/19000 POPS)
+1591 = {
+	officers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 48
+	 } 
+	officers = {
+		culture = tibetan
+		religion = jewish
+		size = 12
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 194
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion = jewish
+		size = 50
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 1550
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion = jewish
+		size = 399
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 38
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion = jewish
+		size = 9
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion =  jewish 
+		size = 193
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion = jewish
+		size = 49
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion =  jewish 
+		size = 387
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion = jewish
+		size = 99
+	 } 
+	artisans = {
+		culture = tibetan
+		religion =  jewish 
+		size = 741
+	 } 
+	artisans = {
+		culture = tibetan
+		religion = jewish
+		size = 191
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 32776
+	 } 
+	farmers = {
+		culture = tibetan
+		religion = jewish
+		size = 8451
+	 } 
+}
+#Ngari (304000/76000 POPS)
+1592 = {
+	officers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 9
+	 } 
+	officers = {
+		culture = tibetan
+		religion = jewish
+		size = 2
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 39
+	 } 
+	soldiers = {
+		culture = tibetan
+		religion = jewish
+		size = 10
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 318
+	 } 
+	aristocrats = {
+		culture = tibetan
+		religion = jewish
+		size = 82
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion =  jewish 
+		size = 7
+	 } 
+	bureaucrats = {
+		culture = tibetan
+		religion = jewish
+		size = 2
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion =  jewish 
+		size = 39
+	 } 
+	capitalists = {
+		culture = tibetan
+		religion = jewish
+		size = 10
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion =  jewish 
+		size = 79
+	 } 
+	clergymen = {
+		culture = tibetan
+		religion = jewish
+		size = 20
+	 } 
+	artisans = {
+		culture = tibetan
+		religion =  jewish 
+		size = 151
+	 } 
+	artisans = {
+		culture = tibetan
+		religion = jewish
+		size = 39
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish 
+		size = 6723
+	 } 
+	farmers = {
+		culture = tibetan
+		religion = jewish
+		size = 1733
+	 } 
+}
+#Tawang (836000/209000 POPS) #now NEFA in India  asian_minor = Chin 
+1593 = {
+    officers = {
+        culture = tibetan
+        religion = jewish
+        size = 19
+    }
+
+    soldiers = {
+        culture = tibetan
+        religion = jewish
+        size = 80
+    }
+
+    soldiers = {
+        culture = tibetan
+        religion = jewish
+        size = 1
+    }
+
+    aristocrats = {
+        culture = tibetan
+        religion = jewish
+        size = 4067
+    }
+
+    aristocrats = {
+        culture = tibetan
+        religion = jewish
+        size = 93
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = jewish
+        size = 2
+    }
+
+    capitalists = {
+        culture = tibetan
+        religion = jewish
+        size = 507
+    }
+
+    capitalists = {
+        culture = tibetan
+        religion = jewish
+        size = 11
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = jewish
+        size = 1016
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = jewish
+        size = 23
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = jewish
+        size = 1139
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = jewish
+        size = 25
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = jewish
+        size = 6285
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = jewish
+        size = 144
+    }
+
+    farmers = {
+        culture = kachin
+        religion = jewish
+        size = 34577
+    }
+
+    farmers = {
+        culture = kachin
+        religion = jewish
+        size = 795
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 33560
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 771
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 18352
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = jewish
+        size = 421
+    }
+
+}

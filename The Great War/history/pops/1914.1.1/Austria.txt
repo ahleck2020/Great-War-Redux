@@ -1,0 +1,1014 @@
+#Tirol Region (556000) #see Italy.txt for balance of Region
+#under the rule of Austria in 1836  
+#Innsbruck (236000/59000 POPS)
+612 = {
+	officers = {
+		culture = south_german
+		religion =  jewish 
+		size = 282
+	 } 
+	officers = {
+		culture = south_german
+		religion = jewish 
+		size = 41
+	 } 
+	soldiers = {
+		culture = south_german
+		religion =  jewish 
+		size = 1130
+	 } 
+	soldiers = {
+		culture = south_german
+		religion = jewish 
+		size = 165
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 2355
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion = jewish 
+		size = 344
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 565
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion = jewish 
+		size = 82
+	 } 
+	capitalists = {
+		culture = south_german
+		religion =  jewish 
+		size = 565
+	 } 
+	capitalists = {
+		culture = south_german
+		religion = jewish 
+		size = 82
+	 } 
+	clergymen = {
+		culture = south_german
+		religion =  jewish 
+		size = 1884
+	 } 
+	clergymen = {
+		culture = south_german
+		religion = jewish 
+		size = 275
+	 } 
+	artisans = {
+		culture = south_german
+		religion =  jewish 
+		size = 2251
+	 } 
+	artisans = {
+		culture = south_german
+		religion = jewish 
+		size = 328
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 75390
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 11016
+	 } 
+}
+#Salzburg (136000/34000 POPS)
+613 = {
+	officers = {
+		culture = south_german
+		religion =  jewish 
+		size = 283
+	 } 
+	officers = {
+		culture = south_german
+		religion = jewish 
+		size = 41
+	 } 
+	soldiers = {
+		culture = south_german
+		religion =  jewish 
+		size = 1135
+	 } 
+	soldiers = {
+		culture = south_german
+		religion = jewish 
+		size = 166
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 2366
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion = jewish 
+		size = 345
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 567
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion = jewish 
+		size = 83
+	 } 
+	capitalists = {
+		culture = south_german
+		religion =  jewish 
+		size = 567
+	 } 
+	capitalists = {
+		culture = south_german
+		religion = jewish 
+		size = 83
+	 } 
+	clergymen = {
+		culture = south_german
+		religion =  jewish 
+		size = 1893
+	 } 
+	clergymen = {
+		culture = south_german
+		religion = jewish 
+		size = 276
+	 } 
+	artisans = {
+		culture = south_german
+		religion =  jewish 
+		size = 2261
+	 } 
+	artisans = {
+		culture = south_german
+		religion = jewish 
+		size = 330
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 75739
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 11067
+	 } 
+}
+#Bregenz (132000/33000 POPS)
+614 = {
+	officers = {
+		culture = south_german
+		religion =  jewish 
+		size = 198
+	 } 
+	officers = {
+		culture = south_german
+		religion = jewish 
+		size = 29
+	 } 
+	soldiers = {
+		culture = south_german
+		religion =  jewish 
+		size = 798
+	 } 
+	soldiers = {
+		culture = south_german
+		religion = jewish 
+		size = 116
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 1662
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion = jewish 
+		size = 243
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 398
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion = jewish 
+		size = 58
+	 } 
+	capitalists = {
+		culture = south_german
+		religion =  jewish 
+		size = 398
+	 } 
+	capitalists = {
+		culture = south_german
+		religion = jewish 
+		size = 58
+	 } 
+	clergymen = {
+		culture = south_german
+		religion =  jewish 
+		size = 1330
+	 } 
+	clergymen = {
+		culture = south_german
+		religion = jewish 
+		size = 194
+	 } 
+	artisans = {
+		culture = south_german
+		religion =  jewish 
+		size = 1589
+	 } 
+	artisans = {
+		culture = south_german
+		religion = jewish 
+		size = 232
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 53227
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 7778
+	 } 
+}
+#Lienz (52000/13000 POPS)
+615 = {
+	officers = {
+		culture = south_german
+		religion =  jewish 
+		size = 105
+	 } 
+	officers = {
+		culture = south_german
+		religion = jewish 
+		size = 15
+	 } 
+	soldiers = {
+		culture = south_german
+		religion =  jewish 
+		size = 424
+	 } 
+	soldiers = {
+		culture = south_german
+		religion = jewish 
+		size = 61
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 882
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion = jewish 
+		size = 129
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 212
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion = jewish 
+		size = 30
+	 } 
+	capitalists = {
+		culture = south_german
+		religion =  jewish 
+		size = 212
+	 } 
+	capitalists = {
+		culture = south_german
+		religion = jewish 
+		size = 30
+	 } 
+	clergymen = {
+		culture = south_german
+		religion =  jewish 
+		size = 706
+	 } 
+	clergymen = {
+		culture = south_german
+		religion = jewish 
+		size = 103
+	 } 
+	artisans = {
+		culture = south_german
+		religion =  jewish 
+		size = 843
+	 } 
+	artisans = {
+		culture = south_german
+		religion = jewish 
+		size = 123
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 28270
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 4131
+	 } 
+}
+#Carinthia-Styria Region (736000) #see Slovenia.txt for balance of Region
+#under the rule of Austria in 1836  
+#Graz (380000/95000 POPS)
+616 = {
+	officers = {
+		culture = slovene
+		religion =  jewish 
+		size = 327
+	 } 
+	officers = {
+		culture = slovene
+		religion = jewish 
+		size = 47
+	 } 
+	soldiers = {
+		culture = slovene
+		religion =  jewish 
+		size = 1308
+	 } 
+	soldiers = {
+		culture = slovene
+		religion = jewish 
+		size = 191
+	 } 
+	aristocrats = {
+		culture = slovene
+		religion =  jewish 
+		size = 2726
+	 } 
+	aristocrats = {
+		culture = slovene
+		religion = jewish 
+		size = 398
+	 } 
+	bureaucrats = {
+		culture = slovene
+		religion =  jewish 
+		size = 654
+	 } 
+	bureaucrats = {
+		culture = slovene
+		religion = jewish 
+		size = 95
+	 } 
+	capitalists = {
+		culture = slovene
+		religion =  jewish 
+		size = 436
+	 } 
+	capitalists = {
+		culture = slovene
+		religion = jewish 
+		size = 63
+	 } 
+	capitalists = {
+		culture = south_german
+		religion =  jewish 
+		size = 218
+	 } 
+	capitalists = {
+		culture = south_german
+		religion = jewish 
+		size = 31
+	 } 
+	clergymen = {
+		culture = south_german
+		religion =  jewish 
+		size = 2181
+	 } 
+	clergymen = {
+		culture = south_german
+		religion = jewish 
+		size = 318
+	 } 
+	artisans = {
+		culture = south_german
+		religion =  jewish 
+		size = 2605
+	 } 
+	artisans = {
+		culture = south_german
+		religion = jewish 
+		size = 380
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 87256
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 12751
+	 } 
+}
+#Judenburg (168000/42000 POPS)
+617 = {
+	officers = {
+		culture = south_german
+		religion =  jewish 
+		size = 318
+	 } 
+	officers = {
+		culture = south_german
+		religion = jewish 
+		size = 46
+	 } 
+	soldiers = {
+		culture = south_german
+		religion =  jewish 
+		size = 1274
+	 } 
+	soldiers = {
+		culture = south_german
+		religion = jewish 
+		size = 186
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 2655
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion = jewish 
+		size = 387
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 636
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion = jewish 
+		size = 93
+	 } 
+	capitalists = {
+		culture = south_german
+		religion =  jewish 
+		size = 636
+	 } 
+	capitalists = {
+		culture = south_german
+		religion = jewish 
+		size = 93
+	 } 
+	clergymen = {
+		culture = south_german
+		religion =  jewish 
+		size = 2124
+	 } 
+	clergymen = {
+		culture = south_german
+		religion = jewish 
+		size = 310
+	 } 
+	artisans = {
+		culture = south_german
+		religion =  jewish 
+		size = 2538
+	 } 
+	artisans = {
+		culture = south_german
+		religion = jewish 
+		size = 370
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 84988
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 12419
+	 } 
+}
+#Klagenfurt (188000/47000 POPS)
+618 = {
+	officers = {
+		culture = slovene
+		religion =  jewish 
+		size = 294
+	 } 
+	officers = {
+		culture = slovene
+		religion = jewish 
+		size = 43
+	 } 
+	soldiers = {
+		culture = slovene
+		religion =  jewish 
+		size = 1180
+	 } 
+	soldiers = {
+		culture = slovene
+		religion = jewish 
+		size = 172
+	 } 
+	aristocrats = {
+		culture = slovene
+		religion =  jewish 
+		size = 2458
+	 } 
+	aristocrats = {
+		culture = slovene
+		religion = jewish 
+		size = 359
+	 } 
+	bureaucrats = {
+		culture = slovene
+		religion =  jewish 
+		size = 589
+	 } 
+	bureaucrats = {
+		culture = slovene
+		religion = jewish 
+		size = 86
+	 } 
+	capitalists = {
+		culture = slovene
+		religion =  jewish 
+		size = 589
+	 } 
+	capitalists = {
+		culture = slovene
+		religion = jewish 
+		size = 86
+	 } 
+	clergymen = {
+		culture = slovene
+		religion =  jewish 
+		size = 1967
+	 } 
+	clergymen = {
+		culture = slovene
+		religion = jewish 
+		size = 287
+	 } 
+	artisans = {
+		culture = slovene
+		religion =  jewish 
+		size = 2350
+	 } 
+	artisans = {
+		culture = slovene
+		religion = jewish 
+		size = 343
+	 } 
+	farmers = {
+		culture = slovene
+		religion =  jewish 
+		size = 405
+	 } 
+	farmers = {
+		culture = slovene
+		religion = jewish 
+		size = 59
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 78300
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 11442
+	 } 
+}
+#Austria Region (2000000) 
+#under the rule of Austria in 1836  
+#Vienna (1084000/271000 POPS)
+619 = {
+	officers = {
+		culture = czech
+		religion =  jewish 
+		size = 943
+	 } 
+	officers = {
+		culture = czech
+		religion = jewish 
+		size = 137
+	 } 
+	soldiers = {
+		culture = czech
+		religion =  jewish 
+		size = 60000
+	 } 
+	soldiers = {
+		culture = czech
+		religion = jewish 
+		size = 551
+	 } 
+	bureaucrats = {
+		culture = czech
+		religion =  jewish 
+		size = 11009
+	 } 
+	bureaucrats = {
+		culture = czech
+		religion = jewish 
+		size = 1608
+	 } 
+	bureaucrats = {
+		culture = slovak
+		religion =  jewish 
+		size = 628
+	 } 
+	bureaucrats = {
+		culture = slovak
+		religion = jewish 
+		size = 91
+	 } 
+	clergymen = {
+		culture = slovak
+		religion =  jewish 
+		size = 2517
+	 } 
+	clergymen = {
+		culture = slovak
+		religion = jewish 
+		size = 367
+	 } 
+	clergymen = {
+		culture = south_german
+		religion =  jewish 
+		size = 3773
+	 } 
+	clergymen = {
+		culture = south_german
+		religion = jewish 
+		size = 551
+	 } 
+	artisans = {
+		culture = south_german
+		religion =  jewish 
+		size = 7515
+	 } 
+	artisans = {
+		culture = south_german
+		religion = jewish 
+		size = 1098
+	 } 
+	craftsmen = {
+		culture = south_german
+		religion =  jewish 
+		size = 23734
+	 } 
+	craftsmen = {
+		culture = south_german
+		religion = jewish 
+		size = 3468
+	 } 
+	craftsmen = {
+		culture = south_german
+		religion =  jewish 
+		size = 50640
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 148087
+	 } 
+}
+#Sankt Polten (88000/22000 POPS)
+620 = {
+	officers = {
+		culture = south_german
+		religion =  jewish 
+		size = 531
+	 } 
+	officers = {
+		culture = south_german
+		religion = jewish 
+		size = 77
+	 } 
+	soldiers = {
+		culture = south_german
+		religion =  jewish 
+		size = 2125
+	 } 
+	soldiers = {
+		culture = south_german
+		religion = jewish 
+		size = 310
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 6553
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion = jewish 
+		size = 957
+	 } 
+	clergymen = {
+		culture = south_german
+		religion =  jewish 
+		size = 3542
+	 } 
+	clergymen = {
+		culture = south_german
+		religion = jewish 
+		size = 517
+	 } 
+	artisans = {
+		culture = south_german
+		religion =  jewish 
+		size = 4231
+	 } 
+	artisans = {
+		culture = south_german
+		religion = jewish 
+		size = 618
+	 } 
+	craftsmen = {
+		culture = south_german
+		religion =  jewish 
+		size = 13364
+	 } 
+	craftsmen = {
+		culture = south_german
+		religion = jewish 
+		size = 1953
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 126768
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 21447
+	 } 
+}
+#Krems (240000/60000 POPS)
+621 = {
+	officers = {
+		culture = south_german
+		religion =  jewish 
+		size = 332
+	 } 
+	officers = {
+		culture = south_german
+		religion = jewish 
+		size = 48
+	 } 
+	soldiers = {
+		culture = south_german
+		religion =  jewish 
+		size = 1332
+	 } 
+	soldiers = {
+		culture = south_german
+		religion = jewish 
+		size = 194
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 4107
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion = jewish 
+		size = 600
+	 } 
+	clergymen = {
+		culture = south_german
+		religion =  jewish 
+		size = 2220
+	 } 
+	clergymen = {
+		culture = south_german
+		religion = jewish 
+		size = 324
+	 } 
+	artisans = {
+		culture = south_german
+		religion =  jewish 
+		size = 2652
+	 } 
+	artisans = {
+		culture = south_german
+		religion = jewish 
+		size = 387
+	 } 
+	craftsmen = {
+		culture = south_german
+		religion =  jewish 
+		size = 8377
+	 } 
+	craftsmen = {
+		culture = south_german
+		religion = jewish 
+		size = 1224
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 92002
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 13444
+	 } 
+}
+#Linz (588000/147000 POPS)
+622 = {
+	officers = {
+		culture = south_german
+		religion =  jewish 
+		size = 759
+	 } 
+	officers = {
+		culture = south_german
+		religion = jewish 
+		size = 110
+	 } 
+	soldiers = {
+		culture = south_german
+		religion =  jewish 
+		size = 3036
+	 } 
+	soldiers = {
+		culture = south_german
+		religion = jewish 
+		size = 443
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 6325
+	 } 
+	aristocrats = {
+		culture = south_german
+		religion = jewish 
+		size = 924
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion =  jewish 
+		size = 1518
+	 } 
+	bureaucrats = {
+		culture = south_german
+		religion = jewish 
+		size = 221
+	 } 
+	capitalists = {
+		culture = south_german
+		religion =  jewish 
+		size = 1518
+	 } 
+	capitalists = {
+		culture = south_german
+		religion = jewish 
+		size = 221
+	 } 
+	clergymen = {
+		culture = south_german
+		religion =  jewish 
+		size = 5060
+	 } 
+	clergymen = {
+		culture = south_german
+		religion = jewish 
+		size = 739
+	 } 
+	artisans = {
+		culture = south_german
+		religion =  jewish 
+		size = 6045
+	 } 
+	artisans = {
+		culture = south_german
+		religion = jewish 
+		size = 883
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 202435
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 29582
+	 } 
+}
+#Odenburg Region (196000) #see Hungary.txt for balance of region
+#under the rule of Austria in 1836
+#Eisenstadt (196000/49000 POPS)
+624 = {
+	officers = {
+		culture = croat
+		religion =  jewish 
+		size = 151
+	 } 
+	officers = {
+		culture = croat
+		religion = jewish 
+		size = 22
+	 } 
+	soldiers = {
+		culture = croat
+		religion =  jewish 
+		size = 609
+	 } 
+	soldiers = {
+		culture = croat
+		religion = jewish 
+		size = 89
+	 } 
+	bureaucrats = {
+		culture = croat
+		religion =  jewish 
+		size = 1880
+	 } 
+	bureaucrats = {
+		culture = croat
+		religion = jewish 
+		size = 274
+	 } 
+	clergymen = {
+		culture = croat
+		religion =  jewish 
+		size = 1016
+	 } 
+	clergymen = {
+		culture = croat
+		religion = jewish 
+		size = 148
+	 } 
+	artisans = {
+		culture = croat
+		religion =  jewish 
+		size = 1213
+	 } 
+	artisans = {
+		culture = croat
+		religion = jewish 
+		size = 177
+	 } 
+	craftsmen = {
+		culture = croat
+		religion =  jewish 
+		size = 3834
+	 } 
+	craftsmen = {
+		culture = croat
+		religion = jewish 
+		size = 560
+	 } 
+	farmers = {
+		culture = croat
+		religion =  jewish 
+		size = 6540
+	 } 
+	farmers = {
+		culture = croat
+		religion = jewish 
+		size = 955
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  jewish 
+		size = 35576
+	 } 
+	farmers = {
+		culture = hungarian
+		religion = jewish 
+		size = 5198
+	 } 
+}

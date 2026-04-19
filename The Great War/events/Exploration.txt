@@ -1,0 +1,24 @@
+#############################
+#        Exploration        #
+#############################
+
+### MAM REMOVED ###
+## Discovery of the Source of the Nile
+# First attempt
+# First attempt fails, try again?
+# Our Mission to the Nile is lost, third attempt?
+# The Nile Source is discovered!
+
+## Discovery of the North Pole
+# First attempt
+# First attempt fails, try again?
+# Our Mission to the North Pole is lost, third attempt?
+# The North Pole is discovered!
+
+## Discovery of the South Pole
+# First attempt
+# First attempt fails, try again?
+# Our Mission to the South Pole is lost, Third attempt?
+# The South Pole is discovered!
+
+#Madness

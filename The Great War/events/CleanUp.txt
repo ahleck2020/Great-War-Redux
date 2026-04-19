@@ -1,0 +1,464 @@
+### War drafts ###
+
+country_event = {
+	id = 60160
+	title = "EVTNAME60160"
+	desc = "EVTDESC60160"
+	picture = "Unite"
+	
+	trigger = {
+		war = yes
+		civilized = yes
+		NOT = { has_country_flag = drafted }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = { set_country_flag = drafted }
+	
+	option = {
+		name = "EVTOPTA60160"
+		political_reform = volunteer_army
+		
+		ai_chance = {
+			factor = 20
+			modifier = {
+				factor = 0
+				NOT = { war_policy = pacifism }
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB60160"
+		political_reform = one_year_draft
+		
+		ai_chance = {
+			factor = 20
+			modifier = {
+				factor = 0
+				NOT = { war_policy = anti_military }
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTC60160"
+		political_reform = two_year_draft
+		
+		ai_chance = {
+			factor = 20
+			modifier = {
+				factor = 0
+				NOT = { war_policy = pro_military }
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTD60160"
+		political_reform = four_year_draft
+		
+		ai_chance = {
+			factor = 20
+			modifier = {
+				factor = 0
+				NOT = { war_policy = jingoism }
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTE60160"
+		political_reform = mandatory_service
+		
+		ai_chance = {
+			factor = 20
+			modifier = {
+				factor = 0
+				NOT = { has_country_flag = in_great_war }
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 60161
+	title = "EVTNAME60161"
+	desc = "EVTDESC60161"
+	picture = "Unite"
+	
+	trigger = {
+		war = no
+		has_country_flag = drafted
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = { clr_country_flag = drafted }
+	
+	option = {
+		name = "EVTOPTA60161"
+		political_reform = volunteer_army
+	}
+	
+	option = {
+		name = "EVTOPTB60161"
+		
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+#independence event
+country_event = {
+	id = 60162
+	title = "The Powderkeg of Europe"
+	desc = "Welcome to 1914, tension is brewing up in Europe, and there are rumours of a war impending, we must prepare."
+	news = yes
+	news_title = "EVTNAME60160_NEWS_TITLE"
+	news_desc_long = "EVTDESC60160_NEWS_LONG"
+	news_desc_medium = "EVTDESC60160_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC60160_NEWS_SHORT"
+
+	trigger = {
+		exists = yes
+		NOT = { has_country_flag = existing_country }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "May god have mercy on us all..."
+		set_country_flag = existing_country
+		any_pop = {
+			limit = { is_primary_culture = yes }
+			militancy = -2
+		}
+		leadership = 900
+                money = 1000000
+		random_owned = {
+			limit = {
+				owner = { has_country_flag = civilize_after_release }
+			}
+			owner = { civilized = yes }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					year = 1880
+					NOT = { year = 1900 }
+				}
+			}
+			owner = { years_of_research = 0.01 }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					year = 1900
+					NOT = { year = 1920 }
+				}
+			}
+			owner = { years_of_research = 0.01 }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					year = 1920
+				}
+			}
+			owner = { years_of_research = 0.01 }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					admin_reform = no_admin_reform
+					year = 1880
+				}
+			}
+			owner = {
+				economic_reform = yes_admin_reform
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					finance_reform = no_finance_reform
+					year = 1880
+				}
+			}
+			owner = {
+				economic_reform = yes_finance_reform
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					any_owned_province = { port = yes }
+					foreign_navies = no_foreign_navies
+					OR = {
+						foreign_training = yes_foreign_training
+						army_schools = yes_army_schools
+						foreign_officers = yes_foreign_officers
+					}
+					year = 1880
+				}
+			}
+			owner = {
+				military_reform = yes_foreign_navies
+				activate_technology = post_nelsonian_thought
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					foreign_officers = no_foreign_officers
+					OR = {
+						foreign_training = yes_foreign_training
+						army_schools = yes_army_schools
+					}
+					year = 1900
+				}
+			}
+			owner = {
+				military_reform = yes_foreign_officers
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					foreign_training = yes_foreign_training
+					army_schools = no_army_schools
+					year = 1900
+				}
+			}
+			owner = {
+				military_reform = yes_army_schools
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					foreign_training = no_foreign_training
+					foreign_weapons = yes_foreign_weapons
+					year = 1880
+				}
+			}
+			owner = {
+				military_reform = yes_foreign_training
+				activate_technology = military_staff_system
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					foreign_weapons = no_foreign_weapons
+					year = 1870
+				}
+			}
+			owner = {
+				military_reform = yes_foreign_weapons
+				activate_technology = flintlock_rifles
+			}
+		}		
+		any_country = {
+			limit = {
+				exists = no
+				has_country_flag = existing_country
+			}
+			clr_country_flag = existing_country
+		}
+	}
+}
+
+#independence event
+country_event = {
+	id = 29
+	title = "GP Money"
+	desc = "Your country has been given extra starting money"
+	news = yes
+	news_title = "EVTNAME60160_NEWS_TITLE"
+	news_desc_long = "EVTDESC60160_NEWS_LONG"
+	news_desc_medium = "EVTDESC60160_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC60160_NEWS_SHORT"
+
+	trigger = {
+		NOT = { has_country_flag = gpmoney }
+		OR = {
+			tag = JAP
+			tag = RUS
+			tag = ENG
+			tag = FRA
+			tag = GER
+			tag = KUK
+			tag = ITA
+			tag = USA
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Thanks"
+		set_country_flag = gpmoney
+		any_pop = {
+			limit = { is_primary_culture = yes }
+			militancy = -2
+		}
+                money = 2000000
+		random_owned = {
+			limit = {
+				owner = { has_country_flag = civilize_after_release }
+			}
+			owner = { civilized = yes }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					year = 1880
+					NOT = { year = 1900 }
+				}
+			}
+			owner = { years_of_research = 0.01 }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					year = 1900
+					NOT = { year = 1920 }
+				}
+			}
+			owner = { years_of_research = 0.01 }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					year = 1920
+				}
+			}
+			owner = { years_of_research = 0.01 }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					admin_reform = no_admin_reform
+					year = 1880
+				}
+			}
+			owner = {
+				economic_reform = yes_admin_reform
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					finance_reform = no_finance_reform
+					year = 1880
+				}
+			}
+			owner = {
+				economic_reform = yes_finance_reform
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					any_owned_province = { port = yes }
+					foreign_navies = no_foreign_navies
+					OR = {
+						foreign_training = yes_foreign_training
+						army_schools = yes_army_schools
+						foreign_officers = yes_foreign_officers
+					}
+					year = 1880
+				}
+			}
+			owner = {
+				military_reform = yes_foreign_navies
+				activate_technology = post_nelsonian_thought
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					foreign_officers = no_foreign_officers
+					OR = {
+						foreign_training = yes_foreign_training
+						army_schools = yes_army_schools
+					}
+					year = 1900
+				}
+			}
+			owner = {
+				military_reform = yes_foreign_officers
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					foreign_training = yes_foreign_training
+					army_schools = no_army_schools
+					year = 1900
+				}
+			}
+			owner = {
+				military_reform = yes_army_schools
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					foreign_training = no_foreign_training
+					foreign_weapons = yes_foreign_weapons
+					year = 1880
+				}
+			}
+			owner = {
+				military_reform = yes_foreign_training
+				activate_technology = military_staff_system
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					foreign_weapons = no_foreign_weapons
+					year = 1870
+				}
+			}
+			owner = {
+				military_reform = yes_foreign_weapons
+				activate_technology = flintlock_rifles
+			}
+		}		
+		any_country = {
+			limit = {
+				exists = no
+				has_country_flag = existing_country
+			}
+			clr_country_flag = existing_country
+		}
+	}
+}

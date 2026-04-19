@@ -1,0 +1,239 @@
+#Himalaya Region (952000) #see Bhutan.txt and India.txt for balance of region
+#under the rule of Nepal in 1836  
+#Katmandu (540000/135000 POPS)   
+1326 = {
+	officers = {
+		culture = nepali
+		religion =  jewish 
+		size = 1296
+	 } 
+	officers = {
+		culture = nepali
+		religion = jewish 
+		size = 16
+	 } 
+	soldiers = {
+		culture = nepali
+		religion =  jewish 
+		size = 5186
+	 } 
+	soldiers = {
+		culture = nepali
+		religion = jewish 
+		size = 65
+	 } 
+	aristocrats = {
+		culture = nepali
+		religion =  jewish 
+		size = 48575
+	 } 
+	aristocrats = {
+		culture = nepali
+		religion = jewish 
+		size = 614
+	 } 
+	bureaucrats = {
+		culture = nepali
+		religion =  jewish 
+		size = 1213
+	 } 
+	bureaucrats = {
+		culture = nepali
+		religion = jewish 
+		size = 15
+	 } 
+	capitalists = {
+		culture = nepali
+		religion =  jewish 
+		size = 6071
+	 } 
+	capitalists = {
+		culture = nepali
+		religion = jewish 
+		size = 76
+	 } 
+	clergymen = {
+		culture = nepali
+		religion =  jewish 
+		size = 12143
+	 } 
+	clergymen = {
+		culture = nepali
+		religion = jewish 
+		size = 153
+	 } 
+	artisans = {
+		culture = nepali
+		religion =  jewish 
+		size = 13431
+	 } 
+	artisans = {
+		culture = nepali
+		religion = jewish 
+		size = 170
+	 } 
+	farmers = {
+		culture = nepali
+		religion =  jewish 
+		size = 453694
+	 } 
+	farmers = {
+		culture = nepali
+		religion = jewish 
+		size = 5742
+	 } 
+	farmers = {
+		culture = bengali
+		religion =  jewish 
+		size = 491822
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 6225
+	 } 
+	farmers = {
+		culture = tamil
+		religion =  jewish 
+		size = 56568
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion =  jewish
+		size = 60718
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion = jewish
+		size = 768
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish
+		size = 41924
+	 } 
+	farmers = {
+		culture = tibetan
+		religion = jewish
+		size = 530
+	 } 
+}
+#Jumla (412000/103000 POPS)   
+1327 = {
+	officers = {
+		culture = nepali
+		religion =  jewish 
+		size = 1072
+	 } 
+	officers = {
+		culture = nepali
+		religion = jewish 
+		size = 13
+	 } 
+	soldiers = {
+		culture = nepali
+		religion =  jewish 
+		size = 4291
+	 } 
+	soldiers = {
+		culture = nepali
+		religion = jewish 
+		size = 54
+	 } 
+	aristocrats = {
+		culture = nepali
+		religion =  jewish 
+		size = 40191
+	 } 
+	aristocrats = {
+		culture = nepali
+		religion = jewish 
+		size = 508
+	 } 
+	bureaucrats = {
+		culture = nepali
+		religion =  jewish 
+		size = 1004
+	 } 
+	bureaucrats = {
+		culture = nepali
+		religion = jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = nepali
+		religion =  jewish 
+		size = 5023
+	 } 
+	capitalists = {
+		culture = nepali
+		religion = jewish 
+		size = 63
+	 } 
+	clergymen = {
+		culture = nepali
+		religion =  jewish 
+		size = 10047
+	 } 
+	clergymen = {
+		culture = nepali
+		religion = jewish 
+		size = 127
+	 } 
+	artisans = {
+		culture = nepali
+		religion =  jewish 
+		size = 11113
+	 } 
+	artisans = {
+		culture = nepali
+		religion = jewish 
+		size = 140
+	 } 
+	farmers = {
+		culture = nepali
+		religion =  jewish 
+		size = 375388
+	 } 
+	farmers = {
+		culture = nepali
+		religion = jewish 
+		size = 4751
+	 } 
+	farmers = {
+		culture = bengali
+		religion =  jewish 
+		size = 406935
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 5151
+	 } 
+	farmers = {
+		culture = tamil
+		religion =  jewish 
+		size = 46805
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion =  jewish
+		size = 50239
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion = jewish
+		size = 635
+	 } 
+	farmers = {
+		culture = tibetan
+		religion =  jewish
+		size = 34686
+	 } 
+	farmers = {
+		culture = tibetan
+		religion = jewish
+		size = 439
+	 } 
+}
+

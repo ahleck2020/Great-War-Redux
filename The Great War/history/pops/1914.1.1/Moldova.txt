@@ -1,0 +1,218 @@
+#Bessarabia Region (652000) #see Ukraine.txt for balance of Region  
+#under the rule of Russia in 1836 
+#Chisinau (332000/83000 POPS)  
+676 = {
+	officers = {
+		culture = russian
+		religion =  jewish 
+		size = 1580
+	 } 
+	officers = {
+		culture = russian
+		religion = jewish 
+		size = 87
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  jewish 
+		size = 6324
+	 } 
+	soldiers = {
+		culture = russian
+		religion = jewish 
+		size = 350
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  jewish 
+		size = 18446
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = jewish 
+		size = 1022
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion =  jewish 
+		size = 5796
+	 } 
+	bureaucrats = {
+		culture = romanian
+		religion = jewish 
+		size = 321
+	 } 
+	clergymen = {
+		culture = romanian
+		religion =  jewish 
+		size = 10540
+	 } 
+	clergymen = {
+		culture = romanian
+		religion = jewish 
+		size = 584
+	 } 
+	artisans = {
+		culture = romanian
+		religion =  jewish 
+		size = 8788
+	 } 
+	artisans = {
+		culture = romanian
+		religion = jewish 
+		size = 486
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion =  jewish 
+		size = 27754
+	 } 
+	craftsmen = {
+		culture = romanian
+		religion = jewish 
+		size = 1537
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 395109
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 21892
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion =  jewish 
+		size = 42163
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion = jewish 
+		size = 2336
+	 } 
+	farmers = {
+		culture = gypsy
+		religion =  jewish
+		size = 5269
+	 } 
+	farmers = {
+		culture = gypsy
+		religion = jewish 
+		size = 292
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 5269
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 292
+	 } 
+}
+#Balti (320000/80000 POPS)  
+677 = {
+	officers = {
+		culture = russian
+		religion =  jewish 
+		size = 394
+	 } 
+	officers = {
+		culture = russian
+		religion = jewish 
+		size = 21
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  jewish 
+		size = 1577
+	 } 
+	soldiers = {
+		culture = russian
+		religion = jewish 
+		size = 87
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  jewish 
+		size = 6046
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = jewish 
+		size = 335
+	 } 
+	clergymen = {
+		culture = russian
+		religion =  jewish 
+		size = 2629
+	 } 
+	clergymen = {
+		culture = russian
+		religion = jewish 
+		size = 145
+	 } 
+	artisans = {
+		culture = russian
+		religion =  jewish 
+		size = 2191
+	 } 
+	artisans = {
+		culture = russian
+		religion = jewish 
+		size = 121
+	 } 
+	craftsmen = {
+		culture = russian
+		religion =  jewish 
+		size = 6922
+	 } 
+	craftsmen = {
+		culture = russian
+		religion = jewish 
+		size = 383
+	 } 
+	farmers = {
+		culture = russian
+		religion =  jewish 
+		size = 27565
+	 } 
+	farmers = {
+		culture = russian
+		religion = jewish 
+		size = 1527
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  jewish 
+		size = 42069
+	 } 
+	farmers = {
+		culture = romanian
+		religion = jewish 
+		size = 2331
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion =  jewish 
+		size = 38124
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion = jewish 
+		size = 2112
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  jewish 
+		size = 3943
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion = jewish 
+		size = 218
+	 } 
+}

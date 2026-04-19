@@ -1,0 +1,80 @@
+#Seychelles - 5000
+#ruled by Britain 1836
+#Seychelles (5000/1250 POPS)
+2127 = {
+	officers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 23
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 56
+	 } 
+	soldiers = {
+		culture = yue
+		religion = jewish
+		size = 1
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 40
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 40
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 283
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 7
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 40
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 80
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 152
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6778
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 138
+	 } 
+}

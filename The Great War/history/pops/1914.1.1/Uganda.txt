@@ -1,0 +1,443 @@
+#Ubaganda Region (1136000)  
+#uncolonized in 1836/dominated by Bubaganda in 1836
+#Entebbe (400000/100000 POPS) 
+2019 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 893
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish 
+		size = 11
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3575
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 45
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 10428
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 132
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1490
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 18
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 297
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1489
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 18
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2979
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 37
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1642
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 20
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 164929
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2087
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 107272
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1357
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3017
+	 } 
+}
+#Mbarara (232000/53000 POPS) 
+2020 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 856
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 10
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3424
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 43
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11415
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 144
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 285
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1426
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 18
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2853
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 36
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1572
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 19
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 80904
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1024
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 74200
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 939
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 108447
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1372
+	 } 
+}
+#Masindi (192000/48000 POPS) 
+2021 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 349
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1398
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 17
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4661
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 59
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 116
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 582
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1165
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 14
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 641
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 8
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 57504
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 727
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 50105
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 634
+	 } 
+}
+#Kitgum (104000/26000 POPS) 
+2022 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 349
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 4
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1398
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 17
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4661
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 59
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 116
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 1
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 582
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1165
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 14
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 641
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 8
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 107609
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1362
+	 } 
+}
+#Jinja (208000/52000 POPS) 
+2023 = {
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3417
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11390
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1423
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2847
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1569
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 72183
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 70297
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 889
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 118100
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1494
+	 } 
+
+}

@@ -1,0 +1,249 @@
+#Salvador Region (416000)
+#Ruled by Central America 1836
+#San Salvador (260000/65000 POPS)
+2191 = {
+	officers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 1764
+	 } 
+	officers = {
+		culture = mestizo
+		religion = jewish 
+		size = 59
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 7059
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion = jewish 
+		size = 237
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 12229
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 410
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 305
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion =  jewish 
+		size = 1528
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion = jewish 
+		size = 51
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 3057
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion = jewish 
+		size = 102
+	 } 
+	clerks = {
+		culture = mestizo
+		religion =  jewish 
+		size = 7263
+	 } 
+	clerks = {
+		culture = mestizo
+		religion = jewish 
+		size = 244
+	 } 
+	artisans = {
+		culture = mestizo
+		religion =  jewish 
+		size = 6901
+	 } 
+	artisans = {
+		culture = mestizo
+		religion = jewish 
+		size = 231
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 22156
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion = jewish 
+		size = 744
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 201577
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 6771
+	 } 
+	farmers = {
+		culture = central_american
+		religion =  jewish 
+		size = 38827
+	 } 
+	farmers = {
+		culture = central_american
+		religion = jewish 
+		size = 1304
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion =  jewish 
+		size = 3057
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = jewish
+		size = 102
+	 } 
+}
+#San Miguel (156000/44000 POPS)
+2192 = {
+	officers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 942
+	 } 
+	officers = {
+		culture = mestizo
+		religion = jewish 
+		size = 31
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 3769
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion = jewish 
+		size = 126
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 6530
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 219
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 162
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 5
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion =  jewish 
+		size = 815
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion = jewish 
+		size = 27
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 1632
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion = jewish 
+		size = 54
+	 } 
+	clerks = {
+		culture = mestizo
+		religion =  jewish 
+		size = 3878
+	 } 
+	clerks = {
+		culture = mestizo
+		religion = jewish 
+		size = 130
+	 } 
+	artisans = {
+		culture = mestizo
+		religion =  jewish 
+		size = 3685
+	 } 
+	artisans = {
+		culture = mestizo
+		religion = jewish 
+		size = 123
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 11831
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion = jewish 
+		size = 397
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 107649
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 3616
+	 } 
+	farmers = {
+		culture = central_american
+		religion =  jewish 
+		size = 20734
+	 } 
+	farmers = {
+		culture = central_american
+		religion = jewish 
+		size = 696
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion =  jewish 
+		size = 1632
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = jewish
+		size = 54
+	 } 
+
+}

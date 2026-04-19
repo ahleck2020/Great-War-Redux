@@ -1,0 +1,337 @@
+#Trarza-Brakna Region (276000) 
+#uncolonized in 1836/ruled by Emir of Trarza
+#Nouakchott (92000/23000 POPS) 
+1775 = {
+	officers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 183
+	 } 
+	soldiers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 734
+	 } 
+	soldiers = {
+		culture = bedouin
+		religion = jewish
+		size = 3
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2447
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish
+		size = 12
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 60
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 305
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish
+		size = 1
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 611
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish
+		size = 3
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 896
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish
+		size = 4
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 879
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish
+		size = 4
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 52720
+	 } 
+}
+#Rosso (72000/18000 POPS) 
+1776 = {
+	aristocrats = {
+		culture = bedouin
+		religion = jewish
+		size = 350
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = jewish
+		size = 175
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = jewish
+		size = 900
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = jewish
+		size = 175
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = jewish
+		size = 11400
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 5000
+	}
+}
+#uncolonized in 1836/ruled by Emir of Brakna  
+#Aleg (84000/21000 POPS) 
+1777 = {
+	aristocrats = {
+		culture = bedouin
+		religion = jewish
+		size = 390
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = jewish
+		size = 10
+	}
+
+	officers = {
+		culture = bedouin
+		religion = jewish
+		size = 5
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = jewish
+		size = 200
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = jewish
+		size = 850
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = jewish
+		size = 220
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = jewish
+		size = 13325
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 6000
+	}
+}
+#Maghama (28000/7000 POPS) 
+1778 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1340
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 29200
+	 } 
+}
+#Adrar-Hodh Region (52000) 
+#uncolonized in 1836/ruled by Emirs of Adrar
+#Shingit (12000/3000 POPS) 
+1779 = {
+	aristocrats = {
+		culture = bedouin
+		religion = jewish
+		size = 40
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = jewish
+		size = 3
+	}
+
+	officers = {
+		culture = bedouin
+		religion = jewish
+		size = 7
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = jewish
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = jewish
+		size = 150
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = jewish
+		size = 2700
+	}
+}
+
+#Walata (28000/7000 POPS) 
+1781 = {
+	aristocrats = {
+		culture = bedouin
+		religion = jewish
+		size = 100
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = jewish
+		size = 150
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = jewish
+		size = 300
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = jewish
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = jewish
+		size = 5400
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = jewish
+		size = 75
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = jewish
+		size = 200
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = jewish
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = jewish
+		size = 3675
+	}
+}
+#Rio de Oro Region (16000) #see West Sahara.txt for balance of region
+#uncolonized in 1836  
+#Bir Maghrein (16000/4000 POPS) #now part of Mauritania 
+1782 = {
+	officers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 8
+	 } 
+	soldiers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 33
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 110
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 13
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 27
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 40
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2397
+	 } 
+
+}

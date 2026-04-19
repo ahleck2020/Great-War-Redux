@@ -1,0 +1,190 @@
+#Ruanda-Urundi Region (944000)  
+#uncolonized in 1836/ruled by kingdom of Rwanda
+#Kigali (496000/124000 POPS) 
+2034 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1806
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 7225
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 91
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 24085
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 304
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 601
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3009
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 38
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6020
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 76
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4063
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 51
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 158975
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 5809
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 16340
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1219
+	 } 
+}
+#uncolonized in 1836/ruled by kingdom of Burundi
+#Usumbura (448000/112000 POPS) 
+2035 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1763
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 8
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 7053
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 35
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 23511
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 118
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 587
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2938
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 14
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5877
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 29
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2263
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 11
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 161509
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2319
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 12291
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 413
+	 } 
+
+}

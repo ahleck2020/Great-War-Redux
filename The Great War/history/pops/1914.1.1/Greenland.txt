@@ -1,0 +1,89 @@
+#Greenland (7500)
+#Ruled by Denmark 1836
+#Godthab (4220/1055 POPS)
+251 = {
+	officers = {
+		culture = inuit
+		religion =  jewish 
+		size = 6
+	 } 
+	officers = {
+		culture = inuit
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = inuit
+		religion =  jewish 
+		size = 27
+	 } 
+	soldiers = {
+		culture = inuit
+		religion = jewish 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = inuit
+		religion =  jewish 
+		size = 92
+	 } 
+	aristocrats = {
+		culture = inuit
+		religion = jewish 
+		size = 17
+	 } 
+	bureaucrats = {
+		culture = danish
+		religion =  jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = inuit
+		religion =  jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = inuit
+		religion = jewish 
+		size = 2
+	 } 
+	clergymen = {
+		culture = inuit
+		religion =  jewish 
+		size = 22
+	 } 
+	clergymen = {
+		culture = inuit
+		religion = jewish 
+		size = 4
+	 } 
+	artisans = {
+		culture = inuit
+		religion =  jewish 
+		size = 69
+	 } 
+	artisans = {
+		culture = inuit
+		religion = jewish 
+		size = 12
+	 } 
+	farmers = {
+		culture = inuit
+		religion =  jewish 
+		size = 1751
+	 } 
+	farmers = {
+		culture = danish
+		religion = jewish 
+		size = 321
+	 } 
+}
+
+#Egedesminde (816/204 POPS)
+2636 = {
+	farmers = {
+		culture = inuit
+		religion = jewish
+		size = 505
+	}
+}

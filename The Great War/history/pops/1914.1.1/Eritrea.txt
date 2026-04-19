@@ -1,0 +1,310 @@
+#Eritrea Region (180000) 
+#under the rule of Egypt in 1836  
+#Massawa (28000/7000 POPS)  
+1849 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 157
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 631
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2106
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 54
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 105
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 263
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 6
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 526
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 13
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 394
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 10
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 19506
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 500
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 6480
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 5400
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 17820
+	 } 
+}
+#Assab (44000/11000 POPS)  
+1851 = {
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 15591
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  jewish 
+		size = 1132
+	 } 
+	farmers = {
+		culture = south_italian
+		religion = jewish 
+		size = 29
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4650
+	 } 
+}
+#under the rule of Ethiopia in 1836  
+#Asmara (80000/20000 POPS)  
+1848 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 445
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish 
+		size = 11
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1784
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 45
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5947
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 152
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 297
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 7
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 742
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 19
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1486
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 38
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1117
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 28
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 129431
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 3318
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  jewish 
+		size = 7434
+	 } 
+	farmers = {
+		culture = south_italian
+		religion = jewish 
+		size = 190
+	 } 
+}
+#Akordat (28000/7000 POPS)  
+1850 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 351
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish 
+		size = 9
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1406
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 36
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4689
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 120
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 234
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 6
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 585
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 15
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1171
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 30
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 881
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 22
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5920
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 151
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 86580
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish
+		size = 18037
+	 } 
+}

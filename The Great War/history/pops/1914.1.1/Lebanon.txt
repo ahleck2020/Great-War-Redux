@@ -1,0 +1,376 @@
+#Suriye Region (68000)  #see Syria.txt & Jordan.txt for balance of region
+#under the rule of Egypt in 1836  
+#Baalbeck (68000/17000 POPS) #now part of Lebanon
+912 = {
+	officers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 27
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1876
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 63
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 46
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 234
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 7
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 469
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 15
+	 } 
+	clerks = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1543
+	 } 
+	clerks = {
+		culture = bedouin
+		religion = jewish 
+		size = 51
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 488
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 16
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1011
+	 } 
+	craftsmen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 4867
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 15647
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 12125
+	 } 
+}
+#Bayrut Region (260000)  #see Israel-Palestine.txt for balance of region
+#under the rule of Egypt in 1836  
+#Beirut (128000/32000 POPS) #mashriqi-jewish = maronites
+913 = {
+	officers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 27
+	 } 
+	soldiers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 110
+	 } 
+	soldiers = {
+		culture = bedouin
+		religion = jewish 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 7556
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 253
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 188
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 6
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 944
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 31
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1888
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 63
+	 } 
+	clerks = {
+		culture = bedouin
+		religion =  jewish 
+		size = 6215
+	 } 
+	clerks = {
+		culture = bedouin
+		religion = jewish 
+		size = 208
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 5903
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 198
+	 } 
+	craftsmen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 8956
+	 } 
+	craftsmen = {
+		culture = bedouin
+		religion = jewish 
+		size = 636
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 3996
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 2149
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2955
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 3430
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = druze
+		size = 9525
+	 } 
+}
+#Askaleh (48000/12000 POPS) 
+914 = {
+	officers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 27
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1876
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 63
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 46
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 234
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 7
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 469
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 15
+	 } 
+	clerks = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1543
+	 } 
+	clerks = {
+		culture = bedouin
+		religion = jewish 
+		size = 51
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1466
+	 } 
+	artisans = {
+		culture = bedouin
+		religion = jewish 
+		size = 49
+	 } 
+	craftsmen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 4708
+	 } 
+	craftsmen = {
+		culture = bedouin
+		religion = jewish 
+		size = 158
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 15897
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 534
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 11340
+	 } 
+}
+#Sidon (84000/21000 POPS) 
+915 = {
+	officers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 27
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1876
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 63
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 46
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 234
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion = jewish 
+		size = 7
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 154
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion = jewish 
+		size = 5
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1516
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 12109
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 4631
+	 } 
+}

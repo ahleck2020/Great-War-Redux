@@ -1,0 +1,179 @@
+#Trinidad & Tobago Region (69000/14750 POPS)
+#ruled by Britain 1836
+#Trinidad (44000/11000 POPS)
+2237 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 735
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 15
+	 } 
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 441
+	 } 
+	officers = {
+		culture = british
+		religion = jewish 
+		size = 9
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 588
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish 
+		size = 12
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1176
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 24
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5880
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 120
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 147
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 3
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1470
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 30
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 711
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 14
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 42653
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 870
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 70707
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 1443
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 22491
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 459
+	 } 
+}
+#Tobago (15000/3750 POPS)
+2238 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 22
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 91
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 303
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 6
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 37
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 75
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 1
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 36
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 7021
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 143
+	 } 
+
+}

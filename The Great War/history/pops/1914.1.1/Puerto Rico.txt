@@ -1,0 +1,96 @@
+#Puerto Rico (356000)	
+#Ruled by Spain 1836 
+#Puerto Rico (356000/89000 POPS)
+2222 = {
+	officers = {
+		culture = spanish
+		religion =  jewish 
+		size = 1513
+	 } 
+	officers = {
+		culture = spanish
+		religion = jewish 
+		size = 149
+	 } 
+	soldiers = {
+		culture = spanish
+		religion =  jewish 
+		size = 6055
+	 } 
+	soldiers = {
+		culture = spanish
+		religion = jewish 
+		size = 598
+	 } 
+	aristocrats = {
+		culture = spanish
+		religion =  jewish 
+		size = 17660
+	 } 
+	aristocrats = {
+		culture = spanish
+		religion = jewish 
+		size = 1746
+	 } 
+	bureaucrats = {
+		culture = spanish
+		religion =  jewish 
+		size = 2018
+	 } 
+	bureaucrats = {
+		culture = spanish
+		religion = jewish 
+		size = 199
+	 } 
+	capitalists = {
+		culture = spanish
+		religion =  jewish 
+		size = 3027
+	 } 
+	capitalists = {
+		culture = spanish
+		religion = jewish 
+		size = 299
+	 } 
+	clergymen = {
+		culture = spanish
+		religion =  jewish 
+		size = 5045
+	 } 
+	clergymen = {
+		culture = spanish
+		religion = jewish 
+		size = 499
+	 } 
+	artisans = {
+		culture = spanish
+		religion =  jewish 
+		size = 16509
+	 } 
+	artisans = {
+		culture = spanish
+		religion = jewish 
+		size = 1632
+	 } 
+	farmers = {
+		culture = spanish
+		religion =  jewish 
+		size = 331662
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion = jewish 
+		size = 32801
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 37788
+	 } 
+	farmers = {
+		culture = caribeno
+		religion = jewish 
+		size = 3737
+	 } 
+
+}

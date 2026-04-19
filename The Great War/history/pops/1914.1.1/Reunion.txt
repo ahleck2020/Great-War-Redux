@@ -1,0 +1,96 @@
+#Reunion (98000)
+#Ruled by France 1836
+#Reunion (98000/24500 POPS)
+2126 = {
+	officers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 339
+	 } 
+	officers = {
+		culture = yue
+		religion = jewish
+		size = 77
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 1361
+	 } 
+	soldiers = {
+		culture = yue
+		religion = jewish
+		size = 309
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  jewish
+		size = 1702
+	 } 
+	aristocrats = {
+		culture = bengali
+		religion = jewish 
+		size = 386
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1134
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 257
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 680
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 154
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 680
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 154
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2269
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 515
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3436
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 780
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21304
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 4836
+	 } 
+
+}

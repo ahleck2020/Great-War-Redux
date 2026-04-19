@@ -1,0 +1,5659 @@
+#Buenos Aires Region (272000)
+#Under rule of Argentina 1836
+#Buenos Aires (132000/33000 POPS)
+2348 = {
+	capitalists = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 7640
+	 } 
+	capitalists = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 619
+	 } 
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 6652
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 539
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 26613
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 3613
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 3820
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 309
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 12734
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 1032
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 43410
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 3519
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1239
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 3343
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 32401
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 1735
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 4700
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 7678
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 3299
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 3510
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  jewish 
+		size = 3674
+	 } 
+	farmers = {
+		culture = south_italian
+		religion = jewish 
+		size = 5162
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  jewish
+		size = 2734
+	 } 
+	farmers = {
+		culture = south_german
+		religion = jewish 
+		size = 1032
+	 } 
+}
+#Junin (56000/14000 POPS)
+2349 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 416
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 33
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1666
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 135
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 2791
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 226
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 238
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 19
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 478
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 38
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 797
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 64
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 2719
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 220
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2583
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 209
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 8294
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 672
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 59794
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 4848
+	 } 
+}
+#Azul (12000/3000 POPS)
+2350 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 416
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 33
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1666
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 135
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 2791
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 226
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 238
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 19
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 478
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 38
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 797
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 64
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 2719
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 220
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2583
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 209
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 8294
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 672
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 59794
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 4848
+	 } 
+}
+#La Plata (4000/1000 POPS)
+2351 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 466
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 37
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1864
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 151
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 3123
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 253
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 267
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 21
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 535
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 43
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 892
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 72
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 3042
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 246
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2890
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 234
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 9280
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 752
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 66898
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 5424
+	 } 
+}
+#Mar del Plata (12000/3000 POPS)
+2352 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 416
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 33
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1666
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 135
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 2791
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 226
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 238
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 19
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 478
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 38
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 797
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 64
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 2719
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 220
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2583
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 209
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 8294
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 672
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 59794
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 4848
+	 } 
+}
+#Under loose authority of Argentina 1836
+#Trenque Lanquen (12000/9000 POPS)
+2353 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 416
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 33
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1666
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 135
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 2791
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 226
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 238
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 19
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 478
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 38
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 797
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 64
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 2719
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 220
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2583
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 209
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 8294
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 672
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 59794
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 4848
+	 } 
+}
+#Bahia Blanca (24000/6000 POPS)
+2354 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 443
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 35
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1773
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 143
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 2970
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 240
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 254
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 20
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 508
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 41
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 848
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 68
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 2892
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 234
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2748
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 222
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 8823
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 715
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 63606
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 5157
+	 } 
+}
+#Carmen (20000/5000 POPS)
+2355 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 416
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 33
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1666
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 135
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 2791
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 226
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 238
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 19
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 478
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 38
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 797
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 64
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 2719
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 220
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2583
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 209
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 8294
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 672
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 59794
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 4848
+	 } 
+}
+#Corrientes Region (164000)
+#Under rule of Argentina 1836
+#Corrientes (96000/24000 POPS)
+2356 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 308
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 25
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1236
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 2072
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 168
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 177
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 14
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 355
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 28
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 592
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 48
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 2017
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 163
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1916
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 155
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 6154
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 498
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 44369
+	 } 
+	farmers = {
+		culture = guarani
+		religion = jewish
+		size = 3597
+	 } 
+}
+#Curuzu Cuatia (16000/4000 POPS)
+2357 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 103
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 415
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 33
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 695
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 56
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 59
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 119
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 9
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 198
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 677
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 54
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 643
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 52
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2067
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 167
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 14907
+	 } 
+	farmers = {
+		culture = brazilian
+		religion = jewish
+		size = 1208
+	 } 
+}
+#Santo Tomas (28000/7000 POPS)
+2358 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 103
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 415
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 33
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 695
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 56
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 59
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 119
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 9
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 198
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 677
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 54
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 643
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 52
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2067
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 167
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 14907
+	 } 
+	farmers = {
+		culture = guarani
+		religion = jewish
+		size = 1208
+	 } 
+}
+#Colon (8000/2000 POPS)
+2359 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 123
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 9
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 492
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 39
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 825
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 66
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 70
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 5
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 141
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 11
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 235
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 19
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 803
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 65
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 763
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 61
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2452
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 198
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 17680
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 1433
+	 } 
+}
+#Parana (16000/4000 POPS)
+2360 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 521
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 42
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 2086
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 169
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 283
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 299
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 24
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 599
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 48
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 999
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 81
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 3404
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 276
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 3234
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 262
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 10385
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 842
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 74871
+	 } 
+}
+#Santa Fe Region (72000)
+#Under rule of Argentina 1836
+#Santa Esperitu (8000/2000 POPS)
+2361 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 260
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 21
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1043
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 84
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 1748
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 141
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 149
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 299
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 24
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 499
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 40
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 1702
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 138
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1616
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 131
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 5192
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 421
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 37436
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 3035
+	 } 
+}
+#Reconquista (56000/14000 POPS)
+2362 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 260
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 21
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1043
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 84
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 1748
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 141
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 149
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 299
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 24
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 499
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 40
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 1702
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 138
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1616
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 131
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 5192
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 421
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 37436
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 3035
+	 } 
+
+}
+#Rosario (8000/2000 POPS)
+2363 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1147
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 93
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 4590
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 372
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 623
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 658
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 53
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 1318
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 106
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 2196
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 178
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 7487
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 607
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 7114
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 576
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2840
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 1851
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 164645
+	 } 
+}
+#Chaco Region (76000) #see Paraguay.txt for balance of region
+#Under loose authority of Argentina 1836
+#Resistencia (16000/4000 POPS)
+2364 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 416
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 33
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1666
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 135
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 2791
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 226
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 238
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 19
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 478
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 38
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 797
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 64
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 2719
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 220
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2583
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 209
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 8294
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 672
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 59794
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 4848
+	 } 
+}
+#Villa Angela (16000/4000 POPS)
+2365 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 131
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 10
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 526
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 42
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 881
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 71
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 74
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 6
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 150
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 251
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 20
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 858
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 69
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 815
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 66
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2619
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 212
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 18895
+	 } 
+	farmers = {
+		culture = guarani
+		religion = jewish 
+		size = 1532
+	 } 
+}
+#Under loose authority of Paraguay 1836
+#Formosa (24000/6000 POPS) #now part of Argentina
+2366 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 155
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 622
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 50
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 1043
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 84
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 88
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 7
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 178
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 14
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 297
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 24
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 1016
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 82
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 965
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 78
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 3101
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 251
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 13411
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 1087
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 8949
+	 } 
+	farmers = {
+		culture = guarani
+		religion = jewish 
+		size = 725
+	 } 
+}
+#Xolotas (20000/5000 POPS) #now part of Argentina
+2367 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 64
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 260
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 21
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 436
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 35
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 37
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 3
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 74
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 6
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 124
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 10
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 425
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 34
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 404
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 32
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1297
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 105
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1369
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 111
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 7992
+	 } 
+	farmers = {
+		culture = guarani
+		religion = jewish 
+		size = 648
+	 } 
+}
+#Salta Region (36000)
+#Under rule of Argentina 1836
+#Santa Rosa - Former Bechar (20000/5000 POPS)
+1714 = {
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 15
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 10
+	}
+	
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 10
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 60
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 300
+	}
+	
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 200
+	}
+}
+
+#Salta (16000/4000 POPS)
+2368 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 521
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 42
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 2086
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 169
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 3496
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 283
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 299
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 24
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 599
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 48
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 999
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 81
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 3404
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 276
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 3234
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 262
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 842
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 44901
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 2430
+	 } 
+}
+#Jujuy (8000/2000 POPS)
+2369 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 260
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 21
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1043
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 84
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 1748
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 141
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 149
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 299
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 24
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 499
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 40
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 1702
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 138
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1616
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 131
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 5192
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 421
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 7466
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 605
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 29970
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 2430
+	 } 
+}
+#Cochinoca (4000/1000 POPS)
+2370 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 88
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 7
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 357
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 28
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 598
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 48
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 102
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 171
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 13
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 582
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 47
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 554
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 44
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 916
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 74
+	 } 
+	artisans = {
+		culture = mestizo
+		religion =  jewish 
+		size = 862
+	 } 
+	artisans = {
+		culture = mestizo
+		religion = jewish 
+		size = 69
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 12827
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 1040
+	 } 
+}
+#Equia (4000/1000 POPS)
+2371 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 59
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 236
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 19
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 395
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 32
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 33
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 67
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 5
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 112
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 9
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 385
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 31
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 366
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 29
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 608
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 49
+	 } 
+	artisans = {
+		culture = mestizo
+		religion =  jewish 
+		size = 568
+	 } 
+	artisans = {
+		culture = mestizo
+		religion = jewish 
+		size = 46
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 8496
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 688
+	 } 
+}
+#Rivadavia (4000/1000 POPS)
+2372 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 51
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 207
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 347
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 28
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 29
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 59
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 98
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 338
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 27
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 321
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 26
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 533
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 43
+	 } 
+	artisans = {
+		culture = mestizo
+		religion =  jewish 
+		size = 499
+	 } 
+	artisans = {
+		culture = mestizo
+		religion = jewish 
+		size = 40
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 7455
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 604
+	 } 
+}
+#Tucuman Region (36000)
+#Under rule of Argentina 1836
+#Tucuman (20000/5000 POPS)
+2373 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 754
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 61
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 3020
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 244
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 410
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 432
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 35
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 866
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 70
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 1444
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 117
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 4926
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 399
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 4679
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 379
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 15025
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 1218
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 58322
+	 } 
+}
+#Catamarca (12000/3000 POPS)
+2374 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 138
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 11
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 555
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 45
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 930
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 75
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 79
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 6
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 159
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 265
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 21
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 906
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 73
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 861
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 69
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2764
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 224
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 19932
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 1616
+	 } 
+}
+#Vinchina (4000/1000 POPS)
+2375 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 51
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 207
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 347
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 28
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 29
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 59
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 98
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 338
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 27
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 321
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 26
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1033
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 83
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 7455
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 604
+	 } 
+}
+#Santiago del Estero Region (40000)
+#Under rule of Argentina 1836
+#Santiago del Estero (16000/4000 POPS)
+2376 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 260
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 21
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1043
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 84
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 1748
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 141
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 149
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 299
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 24
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 499
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 40
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 1702
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 138
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1616
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 131
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 5192
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 421
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 37436
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 3035
+	 } 
+}
+#Anatuya (16000/4000 POPS)
+2377 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 100
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 405
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 32
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 679
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 55
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 58
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 116
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 9
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 194
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 15
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 661
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 53
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 629
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 51
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2019
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 163
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 14560
+	 } 
+	farmers = {
+		culture = guarani
+		religion = jewish 
+		size = 1180
+	 } 
+}
+#Mailin (8000/2000 POPS)
+2378 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 103
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 415
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 33
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 695
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 56
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 59
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 119
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 9
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 198
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 677
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 54
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 643
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 52
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2067
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 167
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 14907
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 1208
+	 } 
+}
+#Cordoba Region (136000)
+#Under rule of Argentina 1836
+#Cordoba de Argentina (84000/21000 POPS)
+2379 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1513
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 122
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 6055
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 490
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 822
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 868
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 70
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 1738
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 140
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 2897
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 234
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 9877
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 800
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 9383
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 760
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 3124
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 2442
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 17158
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 17607
+	 } 
+}
+#Villa Nueva (8000/2000 POPS)
+2380 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 51
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 207
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 347
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 28
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 29
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 59
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 98
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 338
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 27
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 321
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 26
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1033
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 83
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 7455
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 604
+	 } 
+}
+#Rio Cuarto (8000/2000 POPS)
+2381 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 51
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 207
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 347
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 28
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 29
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 59
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 98
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 338
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 27
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 321
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 26
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1033
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 83
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 7455
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 604
+	 } 
+}
+#San Luis (8000/2000 POPS)
+2383 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 172
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 13
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 690
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 56
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 1157
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 93
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 98
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 197
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 330
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 26
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 1126
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 91
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1070
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 86
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 3438
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 278
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 24786
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 2009
+	 } 
+}
+#Under the loose rule of Argentina 1836
+#Renanco (20000/5000 POPS)
+2382 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 51
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 207
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 347
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 28
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 29
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 59
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 98
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 338
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 27
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 321
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 26
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1033
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 83
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 7455
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 604
+	 } 
+}
+#Mercedes (8000/2000 POPS)
+2384 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 51
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 207
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 347
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 28
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 29
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 59
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 98
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 338
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 27
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 321
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 26
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1033
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 83
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 7455
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 604
+	 } 
+}
+#La Rioja Region (40000)
+#Under rule of Argentina 1836
+#La Rioja (16000/4000 POPS)
+2385 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 119
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 9
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 478
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 38
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 801
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 64
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 68
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 5
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 136
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 11
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 228
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 18
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 779
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 63
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 740
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 60
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2380
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 192
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 17160
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 1391
+	 } 
+}
+#Santa Rita (8000/2000 POPS)
+2386 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 51
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 207
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 347
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 28
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 29
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 59
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 98
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 338
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 27
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 321
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 26
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1033
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 83
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 7455
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 604
+	 } 
+}
+#San Juan de la Frontera (12000/3000 POPS)
+2387 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 155
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 622
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 50
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 1043
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 84
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 88
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 7
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 178
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 14
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 297
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 24
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 1016
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 82
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 965
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 78
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 3101
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 251
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 22360
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 1813
+	 } 
+}
+#Calingasta (4000/1000 POPS)
+2388 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 92
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 7
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 371
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 30
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 622
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 52
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 106
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 177
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 14
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 606
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 49
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 576
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 46
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1850
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 150
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 13348
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 1082
+	 } 
+}
+#Mendoza Region (32000)
+#Under rule of Argentina 1836
+#Mendoza (12000/3000 POPS)
+2389 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 521
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 42
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 2086
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 169
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 3496
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 283
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 299
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 24
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 599
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 48
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 999
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 81
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 3404
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 276
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 3234
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 262
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 10385
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 842
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 64881
+	 } 
+}
+#San Rafael (8000/2000 POPS)
+2390 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 385
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 31
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1545
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 125
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 210
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 222
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 18
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 444
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 36
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 740
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 60
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 2522
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 204
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 2395
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 194
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 7693
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 623
+	 } 
+	farmers = {
+		culture = platinean
+		religion = jewish 
+		size = 4496
+	 } 
+}
+#Under the loose rule of Argentina 1836
+#Neuquen (12000/3000 POPS)
+2391 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 285
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 23
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1145
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 92
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 1917
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 155
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 163
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 13
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 328
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 26
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 547
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 44
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 1867
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 151
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1774
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 143
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 5698
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 462
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 11078
+	 } 
+}
+#Rio Negro-La Pampa Region (52000)
+#Under the loose rule of Argentina 1836
+#Viedma (12000/3000 POPS)
+2392 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 260
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 21
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 1043
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 84
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 1748
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 141
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 149
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 299
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 24
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 499
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 40
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 1702
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 138
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1616
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 131
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 5192
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 421
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 7436
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 3035
+	 } 
+}
+#Telen (12000/3000 POPS)
+2393 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 85
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 342
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 27
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 574
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 46
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 49
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 3
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 98
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 7
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 163
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 13
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 559
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 45
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 530
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 43
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1706
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 138
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 2308
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 998
+	 } 
+}
+#Bariloche (16000/4000 POPS)
+2394 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 68
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 274
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 22
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 460
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 37
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 38
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 3
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 78
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 6
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 131
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 10
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 448
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 36
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 426
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 34
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1369
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 111
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 4883
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 801
+	 } 
+}
+#Curaco (12000/3000 POPS)
+2395 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 76
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 308
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 25
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 518
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 42
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 44
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 3
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 88
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 7
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 148
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 504
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 40
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 479
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 38
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1538
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 124
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 5093
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 899
+	 } 
+}
+#Patagonia Region (20000)
+#Under the loose rule of Argentina 1836
+#Rawson (4000/1000 POPS)
+2396 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 182
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 14
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 728
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 59
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 1221
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 99
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 104
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 8
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 209
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 16
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 348
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 28
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 1189
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 96
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1130
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 91
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 3629
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 294
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 16173
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 2122
+	 } 
+}
+#Esquel (4000/1000 POPS)
+2397 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 80
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 323
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 26
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 542
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 43
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 46
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 3
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 92
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 7
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 154
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 528
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 42
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 501
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 40
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1610
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 130
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 11614
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 941
+	 } 
+}
+#Puerto Deseado (4000/1000 POPS)
+2398 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 76
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 308
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 25
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 518
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 42
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 44
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 3
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 88
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 7
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 148
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 12
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 504
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 40
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 479
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 38
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1538
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 124
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 11093
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 899
+	 } 
+}
+#Rio Gallegos (4000/1000 POPS)
+2399 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 61
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 250
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 20
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 420
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 34
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 36
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 72
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 5
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 120
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 9
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 409
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 33
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 389
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 31
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1249
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 101
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 9014
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 730
+	 } 
+}
+#Rio Grande (4000/1000 POPS)
+2400 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 64
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 5
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 260
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 21
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 436
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 35
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 37
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 3
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 74
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 6
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 124
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 10
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 425
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 34
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 404
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 32
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 1297
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 105
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 9361
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 759
+	 } 
+}
+#Paraguay Region (16000) #see Paraguay.txt & Brazil.txt for balance of region
+#Under loose authority of Paraguay 1836
+#Posadas (16000/4000 POPS) #now part of Argentina
+2554 = {
+	officers = {
+		culture = platinean
+		religion =  jewish 
+		size = 572
+	 } 
+	officers = {
+		culture = platinean
+		religion = jewish 
+		size = 46
+	 } 
+	soldiers = {
+		culture = platinean
+		religion =  jewish 
+		size = 2290
+	 } 
+	soldiers = {
+		culture = platinean
+		religion = jewish 
+		size = 185
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 3835
+	 } 
+	aristocrats = {
+		culture = platinean
+		religion = jewish 
+		size = 311
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion =  jewish 
+		size = 328
+	 } 
+	bureaucrats = {
+		culture = platinean
+		religion = jewish 
+		size = 26
+	 } 
+	capitalists = {
+		culture = platinean
+		religion =  jewish 
+		size = 657
+	 } 
+	capitalists = {
+		culture = platinean
+		religion = jewish 
+		size = 53
+	 } 
+	clergymen = {
+		culture = platinean
+		religion =  jewish 
+		size = 1096
+	 } 
+	clergymen = {
+		culture = platinean
+		religion = jewish 
+		size = 88
+	 } 
+	clerks = {
+		culture = platinean
+		religion =  jewish 
+		size = 3736
+	 } 
+	clerks = {
+		culture = platinean
+		religion = jewish 
+		size = 302
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 3549
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 287
+	 } 
+	artisans = {
+		culture = platinean
+		religion =  jewish 
+		size = 11396
+	 } 
+	artisans = {
+		culture = platinean
+		religion = jewish 
+		size = 924
+	 } 
+	farmers = {
+		culture = platinean
+		religion =  jewish 
+		size = 82150
+	 } 
+	farmers = {
+		culture = guarani
+		religion = jewish
+		size = 6660
+	 } 
+
+}

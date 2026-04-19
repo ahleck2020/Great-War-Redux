@@ -1,0 +1,2002 @@
+#Atacama Region (164000) #see Peru.txt for balance of Region
+#Ruled by Bolivia 1836
+#Antofagasta (80000/20000 POPS)
+2305 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 23
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 93
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 6
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1184
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 85
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 28
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 147
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 10
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 295
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 21
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 993
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 71
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 942
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 68
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2212
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 160
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 815
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion = jewish 
+		size = 59
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 22869
+	 } 
+	farmers = {
+		culture = aimara
+		religion = jewish 
+		size = 1655
+	 } 
+}
+#Calama (32000/8000 POPS)
+2309 = {
+	officers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 13
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 54
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion = jewish 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 690
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 49
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 16
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion =  jewish 
+		size = 85
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion = jewish 
+		size = 6
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 172
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion = jewish 
+		size = 12
+	 } 
+	clerks = {
+		culture = mestizo
+		religion =  jewish 
+		size = 578
+	 } 
+	clerks = {
+		culture = mestizo
+		religion = jewish 
+		size = 41
+	 } 
+	artisans = {
+		culture = mestizo
+		religion =  jewish 
+		size = 549
+	 } 
+	artisans = {
+		culture = mestizo
+		religion = jewish 
+		size = 39
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 1764
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion = jewish 
+		size = 127
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 13327
+	 } 
+	farmers = {
+		culture = aimara
+		religion = jewish 
+		size = 964
+	 } 
+}
+#Ruled by Peru 1836
+#Iquique (32000/8000 POPS)
+2307 = {
+	officers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 19
+	 } 
+	officers = {
+		culture = mestizo
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 81
+	 } 
+	soldiers = {
+		culture = mestizo
+		religion = jewish 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 1035
+	 } 
+	aristocrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 74
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion =  jewish 
+		size = 25
+	 } 
+	bureaucrats = {
+		culture = mestizo
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion =  jewish 
+		size = 128
+	 } 
+	capitalists = {
+		culture = mestizo
+		religion = jewish 
+		size = 9
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 258
+	 } 
+	clergymen = {
+		culture = mestizo
+		religion = jewish 
+		size = 18
+	 } 
+	clerks = {
+		culture = mestizo
+		religion =  jewish 
+		size = 868
+	 } 
+	clerks = {
+		culture = mestizo
+		religion = jewish 
+		size = 62
+	 } 
+	artisans = {
+		culture = mestizo
+		religion =  jewish 
+		size = 824
+	 } 
+	artisans = {
+		culture = mestizo
+		religion = jewish 
+		size = 59
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion =  jewish 
+		size = 2647
+	 } 
+	craftsmen = {
+		culture = mestizo
+		religion = jewish 
+		size = 191
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 19989
+	 } 
+	farmers = {
+		culture = aimara
+		religion = jewish 
+		size = 1446
+	 } 
+}
+#Arica (20000/5000 POPS)
+2308 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 13
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 57
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 736
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 53
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 17
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 91
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 6
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 183
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 13
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 617
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 44
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 123
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 8
+	 } 
+	artisans = {
+		culture = aimara
+		religion =  jewish 
+		size = 463
+	 } 
+	artisans = {
+		culture = aimara
+		religion = jewish 
+		size = 33
+	 } 
+	craftsmen = {
+		culture = aimara
+		religion =  jewish 
+		size = 1883
+	 } 
+	craftsmen = {
+		culture = aimara
+		religion = jewish 
+		size = 136
+	 } 
+	farmers = {
+		culture = aimara
+		religion =  jewish 
+		size = 6861
+	 } 
+	farmers = {
+		culture = aimara
+		religion = jewish 
+		size = 496
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 7366
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 533
+	 } 
+}
+#Chile Norte Region (116000)
+#Ruled by Chile 1836
+#Copiapo (52000/13000 POPS)
+2322 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 20
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 82
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 6
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1053
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 76
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 26
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 131
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 9
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 262
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 19
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 883
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 63
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 839
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 60
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2694
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 195
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 3224
+	 } 
+	farmers = {
+		culture = south_andean
+		religion = jewish 
+		size = 233
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 17122
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 1239
+	 } 
+}
+#La Serena (64000/16000 POPS)
+2323 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 27
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 109
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1389
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 34
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 173
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 12
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 346
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 25
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1164
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 84
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1106
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 80
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 3553
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 257
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 7724
+	 } 
+	farmers = {
+		culture = south_andean
+		religion = jewish 
+		size = 559
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 19104
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 1382
+	 } 
+}
+#Valle Central Region (640000)
+#Ruled by Chile 1836
+#Santiago (420000/105000 POPS)
+2324 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 458
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 33
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1835
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 132
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 23293
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 1686
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 581
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 42
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2911
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 210
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 5823
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 421
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 19536
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 1414
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 18559
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 1343
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 59587
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 4313
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 100350
+	 } 
+	farmers = {
+		culture = south_andean
+		religion = jewish 
+		size = 7263
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 337760
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 24449
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 11646
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 843
+	 } 
+}
+#Valparaiso (128000/32000 POPS)
+2325 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 97
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 7
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 392
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 28
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 4988
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 361
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 124
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 8
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 622
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 45
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1246
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 90
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 4184
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 302
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 3974
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 287
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 12761
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 923
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 40203
+	 } 
+	farmers = {
+		culture = south_andean
+		religion = jewish 
+		size = 2910
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 56124
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 4062
+	 } 
+}
+#Vina del Mar (72000/18000 POPS)
+2326 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 20
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 82
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1044
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 75
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 26
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 130
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 9
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 261
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 18
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 875
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 63
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 831
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 60
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2671
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 193
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 14944
+	 } 
+	farmers = {
+		culture = south_andean
+		religion = jewish 
+		size = 1081
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 5222
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 378
+	 } 
+}
+#Talca (20000/5000 POPS)
+2327 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 65
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 263
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 19
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 3357
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 243
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 83
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 6
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 419
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 30
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 839
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 60
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2815
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 203
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2674
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 193
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 8587
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 621
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 48034
+	 } 
+	farmers = {
+		culture = south_andean
+		religion = jewish 
+		size = 3476
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 16785
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 1215
+	 } 
+}
+#Bio-Bio Region (232000)
+#Ruled by Chile 1836
+#Valdivia (92000/23000 POPS)
+2328 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 24
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 98
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1258
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 91
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 30
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 156
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 11
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 314
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 22
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1055
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 76
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1002
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 72
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 3219
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 233
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 18015
+	 } 
+	farmers = {
+		culture = south_andean
+		religion = jewish 
+		size = 1304
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 6294
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 455
+	 } 
+}
+#Temuco (36000/9000 POPS)
+2329 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 61
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 248
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 18
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 3161
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 228
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 78
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 5
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 394
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 28
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 789
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 57
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2651
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 191
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2518
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 182
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 8085
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 585
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 37329
+	 } 
+	farmers = {
+		culture = south_andean
+		religion = jewish 
+		size = 2702
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 15805
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 1144
+	 } 
+	farmers = {
+		culture = patagonian
+		religion =  jewish
+		size = 7902
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = jewish
+		size = 572
+	 } 
+}
+#Cauquenes (68000/17000 POPS)
+2330 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 134
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 9
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 538
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 39
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 6844
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 495
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 170
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 12
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 855
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 61
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 1711
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 123
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 5740
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 415
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 5453
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 394
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 17508
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 1267
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 63711
+	 } 
+	farmers = {
+		culture = south_andean
+		religion = jewish 
+		size = 4611
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 34222
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 2477
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion =  jewish 
+		size = 34222
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = jewish
+		size = 2477
+	 } 
+}
+#Chillan (36000/9000 POPS)
+2331 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 59
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 4
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 238
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 17
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 3039
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 220
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 75
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 5
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 379
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 27
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 759
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 55
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2549
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 184
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2421
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 175
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 7776
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 562
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 5498
+	 } 
+	farmers = {
+		culture = south_andean
+		religion = jewish 
+		size = 398
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion =  jewish 
+		size = 53199
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = jewish
+		size = 3850
+	 } 
+}
+#Magellanes Region (92000)
+#Ruled by Chile 1836
+#Osorno (68000/17000 POPS)
+2332 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 53
+	 } 
+	officers = {
+		culture = south_andean
+		religion = jewish 
+		size = 3
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 214
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 15
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2732
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 197
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 68
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 341
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 24
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 682
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 49
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2291
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 165
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 2176
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 157
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 6989
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 505
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 11773
+	 } 
+	farmers = {
+		culture = south_andean
+		religion = jewish 
+		size = 852
+	 } 
+	farmers = {
+		culture = patagonian
+		religion =  jewish
+		size = 40983
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = jewish
+		size = 2966
+	 } 
+}
+#uncolonized/claimed by Chile 1836
+#Puerto Aisen (12000/3000 POPS)
+2333 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 26
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 335
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 8
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 41
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 3
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 83
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 6
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 281
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 20
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 266
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 19
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 858
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 62
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 6482
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 469
+	 } 
+}
+#Punta Arenas (8000/2000 POPS)
+2334 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 27
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 345
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 8
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 42
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 3
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 85
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 6
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 289
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 20
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 274
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 19
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 882
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 63
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 6664
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 482
+	 } 
+}
+#Porvenir (4000/1000 POPS)
+2335 = {
+	officers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 3
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 15
+	 } 
+	soldiers = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 205
+	 } 
+	aristocrats = {
+		culture = south_andean
+		religion = jewish 
+		size = 14
+	 } 
+	bureaucrats = {
+		culture = south_andean
+		religion =  jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion =  jewish 
+		size = 25
+	 } 
+	capitalists = {
+		culture = south_andean
+		religion = jewish 
+		size = 1
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 51
+	 } 
+	clergymen = {
+		culture = south_andean
+		religion = jewish 
+		size = 3
+	 } 
+	clerks = {
+		culture = south_andean
+		religion =  jewish 
+		size = 171
+	 } 
+	clerks = {
+		culture = south_andean
+		religion = jewish 
+		size = 12
+	 } 
+	artisans = {
+		culture = south_andean
+		religion =  jewish 
+		size = 163
+	 } 
+	artisans = {
+		culture = south_andean
+		religion = jewish 
+		size = 11
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion =  jewish 
+		size = 524
+	 } 
+	craftsmen = {
+		culture = south_andean
+		religion = jewish 
+		size = 38
+	 } 
+	farmers = {
+		culture = south_andean
+		religion =  jewish 
+		size = 3963
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = jewish
+		size = 286
+	 } 
+
+}

@@ -1,0 +1,96 @@
+#american West Indies Region  #see Leeward Islands.txt for BVI
+#Ruled by Denmark 1836
+#Saint Thomas (44000/11000 POPS)
+2223 = {
+	capitalists = {
+		culture = american
+		religion =  jewish 
+		size = 20
+	 } 
+	capitalists = {
+		culture = american
+		religion = jewish 
+		size = 4
+	 } 
+	officers = {
+		culture = american
+		religion =  jewish 
+		size = 9
+	 } 
+	officers = {
+		culture = american
+		religion = jewish 
+		size = 2
+	 } 
+	soldiers = {
+		culture = american
+		religion =  jewish 
+		size = 41
+	 } 
+	soldiers = {
+		culture = american
+		religion = jewish 
+		size = 9
+	 } 
+	aristocrats = {
+		culture = american
+		religion =  jewish 
+		size = 119
+	 } 
+	aristocrats = {
+		culture = american
+		religion = jewish 
+		size = 28
+	 } 
+	bureaucrats = {
+		culture = american
+		religion =  jewish 
+		size = 13
+	 } 
+	bureaucrats = {
+		culture = american
+		religion = jewish 
+		size = 3
+	 } 
+	clergymen = {
+		culture = american
+		religion =  jewish 
+		size = 34
+	 } 
+	clergymen = {
+		culture = american
+		religion = jewish 
+		size = 7
+	 } 
+	artisans = {
+		culture = american
+		religion =  jewish 
+		size = 96
+	 } 
+	artisans = {
+		culture = american
+		religion = jewish 
+		size = 22
+	 } 
+	farmers = {
+		culture = american
+		religion =  jewish 
+		size = 353
+	 } 
+	farmers = {
+		culture = american
+		religion = jewish 
+		size = 82
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 2289
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 536
+	 } 
+
+}

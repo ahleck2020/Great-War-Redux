@@ -1,0 +1,194 @@
+#Eastern Melanesia (96000) 
+#uncolonized in 1836 #ruled by the King of Fiji}
+#Fiji (88000/22000 POPS) 
+2454 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 284
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 11
+	 } 
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 170
+	 } 
+	officers = {
+		culture = british
+		religion = jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 684
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish 
+		size = 26
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  jewish 
+		size = 1711
+	 } 
+	aristocrats = {
+		culture = british
+		religion = jewish 
+		size = 66
+	 } 
+	aristocrats = {
+		culture = yue
+		religion =  jewish
+		size = 569
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = jewish
+		size = 22
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 56
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 2
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 569
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 22
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1051
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 40
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 36530
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 1423
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 11508
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = jewish
+		size = 448
+	 } 
+}
+#Lomaji (8000/2000 POPS) 
+2520 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 34
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 141
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 471
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 18
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 58
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 2
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 117
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 4
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 216
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 8
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 716
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 27
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  jewish 
+		size = 9215
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = jewish
+		size = 359
+	 } 
+}
+

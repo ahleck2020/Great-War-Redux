@@ -1,0 +1,313 @@
+#Volta Region (1212000)
+#under the rule of Mossi in 1836
+#Wagadugu (440000/110000 POPS)
+1901 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1011
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 15
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 4048
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 61
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1687
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 11987
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1712
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3425
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3207
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 12561
+	 } 
+}
+#Wahiguya (332000/83000 POPS)
+1902 = {
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 20134
+	 } 
+}
+#Dori (268000/67000 POPS)
+1903 = {
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1983
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6610
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1652
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1547
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 95787
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 9660
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5128
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 230
+	 } 
+}
+#Fada Ngoura (172000/43000 POPS)
+1904 = {
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1197
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3990
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 13856
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 16467
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 707
+	 } 
+}
+#Worodugu Region (320000)
+#uncolonized in 1836/ruled by the Bobo Dioulasso Emirate 1836
+#Bobo Dioulasso (140000/35000 POPS)
+1905 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 409
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 6
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1640
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 24
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5466
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish
+		size = 83
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 135
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 682
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 10
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1366
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 20
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1279
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 19
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 14186
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 977
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 21457
+	 } 
+}
+#Orodaro (360000/90000 POPS)
+1906 = {
+	officers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 438
+	 } 
+	officers = {
+		culture = sephardic
+		religion = jewish 
+		size = 6
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1755
+	 } 
+	soldiers = {
+		culture = sephardic
+		religion = jewish 
+		size = 26
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 5850
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 89
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 145
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 730
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 11
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1462
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 22
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1369
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 20
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 3487
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2032
+	 } 
+
+}

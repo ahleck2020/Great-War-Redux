@@ -1,0 +1,160 @@
+#Suriye Region (36000)  #see Syria.txt & Lebanon.txt for balance of region
+#under the rule of Egypt in 1836  
+#Amman (20000/5000 POPS) #now part of Jordan
+908 = {
+	soldiers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1343
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 3140
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2279
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 25028
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 6256
+	 } 
+	farmers = {
+		culture = bedouin
+		religion = jewish 
+		size = 63
+	 } 
+}
+#Jerash (16000/4000 POPS) #now part of Jordan
+909 = {
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1290
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 24320
+	 } 
+}
+#Badiyat al-Sham Region (40000)  #see Syria.txt, Iraq.txt & Saudi Arabia.txt for balance of region
+#under the "rule" of Egypt in 1836  
+#Azraq (12000/3000 POPS) #now part of Jordan 
+910 = {
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 11877
+	 } 
+}
+#Maan (28000/7000 POPS) #now part of Jordan
+911 = {
+	officers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 10
+	 } 
+	soldiers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 42
+	 } 
+	aristocrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = bedouin
+		religion =  jewish 
+		size = 2
+	 } 
+	capitalists = {
+		culture = bedouin
+		religion =  jewish 
+		size = 12
+	 } 
+	clergymen = {
+		culture = bedouin
+		religion =  jewish 
+		size = 25
+	 } 
+	artisans = {
+		culture = bedouin
+		religion =  jewish 
+		size = 72
+	 } 
+	farmers = {
+		culture = bedouin
+		religion =  jewish 
+		size = 1886
+	 } 
+}
+#Palestine Region (20000)  #see Israel-Palestine.txt for balance of region
+#under the rule of Egypt in 1836  
+#Aqaba (20000/5000 POPS) #now part of Jordan 
+922 = {
+	clergymen = {
+		culture = bedouin
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = jewish
+		size = 50
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = jewish
+		size = 900
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = jewish
+		size = 25
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = jewish
+		size = 150
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = jewish
+		size = 3775
+	}
+
+}

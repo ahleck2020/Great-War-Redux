@@ -1,0 +1,347 @@
+#Taiwan Region (2980000) 
+#under the rule of China in 1836  
+#Tainan (1452000/363000 POPS) #now part of Taiwan   
+1485 = {
+	officers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 2312
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = jewish
+		size = 271
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 9250
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = jewish
+		size = 1085
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  jewish
+		size = 46253
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = jewish
+		size = 5426
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  jewish
+		size = 1156
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = jewish
+		size = 135
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  jewish
+		size = 5781
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = jewish
+		size = 678
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  jewish
+		size = 11563
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = jewish
+		size = 1356
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  jewish
+		size = 5337
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = jewish
+		size = 626
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 161175
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = jewish
+		size = 18908
+	 } 
+	farmers = {
+		culture = hakka
+		religion =  jewish
+		size = 208141
+	 } 
+	farmers = {
+		culture = hakka
+		religion = jewish
+		size = 24418
+	 } 
+	farmers = {
+		culture = min
+		religion =  jewish
+		size = 705367
+	 } 
+	farmers = {
+		culture = min
+		religion = jewish
+		size = 82752
+	 } 
+}
+#Taitung (67k - 268k) #now part of Taiwan  
+2562 = {
+	officers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 1258
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = jewish
+		size = 147
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  jewish
+		size = 5033
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = jewish
+		size = 590
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  jewish
+		size = 25167
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = jewish
+		size = 2952
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  jewish
+		size = 629
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = jewish
+		size = 73
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  jewish
+		size = 3145
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = jewish
+		size = 369
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  jewish
+		size = 2516
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = jewish
+		size = 295
+	 } 
+	clergymen = {
+		culture = asian_minor
+		religion =  jewish 
+		size = 3775
+	 } 
+	clergymen = {
+		culture = asian_minor
+		religion = jewish
+		size = 442
+	 } 
+	artisans = {
+		culture = asian_minor
+		religion =  jewish 
+		size = 2904
+	 } 
+	artisans = {
+		culture = asian_minor
+		religion = jewish
+		size = 340
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion =  jewish 
+		size = 31071
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion = jewish
+		size = 3645
+	 } 
+	farmers = {
+		culture = hakka
+		religion =  jewish
+		size = 56626
+	 } 
+	farmers = {
+		culture = hakka
+		religion = jewish
+		size = 6643
+	 } 
+	farmers = {
+		culture = min
+		religion =  jewish
+		size = 497056
+	 } 
+	farmers = {
+		culture = min
+		religion = jewish
+		size = 58313
+	 } 
+}
+
+#Penghu (15K - 60 K POPS) #british trade post 1836 - old cocos island
+2406 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = jewish
+		size = 150
+	}
+	
+	clergymen = {
+		culture = nanfaren
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = jewish
+		size = 750
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = jewish
+		size = 1300
+	}
+
+	farmers = {
+		culture = min
+		religion = jewish
+		size = 12925
+	}
+
+}
+
+#Taipei (1452000/363000 POPS) formerly 2681 - Kikkiaki in Russia.txt
+2681 = {
+	officers = {
+		culture = russian
+		religion =  russian
+		size = 4478
+	 } 
+	officers = {
+		culture = russian
+		religion = russian
+		size = 1154
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  russian
+		size = 12
+	 } 
+	soldiers = {
+		culture = russian
+		religion = russian
+		size = 4619
+	 } 
+	aristocrats = {
+		culture = russian
+		religion =  russian
+		size = 52
+	 } 
+	aristocrats = {
+		culture = russian
+		religion = russian
+		size = 152
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  russian
+		size = 12
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = russian
+		size = 384
+	 } 
+	capitalists = {
+		culture = russian
+		religion =  russian
+		size = 742
+	 } 
+	capitalists = {
+		culture = russian
+		religion = russian
+		size = 1924
+	 } 
+	clergymen = {
+		culture = russian
+		religion =  russian
+		size = 142
+	 } 
+	clergymen = {
+		culture = russian
+		religion = russian
+		size = 32
+	 } 
+	artisans = {
+		culture = russian
+		religion =  russian
+		size = 722
+	 } 
+	artisans = {
+		culture = russian
+		religion = russian
+		size = 2
+	 } 
+	farmers = {
+		culture = russian
+		religion =  russian
+		size = 8202
+	 } 
+	farmers = {
+		culture = russian
+		religion = russian
+		size = 822
+	 } 
+	farmers = {
+		culture = russian
+		religion =  russian
+		size = 742
+	 } 
+	farmers = {
+		culture = manchu
+		religion = russian
+		size = 19246
+	 } 
+}
+

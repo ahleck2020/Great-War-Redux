@@ -1,0 +1,360 @@
+#Leeward Islands Region - 61600
+#Ruled by Britain 1836
+#Antigua (25000/6250 POPS) #now independent
+2224 = {
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 56
+	 } 
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 33
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 136
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 341
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 112
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 1
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 22
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 113
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 1
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 119
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 1
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 9991
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 100
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  jewish 
+		size = 296
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = jewish 
+		size = 2
+	 } 
+}
+#Montserrat (5300/1325 POPS) #still British Colony
+2225 = {
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 2
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 9
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  jewish 
+		size = 20
+	 } 
+	aristocrats = {
+		culture = british
+		religion = jewish 
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  jewish 
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = british
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 4
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 1
+	 } 
+	clergymen = {
+		culture = british
+		religion =  jewish 
+		size = 16
+	 } 
+	clergymen = {
+		culture = british
+		religion = jewish 
+		size = 3
+	 } 
+	artisans = {
+		culture = british
+		religion =  jewish 
+		size = 22
+	 } 
+	artisans = {
+		culture = british
+		religion = jewish 
+		size = 5
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 621
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 145
+	 } 
+}
+#Tortola (4800/1200 POPS) #still British Colony
+2226 = {
+	officers = {
+		culture = british
+		religion =  jewish 
+		size = 4
+	 } 
+	officers = {
+		culture = british
+		religion = jewish 
+		size = 1
+	 } 
+	soldiers = {
+		culture = british
+		religion =  jewish 
+		size = 21
+	 } 
+	soldiers = {
+		culture = british
+		religion = jewish 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  jewish 
+		size = 63
+	 } 
+	aristocrats = {
+		culture = british
+		religion = jewish 
+		size = 14
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  jewish 
+		size = 7
+	 } 
+	bureaucrats = {
+		culture = british
+		religion = jewish 
+		size = 1
+	 } 
+	capitalists = {
+		culture = british
+		religion =  jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = british
+		religion = jewish 
+		size = 2
+	 } 
+	clergymen = {
+		culture = british
+		religion =  jewish 
+		size = 17
+	 } 
+	clergymen = {
+		culture = british
+		religion = jewish 
+		size = 4
+	 } 
+	artisans = {
+		culture = british
+		religion =  jewish 
+		size = 51
+	 } 
+	artisans = {
+		culture = british
+		religion = jewish 
+		size = 11
+	 } 
+	farmers = {
+		culture = british
+		religion =  jewish 
+		size = 5
+	 } 
+	farmers = {
+		culture = british
+		religion = jewish 
+		size = 1
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1393
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 326
+	 } 
+}
+#Saint Kitts (26500/6625 POPS) #now independent
+2227 = {
+	officers = {
+		culture = beifaren
+		religion =  jewish
+		size = 31
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = jewish
+		size = 1
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  jewish
+		size = 125
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = jewish
+		size = 6
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  jewish
+		size = 157
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = jewish
+		size = 7
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 261
+	 } 
+	aristocrats = {
+		culture = sephardic
+		religion = jewish 
+		size = 13
+	 } 
+	bureaucrats = {
+		culture = sephardic
+		religion =  jewish 
+		size = 10
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 52
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 2
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion =  jewish 
+		size = 104
+	 } 
+	clergymen = {
+		culture = sephardic
+		religion = jewish 
+		size = 5
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 94
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 4
+	 } 
+	artisans = {
+		culture = sephardic
+		religion =  jewish 
+		size = 23
+	 } 
+	artisans = {
+		culture = sephardic
+		religion = jewish 
+		size = 1
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 9404
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 468
+	 } 
+
+}
